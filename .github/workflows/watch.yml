@@ -2,39 +2,54 @@ name: flight-alerts
 
 on:
   schedule:
-    # Every 5 minutes. GitHub runs scheduled jobs on a best-effort basis and
-    # they are often several minutes late under load - see README.
-    - cron: "*/5 * * * *"
-  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+    # Restarts the watch loop every 5 hours. The loop itself runs longer than
+    # this, so a new run overlaps and takes over — coverage stays continuous
+    # even though GitHub's scheduler is only best-effort.
+    - cron: "0 */5 * * *"
+  workflow_dispatch:
 
 concurrency:
-  group: flight-alerts      # never let two runs overlap and fight over state.json
-  cancel-in-progress: false
+  group: flight-alerts
+  cancel-in-progress: true   # incoming run replaces the old loop, no gap
 
 permissions:
-  contents: write           # needed to commit state.json back
+  contents: write
 
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 350      # GitHub caps jobs at 6h; stay under it
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run the watcher
+      - name: Watch loop
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python3 alert.py
-
-      - name: Persist state
         run: |
-          if [ -n "$(git status --porcelain state.json)" ]; then
-            git config user.name  "flight-alerts bot"
-            git config user.email "actions@github.com"
-            git add state.json
-            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
-            git push
-          else
-            echo "no state change"
-          fi
+          git config user.name  "flight-alerts bot"
+          git config user.email "actions@github.com"
+
+          save_state() {
+            if [ -n "$(git status --porcelain state.json)" ]; then
+              git add state.json
+              git commit -q -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]" || true
+              git pull --rebase -q origin main || true
+              git push -q origin HEAD:main || echo "push failed, continuing"
+            fi
+          }
+
+          END=$(( $(date +%s) + 20700 ))   # ~5h45m, overlaps the next schedule
+          i=0
+          while [ "$(date +%s)" -lt "$END" ]; do
+            # A crash in one tick must never kill the loop.
+            python3 alert.py || echo "tick failed, continuing"
+            i=$((i + 1))
+            # Persist roughly every 10 minutes rather than every tick, so the
+            # repo history stays readable instead of ~1400 commits a day.
+            if [ $((i % 10)) -eq 0 ]; then save_state; fi
+            sleep 60
+          done
+
+          save_state
+          echo "loop finished after $i ticks"

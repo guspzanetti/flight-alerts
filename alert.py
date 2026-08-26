@@ -33,7 +33,8 @@ UA = "flight-alerts/1.0 (hobby aviation monitor)"
 YELLOW_INTERVAL = 55 * 60      # flush the digest roughly hourly
 GREEN_INTERVAL = 24 * 60 * 60  # daily roundup
 SEEN_TTL = 6 * 60 * 60         # forget an aircraft after 6h
-ROUTE_BUDGET = 25              # max NEW route lookups per run (cache makes repeats free)
+SCAN_INTERVAL = 5 * 60         # expensive regional scan: only every 5 min
+ROUTE_BUDGET = 25              # max NEW route lookups per scan (cache makes repeats free)
 ROUTE_CACHE_MAX = 4000         # routes are static, so the cache compounds
 
 # Airline ICAO prefix -> home country, for fifth-freedom detection.
@@ -314,6 +315,18 @@ def main():
     # 3. YELLOW TIER - interesting, queued for the digest --------------------
     run = st.get("run", 0) + 1
     st["run"] = run
+    fetched = 0
+    do_scan = ts - st.get("last_scan", 0) > SCAN_INTERVAL
+    if not do_scan:
+        # Fast tick: emergencies only. The regional sweep is the expensive part,
+        # so it runs on its own slower cadence while alerts stay near real-time.
+        st.update({"seen": seen, "queue": queue[-200:], "type_counts": counts,
+                   "routes": routes, "stats": stats, "last_run": now.isoformat()})
+        save_state(st)
+        print(f"[{now:%H:%M:%S}] fast tick | feed OK ({n_ctrl}) | queued={len(queue)}")
+        return 0
+
+    st["last_scan"] = ts
     picked = [REGIONS[(run + i) % len(REGIONS)] for i in range(2)]
     snapshots = []
     for lat, lon, rname in picked:
