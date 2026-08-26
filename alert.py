@@ -456,6 +456,25 @@ def main():
                                           f"{total:,} observations",
                                   "fr24": fr24_link(a)})
 
+            # SILENT DIVERSIONS - no squawk, but going somewhere it did not file.
+            # Time-critical, so this alerts immediately rather than waiting for
+            # the digest: a diversion is usually over inside half an hour.
+            cs_d = (a.get("flight") or "").strip().upper()
+            if cs_d and routes.get(cs_d) and f"div:{cs_d}" not in seen:
+                why = diversion_check(a, routes[cs_d])
+                if why:
+                    seen[f"div:{cs_d}"] = ts
+                    stats["diversions"] += 1
+                    r = routes[cs_d]
+                    img, _ = tracks.render(hexid, f"/tmp/{hexid}.png")
+                    send("\u26a0\ufe0f <b>POSSIBLE DIVERSION</b>\n\n"
+                         f"<b>{cs_d}</b> - {typ or '?'} ({a.get('r','?')})\n"
+                         f"Filed: {r['iata']}\n"
+                         f"{why.capitalize()}\n"
+                         f"Position: {a['lat']:.3f}, {a['lon']:.3f}\n"
+                         f"Speed: {a.get('gs','?')} kt",
+                         fr24_link(a), img)
+
             # ODD TRACK SHAPES - the category the group actually posts.
             # Guarded against the two things that made this useless before:
             # positions older than STALE_MAX, and stale duplicate coordinates.
