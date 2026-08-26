@@ -63,7 +63,9 @@ AIRLINE_CC = {
     "SAA": "ZA", "HVN": "VN", "ABW": "RU", "AZG": "AZ", "UZB": "UZ", "PIA": "PK",
 }
 
-SQUAWKS = {"7700": "GENERAL EMERGENCY", "7600": "RADIO FAILURE", "7500": "HIJACK"}
+# 7600 (radio failure) deliberately omitted: in testing every instance was a
+# non-event - a taxiing airliner, a light trainer, a manufacturer's test jet.
+SQUAWKS = {"7700": "GENERAL EMERGENCY", "7500": "HIJACK"}
 
 # Rotating scan regions - full sweep every ~4 runs.
 REGIONS = [
@@ -203,6 +205,43 @@ def send(text, fr24=None, photo=None):
 
 
 # ---------------------------------------------------------------- helpers
+MIL_HINT = ("RRR", "RCH", "PAT", "CNV", "EVAC", "SPAR", "SAM", "NATO", "CFC",
+            "ASY", "IAM", "GAF", "FAB", "BRS", "AME", "HKY", "TROY", "DOOM")
+
+
+def is_noise(a):
+    """True for private and flight-school traffic - the Cessnas and Pipers.
+
+    The distinction is in the callsign. Airlines broadcast a three-letter ICAO
+    code plus a number (BAW117, UAE349). Private aircraft broadcast their own
+    registration, so callsign and registration match, or the callsign simply
+    looks like a tail number. Military serials and callsigns are kept.
+    """
+    typ = (a.get("t") or "").upper()
+    cs = (a.get("flight") or "").strip().upper()
+    reg = (a.get("r") or "").strip().upper()
+
+    # Anything explicitly interesting is never noise.
+    if a.get("category") == "B6":                      # unmanned
+        return False
+    if any(cs.startswith(m) for m in MIL_HINT):        # known military callsigns
+        return False
+    if reg and reg[:1].isdigit() and "-" in reg:       # US mil serial, e.g. 61-0034
+        return False
+    if reg.startswith(("ZM", "ZZ", "ZJ", "ZK", "ZH")): # UK military serials
+        return False
+    if reg.isdigit() and len(reg) in (4, 6):           # BuNo / USCG serial
+        return False
+
+    # Airline callsign: three letters then a digit.
+    if len(cs) >= 4 and cs[:3].isalpha() and cs[3:4].isdigit():
+        return False
+
+    # Otherwise: callsign is a registration, or absent, and the type is light.
+    looks_private = (not cs) or cs == reg.replace("-", "") or cs == reg
+    return looks_private or typ in TRAINERS
+
+
 def fr24_link(a):
     """Build a link the Flightradar24 app will actually open.
 
@@ -394,7 +433,7 @@ def main():
 
             # drones: emitter category B6, airborne and high
             alt = a.get("alt_baro")
-            if a.get("category") == "B6" and isinstance(alt, int) and alt > 5000:
+            if not is_noise(a) and a.get("category") == "B6" and isinstance(alt, int) and alt > 5000:
                 key = f"uav:{hexid}"
                 if key not in seen:
                     seen[key] = ts
@@ -406,7 +445,7 @@ def main():
 
             # measured rarity: uncommon type once we have enough observations
             total = sum(counts.values())
-            if typ and total > 4000 and counts.get(typ, 0) <= max(2, total // 4000):
+            if not is_noise(a) and typ and total > 4000 and counts.get(typ, 0) <= max(2, total // 4000):
                 key = f"rare:{hexid}"
                 if key not in seen:
                     seen[key] = ts
@@ -420,7 +459,8 @@ def main():
             # ODD TRACK SHAPES - the category the group actually posts.
             # Guarded against the two things that made this useless before:
             # positions older than STALE_MAX, and stale duplicate coordinates.
-            if a.get("lat") is not None and isinstance(alt, int) and typ not in TRAINERS:
+            if (a.get("lat") is not None and isinstance(alt, int)
+                    and not is_noise(a)):
                 p = prev.get(hexid)
                 if p and len(p) == 3 and ts - p[2] <= STALE_MAX:
                     dist = nm(p[0], p[1], a["lat"], a["lon"])
