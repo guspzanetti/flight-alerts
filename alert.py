@@ -258,6 +258,26 @@ def save_state(s):
 
 
 # ---------------------------------------------------------------- main
+def hello():
+    """One-time 'I am alive' ping when the loop starts.
+
+    Without this, a silent bot is ambiguous: you cannot tell a broken pipeline
+    from a quiet sky. This makes the wiring self-evident.
+    """
+    if not TOKEN or not CHAT:
+        print("[dry-run] startup ping suppressed - no telegram secrets set")
+        return 0
+    send("\u2708\ufe0f <b>Flight alerts is live</b>\n\n"
+         "Watching for:\n"
+         "\U0001f6a8 emergency squawks (7700 / 7600 / 7500) - sent instantly\n"
+         "\U0001f30d unusual routings, drones and rare types - hourly digest\n"
+         "\U0001f305 a roundup every 24h\n\n"
+         "<i>Polling every 60 seconds. Most of the time you will hear nothing, "
+         "which is the point.</i>")
+    print("startup ping sent")
+    return 0
+
+
 def main():
     now = datetime.now(timezone.utc)
     ts = now.timestamp()
@@ -431,4 +451,6 @@ def main():
 
 
 if __name__ == "__main__":
+    if "--hello" in sys.argv:
+        sys.exit(hello())
     sys.exit(main())

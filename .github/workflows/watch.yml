@@ -39,6 +39,9 @@ jobs:
             fi
           }
 
+          # Announce the loop is alive, so silence is unambiguous.
+          python3 alert.py --hello || true
+
           END=$(( $(date +%s) + 20700 ))   # ~5h45m, overlaps the next schedule
           i=0
           while [ "$(date +%s)" -lt "$END" ]; do
