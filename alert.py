@@ -311,16 +311,32 @@ def diversion_check(a, route):
     if isinstance(rate, (int, float)) and rate > 200:
         return None                       # climbing away: a departure, not a diversion
 
-    d = nm(a["lat"], a["lon"], dest["lat"], dest["lon"])
-    if alt < 12000 and d > 80:
-        return f"descending through {alt:,} ft but still {d:,.0f} nm from {dest['iata']}"
+    # Measure against the NEAREST airport on the filed route, not the last leg.
+    # Two false-positive classes disappear with this:
+    #   multi-leg  - LAN748 is SCL-GRU-EZE; descending into GRU, its real next
+    #                stop, it sits ~1,000 nm from EZE and looked like a diversion
+    #   round trip - AAL1624 is DFW-DCA-DFW, so the "destination" is the origin
+    # An aircraft descending towards anywhere it filed is not diverting.
+    pts = [(nm(a["lat"], a["lon"], L["lat"], L["lon"]), L.get("iata") or "?")
+           for L in route["legs"] if L.get("lat") is not None]
+    if not pts:
+        return None
+    d, near = min(pts)
+
+    # 150 nm, not 80: descent typically begins 100-150 nm out, so an airliner at
+    # 11,000 ft with 90 nm to run is flying a normal approach.
+    if alt < 10000 and d > 150:
+        return (f"descending through {alt:,} ft, {d:,.0f} nm from the nearest "
+                f"airport on its route ({near})")
 
     trk = a.get("track")
-    if trk is not None and alt < 20000 and d > 120:
+    if trk is not None and alt < 20000 and d > 250:
+        dest = min((L for L in route["legs"] if L.get("lat") is not None),
+                   key=lambda L: nm(a["lat"], a["lon"], L["lat"], L["lon"]))
         brg = bearing(a["lat"], a["lon"], dest["lat"], dest["lon"])
         off = abs((trk - brg + 180) % 360 - 180)
-        if off > 90:
-            return (f"tracking {off:.0f}\u00b0 away from {dest['iata']}, "
+        if off > 120:
+            return (f"tracking {off:.0f}\u00b0 away from {near}, "
                     f"{d:,.0f} nm out at {alt:,} ft")
     return None
 
