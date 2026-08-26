@@ -1,0 +1,40 @@
+name: flight-alerts
+
+on:
+  schedule:
+    # Every 5 minutes. GitHub runs scheduled jobs on a best-effort basis and
+    # they are often several minutes late under load - see README.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+
+concurrency:
+  group: flight-alerts      # never let two runs overlap and fight over state.json
+  cancel-in-progress: false
+
+permissions:
+  contents: write           # needed to commit state.json back
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run the watcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 alert.py
+
+      - name: Persist state
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name  "flight-alerts bot"
+            git config user.email "actions@github.com"
+            git add state.json
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          else
+            echo "no state change"
+          fi
