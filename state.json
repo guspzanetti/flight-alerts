@@ -1,0 +1,1029 @@
+{
+ "last_green": 1787762120.329193,
+ "last_run": "2026-08-26T16:46:16.324825+00:00",
+ "last_scan": 1787762488.976169,
+ "last_yellow": 1787762120.329193,
+ "queue": [
+  {
+   "fr24": "https://www.flightradar24.com/SCORE90",
+   "hex": "ae5c73",
+   "icon": "\ud83d\udef8",
+   "kind": "UAV",
+   "photo": true,
+   "text": "<b>SCORE90</b> - unmanned aircraft at 50,800 ft over US Northeast"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N555TN",
+   "hex": "14e3b4",
+   "icon": "\ud83d\udef8",
+   "kind": "UAV",
+   "photo": true,
+   "text": "<b>N555TN</b> - unmanned aircraft at 12,700 ft over US West"
+  }
+ ],
+ "routes": {
+  "AAL1880": {
+   "airline": "AAL",
+   "iata": "JFK-DFW",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "JFK",
+     "lat": 40.639801,
+     "lon": -73.7789
+    },
+    {
+     "cc": "US",
+     "iata": "DFW",
+     "lat": 32.896801,
+     "lon": -97.038002
+    }
+   ]
+  },
+  "AAL516": {
+   "airline": "AAL",
+   "iata": "DEN-PHL",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "DEN",
+     "lat": 39.861698,
+     "lon": -104.672997
+    },
+    {
+     "cc": "US",
+     "iata": "PHL",
+     "lat": 39.871899,
+     "lon": -75.241096
+    }
+   ]
+  },
+  "AFR030": null,
+  "ANA101": null,
+  "AZU2406": {
+   "airline": "AZU",
+   "iata": "VCP-IGU",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "IGU",
+     "lat": -25.600279,
+     "lon": -54.485001
+    }
+   ]
+  },
+  "AZU2624": {
+   "airline": "AZU",
+   "iata": "VCP-POA",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "POA",
+     "lat": -29.9944,
+     "lon": -51.171398
+    }
+   ]
+  },
+  "AZU2704": {
+   "airline": "AZU",
+   "iata": "NVT-VCP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "NVT",
+     "lat": -26.879999,
+     "lon": -48.651402
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    }
+   ]
+  },
+  "AZU2741": {
+   "airline": "AZU",
+   "iata": "POA-VCP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "POA",
+     "lat": -29.9944,
+     "lon": -51.171398
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    }
+   ]
+  },
+  "AZU4056": {
+   "airline": "AZU",
+   "iata": "VCP-MAO",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "MAO",
+     "lat": -3.03861,
+     "lon": -60.049702
+    }
+   ]
+  },
+  "AZU4070": {
+   "airline": "AZU",
+   "iata": "VCP-BEL",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "BEL",
+     "lat": -1.37925,
+     "lon": -48.476299
+    }
+   ]
+  },
+  "AZU4384": {
+   "airline": "AZU",
+   "iata": "VCP-ROO",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "ROO",
+     "lat": -16.586,
+     "lon": -54.7248
+    }
+   ]
+  },
+  "AZU4866": {
+   "airline": "AZU",
+   "iata": "VCP-GYN",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "GYN",
+     "lat": -16.632,
+     "lon": -49.220699
+    }
+   ]
+  },
+  "AZU4876": {
+   "airline": "AZU",
+   "iata": "SJP-VCP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "SJP",
+     "lat": -20.816601,
+     "lon": -49.406502
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    }
+   ]
+  },
+  "AZU5041": {
+   "airline": "AZU",
+   "iata": "CGB-VCP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGB",
+     "lat": -15.6529,
+     "lon": -56.116699
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    }
+   ]
+  },
+  "CPA830": {
+   "airline": "CPA",
+   "iata": "HKG-JFK",
+   "legs": [
+    {
+     "cc": "HK",
+     "iata": "HKG",
+     "lat": 22.308901,
+     "lon": 113.915001
+    },
+    {
+     "cc": "US",
+     "iata": "JFK",
+     "lat": 40.639801,
+     "lon": -73.7789
+    }
+   ]
+  },
+  "DAL1384": {
+   "airline": "DAL",
+   "iata": "ATL-BUF-ATL",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    },
+    {
+     "cc": "US",
+     "iata": "BUF",
+     "lat": 42.940498,
+     "lon": -78.732201
+    },
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    }
+   ]
+  },
+  "DAL2476": null,
+  "DAL2511": {
+   "airline": "DAL",
+   "iata": "ATL-ROC-ATL",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    },
+    {
+     "cc": "US",
+     "iata": "ROC",
+     "lat": 43.1189,
+     "lon": -77.672401
+    },
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    }
+   ]
+  },
+  "DAL2564": null,
+  "DAL2917": {
+   "airline": "DAL",
+   "iata": "LGA-ORD-LGA",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "LGA",
+     "lat": 40.777199,
+     "lon": -73.872597
+    },
+    {
+     "cc": "US",
+     "iata": "ORD",
+     "lat": 41.9786,
+     "lon": -87.9048
+    },
+    {
+     "cc": "US",
+     "iata": "LGA",
+     "lat": 40.777199,
+     "lon": -73.872597
+    }
+   ]
+  },
+  "DAL2951": null,
+  "DAL71": null,
+  "DAL73": {
+   "airline": "DAL",
+   "iata": "AMS-ATL",
+   "legs": [
+    {
+     "cc": "NL",
+     "iata": "AMS",
+     "lat": 52.308601,
+     "lon": 4.76389
+    },
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    }
+   ]
+  },
+  "DAL917": {
+   "airline": "DAL",
+   "iata": "JFK-SLC",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "JFK",
+     "lat": 40.639801,
+     "lon": -73.7789
+    },
+    {
+     "cc": "US",
+     "iata": "SLC",
+     "lat": 40.788399,
+     "lon": -111.977997
+    }
+   ]
+  },
+  "FWULR": null,
+  "GLO1137": null,
+  "GLO1409": {
+   "airline": "GLO",
+   "iata": "BSB-CGH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "BSB",
+     "lat": -15.869167,
+     "lon": -47.920834
+    },
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    }
+   ]
+  },
+  "GLO1425": {
+   "airline": "GLO",
+   "iata": "CGB-CGH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGB",
+     "lat": -15.6529,
+     "lon": -56.116699
+    },
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    }
+   ]
+  },
+  "GLO7481": {
+   "airline": "GLO",
+   "iata": "ASU-GRU",
+   "legs": [
+    {
+     "cc": "PY",
+     "iata": "ASU",
+     "lat": -25.24,
+     "lon": -57.52
+    },
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    }
+   ]
+  },
+  "LAN754": {
+   "airline": "LAN",
+   "iata": "SCL-GRU",
+   "legs": [
+    {
+     "cc": "CL",
+     "iata": "SCL",
+     "lat": -33.393002,
+     "lon": -70.785797
+    },
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    }
+   ]
+  },
+  "N35ZA": null,
+  "QFA652": {
+   "airline": "QFA",
+   "iata": "PER-SYD",
+   "legs": [
+    {
+     "cc": "AU",
+     "iata": "PER",
+     "lat": -31.9403,
+     "lon": 115.967003
+    },
+    {
+     "cc": "AU",
+     "iata": "SYD",
+     "lat": -33.946098,
+     "lon": 151.177002
+    }
+   ]
+  },
+  "QFA7290": {
+   "airline": "QFA",
+   "iata": "MEL-BNE",
+   "legs": [
+    {
+     "cc": "AU",
+     "iata": "MEL",
+     "lat": -37.673302,
+     "lon": 144.843002
+    },
+    {
+     "cc": "AU",
+     "iata": "BNE",
+     "lat": -27.384199,
+     "lon": 153.117004
+    }
+   ]
+  },
+  "QFA7353": {
+   "airline": "QFA",
+   "iata": "MEL-BNE",
+   "legs": [
+    {
+     "cc": "AU",
+     "iata": "MEL",
+     "lat": -37.673302,
+     "lon": 144.843002
+    },
+    {
+     "cc": "AU",
+     "iata": "BNE",
+     "lat": -27.384199,
+     "lon": 153.117004
+    }
+   ]
+  },
+  "TAM3016": {
+   "airline": "TAM",
+   "iata": "GRU-BEL",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "BR",
+     "iata": "BEL",
+     "lat": -1.37925,
+     "lon": -48.476299
+    }
+   ]
+  },
+  "TAM3121": {
+   "airline": "TAM",
+   "iata": "LDB-CGH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "LDB",
+     "lat": -23.333599,
+     "lon": -51.1301
+    },
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    }
+   ]
+  },
+  "TAM3272": {
+   "airline": "TAM",
+   "iata": "CGH-NVT",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    },
+    {
+     "cc": "BR",
+     "iata": "NVT",
+     "lat": -26.879999,
+     "lon": -48.651402
+    }
+   ]
+  },
+  "TAM3296": {
+   "airline": "TAM",
+   "iata": "GRU-MAO",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "BR",
+     "iata": "MAO",
+     "lat": -3.03861,
+     "lon": -60.049702
+    }
+   ]
+  },
+  "TAM3712": null,
+  "TAM8080": {
+   "airline": "TAM",
+   "iata": "GRU-AEP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "AR",
+     "iata": "AEP",
+     "lat": -34.5592,
+     "lon": -58.4156
+    }
+   ]
+  },
+  "TAM8193": {
+   "airline": "TAM",
+   "iata": "AEP-GRU",
+   "legs": [
+    {
+     "cc": "AR",
+     "iata": "AEP",
+     "lat": -34.5592,
+     "lon": -58.4156
+    },
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    }
+   ]
+  },
+  "UAL1343": {
+   "airline": "UAL",
+   "iata": "SRQ-EWR-SFO",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "SRQ",
+     "lat": 27.395399,
+     "lon": -82.554398
+    },
+    {
+     "cc": "US",
+     "iata": "EWR",
+     "lat": 40.692501,
+     "lon": -74.168701
+    },
+    {
+     "cc": "US",
+     "iata": "SFO",
+     "lat": 37.618999,
+     "lon": -122.375
+    }
+   ]
+  },
+  "UAL1536": null,
+  "UAL1606": {
+   "airline": "UAL",
+   "iata": "ORD-BOS",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "ORD",
+     "lat": 41.9786,
+     "lon": -87.9048
+    },
+    {
+     "cc": "US",
+     "iata": "BOS",
+     "lat": 42.3643,
+     "lon": -71.005203
+    }
+   ]
+  },
+  "UAL1856": {
+   "airline": "UAL",
+   "iata": "DSM-ORD-EWR",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "DSM",
+     "lat": 41.534,
+     "lon": -93.663101
+    },
+    {
+     "cc": "US",
+     "iata": "ORD",
+     "lat": 41.9786,
+     "lon": -87.9048
+    },
+    {
+     "cc": "US",
+     "iata": "EWR",
+     "lat": 40.692501,
+     "lon": -74.168701
+    }
+   ]
+  },
+  "UAL1999": {
+   "airline": "UAL",
+   "iata": "TPA-EWR-DEN",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "TPA",
+     "lat": 27.9755,
+     "lon": -82.533203
+    },
+    {
+     "cc": "US",
+     "iata": "EWR",
+     "lat": 40.692501,
+     "lon": -74.168701
+    },
+    {
+     "cc": "US",
+     "iata": "DEN",
+     "lat": 39.861698,
+     "lon": -104.672997
+    }
+   ]
+  },
+  "UAL2163": null,
+  "UAL267": {
+   "airline": "UAL",
+   "iata": "BDL-ORD",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "BDL",
+     "lat": 41.9389,
+     "lon": -72.683197
+    },
+    {
+     "cc": "US",
+     "iata": "ORD",
+     "lat": 41.9786,
+     "lon": -87.9048
+    }
+   ]
+  },
+  "UAL471": {
+   "airline": "UAL",
+   "iata": "SAT-IAD-ATL",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "SAT",
+     "lat": 29.533701,
+     "lon": -98.469803
+    },
+    {
+     "cc": "US",
+     "iata": "IAD",
+     "lat": 38.9445,
+     "lon": -77.455803
+    },
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    }
+   ]
+  },
+  "UAL515": null,
+  "UAL558": {
+   "airline": "UAL",
+   "iata": "DEN-BOS",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "DEN",
+     "lat": 39.861698,
+     "lon": -104.672997
+    },
+    {
+     "cc": "US",
+     "iata": "BOS",
+     "lat": 42.3643,
+     "lon": -71.005203
+    }
+   ]
+  },
+  "UAL728": {
+   "airline": "UAL",
+   "iata": "CMH-DEN-SJC",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "CMH",
+     "lat": 39.998001,
+     "lon": -82.891899
+    },
+    {
+     "cc": "US",
+     "iata": "DEN",
+     "lat": 39.861698,
+     "lon": -104.672997
+    },
+    {
+     "cc": "US",
+     "iata": "SJC",
+     "lat": 37.362598,
+     "lon": -121.929001
+    }
+   ]
+  }
+ },
+ "run": 10,
+ "seen": {
+  "sqk7600:39a3fb": 1787762120.329193,
+  "sqk7600:a3e4b4": 1787762222.166398,
+  "uav:14e3b4": 1787762120.329193,
+  "uav:ae5c73": 1787762120.329193
+ },
+ "stats": {
+  "diversions": 0,
+  "emergencies": 2,
+  "finds": 0
+ },
+ "type_counts": {
+  "A109": 1,
+  "A20N": 30,
+  "A21N": 39,
+  "A319": 18,
+  "A320": 40,
+  "A321": 47,
+  "A32P": 1,
+  "A332": 6,
+  "A333": 11,
+  "A339": 3,
+  "A346": 2,
+  "A359": 3,
+  "AA5": 6,
+  "ALTO": 1,
+  "AP32": 1,
+  "AS50": 14,
+  "AS55": 1,
+  "AT76": 1,
+  "B06": 10,
+  "B350": 8,
+  "B38M": 66,
+  "B39M": 21,
+  "B407": 7,
+  "B427": 1,
+  "B429": 3,
+  "B463": 1,
+  "B737": 45,
+  "B738": 70,
+  "B739": 21,
+  "B748": 2,
+  "B752": 7,
+  "B753": 2,
+  "B762": 1,
+  "B763": 8,
+  "B764": 7,
+  "B772": 5,
+  "B77L": 4,
+  "B77W": 6,
+  "B788": 4,
+  "B789": 7,
+  "B78X": 2,
+  "BCS1": 3,
+  "BCS3": 26,
+  "BE20": 9,
+  "BE23": 1,
+  "BE24": 1,
+  "BE30": 1,
+  "BE33": 6,
+  "BE35": 7,
+  "BE36": 7,
+  "BE40": 4,
+  "BE55": 2,
+  "BE58": 3,
+  "BE76": 1,
+  "BE95": 1,
+  "BE9L": 1,
+  "BE9T": 2,
+  "BL8": 1,
+  "BT36": 1,
+  "C130": 2,
+  "C150": 10,
+  "C152": 9,
+  "C170": 2,
+  "C172": 202,
+  "C177": 5,
+  "C180": 2,
+  "C182": 31,
+  "C185": 2,
+  "C207": 1,
+  "C208": 18,
+  "C210": 2,
+  "C240": 1,
+  "C25A": 2,
+  "C25B": 2,
+  "C25C": 2,
+  "C25M": 2,
+  "C30J": 3,
+  "C310": 2,
+  "C340": 2,
+  "C402": 5,
+  "C414": 1,
+  "C421": 1,
+  "C500": 1,
+  "C510": 3,
+  "C550": 1,
+  "C560": 3,
+  "C56X": 6,
+  "C680": 2,
+  "C68A": 13,
+  "C700": 6,
+  "C72R": 6,
+  "C750": 4,
+  "C77R": 1,
+  "C82R": 2,
+  "C82S": 4,
+  "C82T": 1,
+  "CL30": 10,
+  "CL35": 12,
+  "CL60": 10,
+  "COL3": 1,
+  "COL4": 1,
+  "COZY": 1,
+  "CRJ2": 6,
+  "CRJ7": 18,
+  "CRJ9": 31,
+  "CRUZ": 2,
+  "DA40": 7,
+  "DC3T": 1,
+  "DH8D": 3,
+  "DHC6": 3,
+  "E120": 1,
+  "E135": 3,
+  "E145": 6,
+  "E170": 9,
+  "E2": 1,
+  "E295": 5,
+  "E45X": 1,
+  "E50P": 1,
+  "E545": 7,
+  "E550": 6,
+  "E55P": 20,
+  "E75L": 87,
+  "EA50": 1,
+  "EC30": 4,
+  "EC35": 4,
+  "EC45": 3,
+  "EFOX": 1,
+  "EPIC": 1,
+  "ERCO": 1,
+  "EV97": 1,
+  "EVSS": 1,
+  "F2TH": 5,
+  "F900": 3,
+  "FA20": 1,
+  "FA7X": 1,
+  "G280": 4,
+  "G2CA": 1,
+  "G2T1": 1,
+  "GA6C": 2,
+  "GL5T": 3,
+  "GL7T": 2,
+  "GLEX": 8,
+  "GLF4": 5,
+  "GLF5": 8,
+  "GLF6": 1,
+  "GLID": 1,
+  "H160": 1,
+  "H25B": 8,
+  "H47": 1,
+  "H500": 5,
+  "H60": 11,
+  "HDJT": 2,
+  "HUSK": 1,
+  "L39": 1,
+  "LJ45": 6,
+  "LJ60": 1,
+  "LNP4": 1,
+  "LS8": 1,
+  "M20P": 13,
+  "M20T": 3,
+  "M7T": 1,
+  "MC01": 1,
+  "MU2": 1,
+  "NAVI": 1,
+  "NG5": 1,
+  "O1": 1,
+  "OSCR": 1,
+  "P06T": 2,
+  "P212": 2,
+  "P28A": 141,
+  "P28B": 2,
+  "P28R": 7,
+  "P32R": 2,
+  "P337": 1,
+  "P46T": 4,
+  "P68": 2,
+  "PA11": 1,
+  "PA18": 1,
+  "PA20": 1,
+  "PA23": 1,
+  "PA25": 1,
+  "PA30": 1,
+  "PA31": 4,
+  "PA32": 9,
+  "PA34": 3,
+  "PA44": 6,
+  "PA46": 1,
+  "PC12": 21,
+  "PIAT": 3,
+  "PISI": 1,
+  "PRM1": 1,
+  "Q4": 1,
+  "R22": 1,
+  "R44": 3,
+  "RANG": 1,
+  "RELI": 1,
+  "RF10": 1,
+  "RV10": 1,
+  "RV12": 3,
+  "RV6": 2,
+  "RV7": 1,
+  "RV8": 1,
+  "RV9": 1,
+  "S22T": 11,
+  "S92": 3,
+  "SC7": 1,
+  "SF50": 3,
+  "SIRA": 1,
+  "SLG2": 3,
+  "SLG4": 10,
+  "SONX": 1,
+  "SR20": 17,
+  "SR22": 18,
+  "ST75": 1,
+  "SW4": 1,
+  "T206": 7,
+  "T210": 2,
+  "TB20": 2,
+  "TBM7": 1,
+  "TBM8": 1,
+  "TUCA": 1,
+  "TWR": 3,
+  "U21": 2,
+  "UH1": 3,
+  "V10": 1,
+  "VR7": 1
+ }
+}
