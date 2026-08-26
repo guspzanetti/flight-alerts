@@ -1,7 +1,7 @@
 {
  "last_green": 1787762120.329193,
- "last_run": "2026-08-26T17:09:59.452526+00:00",
- "last_scan": 1787763926.066792,
+ "last_run": "2026-08-26T17:21:22.623680+00:00",
+ "last_scan": 1787764608.840706,
  "last_yellow": 1787762120.329193,
  "queue": [
   {
@@ -67,6 +67,494 @@
    "kind": "UAV",
    "photo": true,
    "text": "<b>UNIDENT</b> - unmanned aircraft at 11,975 ft over Gulf"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/LAN762",
+   "hex": null,
+   "icon": "\ud83c\udf0d",
+   "kind": "ROUTE",
+   "photo": false,
+   "text": "<b>LAN762</b> SCL-GRU-MVD (A20N)\n    foreign-to-foreign: GRU (BR) \u2192 MVD (UY)"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/QTR31T",
+   "hex": null,
+   "icon": "\ud83c\udf0d",
+   "kind": "ROUTE",
+   "photo": false,
+   "text": "<b>QTR31T</b> DOH-MXP-ORD (B77L)\n    foreign-to-foreign: MXP (IT) \u2192 ORD (US)"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/SAS541",
+   "hex": null,
+   "icon": "\ud83c\udf0d",
+   "kind": "ROUTE",
+   "photo": false,
+   "text": "<b>SAS541</b> CPH-MAN (A20N)\n    foreign-to-foreign: CPH (DK) \u2192 MAN (GB)"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/SAS2535",
+   "hex": null,
+   "icon": "\ud83c\udf0d",
+   "kind": "ROUTE",
+   "photo": false,
+   "text": "<b>SAS2535</b> CPH-BHX (CRJ9)\n    foreign-to-foreign: CPH (DK) \u2192 BHX (GB)"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N2532K",
+   "hex": "a2654b",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>VR7</b> - N2532K (N2532K) over US Northeast. Seen 2x in 4,002 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N3LE",
+   "hex": "a31b9f",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>C207</b> - N3LE (N3LE) over US Northeast. Seen 2x in 4,005 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/UCA4815",
+   "hex": "a1c0ec",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>E45X</b> - UCA4815 (N21197) over US Northeast. Seen 2x in 4,006 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N21ZZ",
+   "hex": "a1b980",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>RANG</b> - N21ZZ (N21ZZ) over US Northeast. Seen 2x in 4,063 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/MUSL",
+   "hex": "ae624f",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>B212</b> - MUSL (71-58277) over US Northeast. Seen 1x in 4,075 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N46HL",
+   "hex": "a597fc",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>PAY4</b> - N46HL (N46HL) over US Northeast. Seen 1x in 4,100 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N9265R",
+   "hex": "acd78b",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>PA46</b> - N9265R (N9265R) over US Northeast. Seen 2x in 4,123 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N472SF",
+   "hex": "a5ca1e",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>GLAS</b> - N472SF (N472SF) over US Northeast. Seen 1x in 4,134 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N921LL",
+   "hex": "acc2e6",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>EC55</b> - N921LL (N921LL) over US Northeast. Seen 2x in 4,165 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/JZA876",
+   "hex": "c00b93",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>E75S</b> - JZA876 (C-FEJY) over US Northeast. Seen 2x in 4,177 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/MUSL",
+   "hex": "ae624e",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>B212</b> - MUSL (69-7538) over US Northeast. Seen 2x in 4,180 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N2150P",
+   "hex": "a1ce7b",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>PA23</b> - N2150P (N2150P) over US Northeast. Seen 2x in 4,186 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N915NP",
+   "hex": "acaa78",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>NG5</b> - N915NP (N915NP) over US Northeast. Seen 2x in 4,198 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N8992P",
+   "hex": "ac696f",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>PA24</b> - N8992P (N8992P) over US Northeast. Seen 1x in 4,199 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/GU81",
+   "hex": "ae63fa",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>T38</b> - GU81 (67-14923) over US Northeast. Seen 1x in 4,224 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N679SP",
+   "hex": "a8fec5",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>RV9</b> - N679SP (N679SP) over US Northeast. Seen 2x in 4,250 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N89033",
+   "hex": "ac4831",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>C140</b> - N89033 (N89033) over US Northeast. Seen 1x in 4,253 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N101GC",
+   "hex": "a00904",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>SONX</b> - N101GC (N101GC) over US Northeast. Seen 2x in 4,260 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N550DH",
+   "hex": "a6ffbe",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>ST75</b> - N550DH (N550DH) over US Northeast. Seen 2x in 4,263 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/BISON45",
+   "hex": "ae6bb5",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>V22</b> - BISON45 (169468) over US Northeast. Seen 1x in 4,286 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/DO04",
+   "hex": "ae63f3",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>T38</b> - DO04 (68-8185) over US Northeast. Seen 2x in 4,300 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N40TD",
+   "hex": "a4abf5",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>COZY</b> - N40TD (N40TD) over US Northeast. Seen 2x in 4,315 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/UPS5195",
+   "hex": "a0cbff",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>A306</b> - UPS5195 (N150UP) over US Northeast. Seen 1x in 4,335 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N852AM",
+   "hex": "abaed2",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>TBM8</b> - N852AM (N852AM) over US Northeast. Seen 2x in 4,347 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N97SM",
+   "hex": "ad82e8",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>RF10</b> - N97SM (N97SM) over US Northeast. Seen 2x in 4,352 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N808TL",
+   "hex": "ab0149",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>ULAC</b> - N808TL (N808TL) over US Northeast. Seen 2x in 4,359 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N38HF",
+   "hex": "a459a6",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>S76</b> - N38HF (N38HF) over US Northeast. Seen 1x in 4,360 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/C6510",
+   "hex": "ae2664",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>AS65</b> - C6510 (6510) over US Northeast. Seen 1x in 4,370 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N766WM",
+   "hex": "aa59d2",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>PA18</b> - N766WM (N766WM) over US Northeast. Seen 2x in 4,386 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N487GC",
+   "hex": "a60333",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>G103</b> - N487GC (N487GC) over US Northeast. Seen 1x in 4,388 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/NC4689",
+   "hex": "a5bae6",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>TVLB</b> - NC4689 (N4689) over US Northeast. Seen 1x in 4,397 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N5829R",
+   "hex": "a780f9",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>G109</b> - N5829R (N5829R) over US Northeast. Seen 1x in 4,400 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/SCORE90",
+   "hex": "ae5c73",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>Q4</b> - SCORE90 (168459) over US Northeast. Seen 2x in 4,430 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/ROCCO32",
+   "hex": "ae5bc6",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>B762</b> - ROCCO32 (16-46021) over US Northeast. Seen 2x in 4,456 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/CFBKB",
+   "hex": "c003aa",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>DC3T</b> - CFBKB (C-FBKB) over US Northeast. Seen 2x in 4,469 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N159G",
+   "hex": "a0ec34",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>ALTO</b> - N159G (N159G) over US Northeast. Seen 2x in 4,486 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/DAL2577",
+   "hex": "ad675d",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>B712</b> - DAL2577 (N963AT) over US Northeast. Seen 1x in 4,493 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/RCH1844",
+   "hex": "ae0584",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>C5M</b> - RCH1844 (87-0039) over US Northeast. Seen 1x in 4,551 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/DAL2044",
+   "hex": "ad3870",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>B712</b> - DAL2044 (N951AT) over US Northeast. Seen 2x in 4,591 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N6683Y",
+   "hex": "a8d4c9",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>B58T</b> - N6683Y (N6683Y) over US Northeast. Seen 1x in 4,658 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N497RV",
+   "hex": "a62ba4",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>RV14</b> - N497RV (N497RV) over US Northeast. Seen 1x in 4,673 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N4350W",
+   "hex": "a5381e",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>BE24</b> - N4350W (N4350W) over US Northeast. Seen 2x in 4,727 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N441WD",
+   "hex": "a5504c",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>C441</b> - N441WD (N441WD) over US Northeast. Seen 1x in 4,736 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/JUMP1",
+   "hex": "aa1aa8",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>P750</b> - JUMP1 (N750GJ) over US Northeast. Seen 1x in 4,744 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N4968W",
+   "hex": "a629e7",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>AC11</b> - N4968W (N4968W) over US Northeast. Seen 1x in 4,749 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N455HS",
+   "hex": "a5856f",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>C82T</b> - N455HS (N455HS) over US Northeast. Seen 2x in 4,752 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N200BA",
+   "hex": "a1921d",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>GALX</b> - N200BA (N200BA) over US Northeast. Seen 2x in 4,761 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N750SD",
+   "hex": "aa1b9d",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>P750</b> - N750SD (N750SD) over US Northeast. Seen 2x in 4,777 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N812RR",
+   "hex": "ab1251",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>M7</b> - N812RR (N812RR) over US Northeast. Seen 1x in 4,784 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/SCORE23",
+   "hex": "ae2fd3",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>E2</b> - SCORE23 (167929) over US Northeast. Seen 2x in 4,792 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N818RS",
+   "hex": "ab289c",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>LS8</b> - N818RS (N818RS) over US Northeast. Seen 2x in 4,804 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N6176V",
+   "hex": "a80bfd",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>LA4</b> - N6176V (N6176V) over US Northeast. Seen 1x in 4,807 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N298PA",
+   "hex": "a31478",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>A32P</b> - N298PA (N298PA) over US Northeast. Seen 2x in 4,811 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/COUGR61",
+   "hex": "ae01a4",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>LJ35</b> - COUGR61 (86-0377) over US Northeast. Seen 1x in 4,815 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N445Y",
+   "hex": "a55f56",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>O1</b> - N445Y (N445Y) over US Northeast. Seen 2x in 4,825 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N203LS",
+   "hex": "a19e33",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>FDCT</b> - N203LS (N203LS) over US Northeast. Seen 2x in 4,850 observations"
+  },
+  {
+   "fr24": "https://www.flightradar24.com/N28941",
+   "hex": "a2f268",
+   "icon": "\u2728",
+   "kind": "RARE",
+   "photo": true,
+   "text": "<b>T28</b> - N28941 (N28941) over US Northeast. Seen 2x in 4,905 observations"
   }
  ],
  "routes": {
@@ -401,6 +889,24 @@
     }
    ]
   },
+  "AFR7525": {
+   "airline": "AFR",
+   "iata": "BES-CDG",
+   "legs": [
+    {
+     "cc": "FR",
+     "iata": "BES",
+     "lat": 48.447899,
+     "lon": -4.41854
+    },
+    {
+     "cc": "FR",
+     "iata": "CDG",
+     "lat": 49.012798,
+     "lon": 2.55
+    }
+   ]
+  },
   "AIC2HG": {
    "airline": "AIC",
    "iata": "PNQ-DEL",
@@ -546,6 +1052,24 @@
     }
    ]
   },
+  "AZU2700": {
+   "airline": "AZU",
+   "iata": "VCP-CGR",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "CGR",
+     "lat": -20.4687,
+     "lon": -54.672501
+    }
+   ]
+  },
   "AZU2704": {
    "airline": "AZU",
    "iata": "NVT-VCP",
@@ -582,6 +1106,24 @@
     }
    ]
   },
+  "AZU2970": {
+   "airline": "AZU",
+   "iata": "CGR-VCP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGR",
+     "lat": -20.4687,
+     "lon": -54.672501
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    }
+   ]
+  },
   "AZU4056": {
    "airline": "AZU",
    "iata": "VCP-MAO",
@@ -597,6 +1139,24 @@
      "iata": "MAO",
      "lat": -3.03861,
      "lon": -60.049702
+    }
+   ]
+  },
+  "AZU4063": {
+   "airline": "AZU",
+   "iata": "VCP-PPB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "PPB",
+     "lat": -22.1751,
+     "lon": -51.424599
     }
    ]
   },
@@ -618,6 +1178,42 @@
     }
    ]
   },
+  "AZU4291": {
+   "airline": "AZU",
+   "iata": "VCP-NAT",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "NAT",
+     "lat": -5.720278,
+     "lon": -35.366667
+    }
+   ]
+  },
+  "AZU4316": {
+   "airline": "AZU",
+   "iata": "VCP-UDI",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "UDI",
+     "lat": -18.883612,
+     "lon": -48.225277
+    }
+   ]
+  },
   "AZU4384": {
    "airline": "AZU",
    "iata": "VCP-ROO",
@@ -633,6 +1229,114 @@
      "iata": "ROO",
      "lat": -16.586,
      "lon": -54.7248
+    }
+   ]
+  },
+  "AZU4392": {
+   "airline": "AZU",
+   "iata": "VCP-SJP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "SJP",
+     "lat": -20.816601,
+     "lon": -49.406502
+    }
+   ]
+  },
+  "AZU4518": {
+   "airline": "AZU",
+   "iata": "MCZ-VCP",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "MCZ",
+     "lat": -9.51081,
+     "lon": -35.791698
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    }
+   ]
+  },
+  "AZU4790": {
+   "airline": "AZU",
+   "iata": "VCP-OAL",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "OAL",
+     "lat": -11.493611,
+     "lon": -61.175556
+    }
+   ]
+  },
+  "AZU4808": {
+   "airline": "AZU",
+   "iata": "VCP-BVH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "BVH",
+     "lat": -12.6944,
+     "lon": -60.098301
+    }
+   ]
+  },
+  "AZU4830": {
+   "airline": "AZU",
+   "iata": "GRU-CWB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "BR",
+     "iata": "CWB",
+     "lat": -25.5285,
+     "lon": -49.1758
+    }
+   ]
+  },
+  "AZU4849": {
+   "airline": "AZU",
+   "iata": "VCP-FLN",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
+    },
+    {
+     "cc": "BR",
+     "iata": "FLN",
+     "lat": -27.670279,
+     "lon": -48.552502
     }
    ]
   },
@@ -690,6 +1394,42 @@
     }
    ]
   },
+  "AZU6056": {
+   "airline": "AZU",
+   "iata": "CGH-CWB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    },
+    {
+     "cc": "BR",
+     "iata": "CWB",
+     "lat": -25.5285,
+     "lon": -49.1758
+    }
+   ]
+  },
+  "BAW168": {
+   "airline": "BAW",
+   "iata": "PVG-LHR",
+   "legs": [
+    {
+     "cc": "CN",
+     "iata": "PVG",
+     "lat": 31.1434,
+     "lon": 121.805
+    },
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    }
+   ]
+  },
   "BAW171": {
    "airline": "BAW",
    "iata": "LHR-PIT",
@@ -708,6 +1448,24 @@
     }
    ]
   },
+  "BAW293": {
+   "airline": "BAW",
+   "iata": "LHR-IAD",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    },
+    {
+     "cc": "US",
+     "iata": "IAD",
+     "lat": 38.9445,
+     "lon": -77.455803
+    }
+   ]
+  },
   "BAW29G": {
    "airline": "BAW",
    "iata": "BOS-LHR",
@@ -723,6 +1481,78 @@
      "iata": "LHR",
      "lat": 51.4706,
      "lon": -0.461941
+    }
+   ]
+  },
+  "BAW2MW": {
+   "airline": "BAW",
+   "iata": "LHR-LAS",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    },
+    {
+     "cc": "US",
+     "iata": "LAS",
+     "lat": 36.080101,
+     "lon": -115.152
+    }
+   ]
+  },
+  "BAW331": {
+   "airline": "BAW",
+   "iata": "NCE-LHR",
+   "legs": [
+    {
+     "cc": "FR",
+     "iata": "NCE",
+     "lat": 43.658401,
+     "lon": 7.21587
+    },
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    }
+   ]
+  },
+  "BAW37J": {
+   "airline": "BAW",
+   "iata": "LHR-JFK",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    },
+    {
+     "cc": "US",
+     "iata": "JFK",
+     "lat": 40.639801,
+     "lon": -73.7789
+    }
+   ]
+  },
+  "BAW5VY": {
+   "airline": "BAW",
+   "iata": "LHR-YVR",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    },
+    {
+     "cc": "CA",
+     "iata": "YVR",
+     "lat": 49.193901,
+     "lon": -123.183998
     }
    ]
   },
@@ -1174,6 +2004,24 @@
     }
    ]
   },
+  "DLH420": {
+   "airline": "DLH",
+   "iata": "FRA-BOS",
+   "legs": [
+    {
+     "cc": "DE",
+     "iata": "FRA",
+     "lat": 50.026402,
+     "lon": 8.54313
+    },
+    {
+     "cc": "US",
+     "iata": "BOS",
+     "lat": 42.3643,
+     "lon": -71.005203
+    }
+   ]
+  },
   "DLH4J": {
    "airline": "DLH",
    "iata": "MUC-YUL",
@@ -1192,6 +2040,42 @@
     }
    ]
   },
+  "DLH8KM": {
+   "airline": "DLH",
+   "iata": "BHX-MUC",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "BHX",
+     "lat": 52.453899,
+     "lon": -1.74803
+    },
+    {
+     "cc": "DE",
+     "iata": "MUC",
+     "lat": 48.353802,
+     "lon": 11.7861
+    }
+   ]
+  },
+  "ETD47": {
+   "airline": "ETD",
+   "iata": "AUH-DUB",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "AUH",
+     "lat": 24.433001,
+     "lon": 54.6511
+    },
+    {
+     "cc": "IE",
+     "iata": "DUB",
+     "lat": 53.421299,
+     "lon": -6.27007
+    }
+   ]
+  },
   "FDX2": {
    "airline": "FDX",
    "iata": "MEM-STN",
@@ -1207,6 +2091,24 @@
      "iata": "STN",
      "lat": 51.884998,
      "lon": 0.235
+    }
+   ]
+  },
+  "FDX40": {
+   "airline": "FDX",
+   "iata": "MEM-VCP",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "MEM",
+     "lat": 35.0424,
+     "lon": -89.9767
+    },
+    {
+     "cc": "BR",
+     "iata": "VCP",
+     "lat": -23.007401,
+     "lon": -47.134499
     }
    ]
   },
@@ -1295,7 +2197,61 @@
    ]
   },
   "FWULR": null,
+  "GLO1100": {
+   "airline": "GLO",
+   "iata": "CGH-CWB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    },
+    {
+     "cc": "BR",
+     "iata": "CWB",
+     "lat": -25.5285,
+     "lon": -49.1758
+    }
+   ]
+  },
+  "GLO1122": {
+   "airline": "GLO",
+   "iata": "CGH-IGU",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    },
+    {
+     "cc": "BR",
+     "iata": "IGU",
+     "lat": -25.600279,
+     "lon": -54.485001
+    }
+   ]
+  },
   "GLO1137": null,
+  "GLO1236": {
+   "airline": "GLO",
+   "iata": "GRU-POA",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "BR",
+     "iata": "POA",
+     "lat": -29.9944,
+     "lon": -51.171398
+    }
+   ]
+  },
   "GLO1409": {
    "airline": "GLO",
    "iata": "BSB-CGH",
@@ -1314,6 +2270,24 @@
     }
    ]
   },
+  "GLO1422": {
+   "airline": "GLO",
+   "iata": "CGH-CGB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    },
+    {
+     "cc": "BR",
+     "iata": "CGB",
+     "lat": -15.6529,
+     "lon": -56.116699
+    }
+   ]
+  },
   "GLO1425": {
    "airline": "GLO",
    "iata": "CGB-CGH",
@@ -1329,6 +2303,42 @@
      "iata": "CGH",
      "lat": -23.62611,
      "lon": -46.656387
+    }
+   ]
+  },
+  "GLO1435": {
+   "airline": "GLO",
+   "iata": "GYN-CGH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GYN",
+     "lat": -16.632,
+     "lon": -49.220699
+    },
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    }
+   ]
+  },
+  "GLO1440": {
+   "airline": "GLO",
+   "iata": "GRU-OPS",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "BR",
+     "iata": "OPS",
+     "lat": -11.885,
+     "lon": -55.586109
     }
    ]
   },
@@ -1400,6 +2410,7 @@
    ]
   },
   "IBE07SC": null,
+  "IBE07WV": null,
   "IGO1007": {
    "airline": "IGO",
    "iata": "TRZ-SIN",
@@ -1508,6 +2519,60 @@
     }
    ]
   },
+  "KLM1142": {
+   "airline": "KLM",
+   "iata": "DUB-AMS",
+   "legs": [
+    {
+     "cc": "IE",
+     "iata": "DUB",
+     "lat": 53.421299,
+     "lon": -6.27007
+    },
+    {
+     "cc": "NL",
+     "iata": "AMS",
+     "lat": 52.308601,
+     "lon": 4.76389
+    }
+   ]
+  },
+  "KLM86N": {
+   "airline": "KLM",
+   "iata": "BRS-AMS",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "BRS",
+     "lat": 51.382702,
+     "lon": -2.71909
+    },
+    {
+     "cc": "NL",
+     "iata": "AMS",
+     "lat": 52.308601,
+     "lon": 4.76389
+    }
+   ]
+  },
+  "KLM92Z": {
+   "airline": "KLM",
+   "iata": "LBA-AMS",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LBA",
+     "lat": 53.865898,
+     "lon": -1.66057
+    },
+    {
+     "cc": "NL",
+     "iata": "AMS",
+     "lat": 52.308601,
+     "lon": 4.76389
+    }
+   ]
+  },
   "KLM93C": {
    "airline": "KLM",
    "iata": "ORK-AMS",
@@ -1541,6 +2606,30 @@
      "iata": "GRU",
      "lat": -23.435556,
      "lon": -46.473057
+    }
+   ]
+  },
+  "LAN762": {
+   "airline": "LAN",
+   "iata": "SCL-GRU-MVD",
+   "legs": [
+    {
+     "cc": "CL",
+     "iata": "SCL",
+     "lat": -33.393002,
+     "lon": -70.785797
+    },
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "UY",
+     "iata": "MVD",
+     "lat": -34.838402,
+     "lon": -56.0308
     }
    ]
   },
@@ -1600,6 +2689,30 @@
     }
    ]
   },
+  "QTR31T": {
+   "airline": "QTR",
+   "iata": "DOH-MXP-ORD",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "IT",
+     "iata": "MXP",
+     "lat": 45.6306,
+     "lon": 8.72811
+    },
+    {
+     "cc": "US",
+     "iata": "ORD",
+     "lat": 41.9786,
+     "lon": -87.9048
+    }
+   ]
+  },
   "QTR8188": {
    "airline": "QTR",
    "iata": "IAH-LGG-DMM-DOH",
@@ -1630,6 +2743,24 @@
     }
    ]
   },
+  "RAM814": {
+   "airline": "RAM",
+   "iata": "TNG-LGW",
+   "legs": [
+    {
+     "cc": "MA",
+     "iata": "TNG",
+     "lat": 35.726898,
+     "lon": -5.91689
+    },
+    {
+     "cc": "GB",
+     "iata": "LGW",
+     "lat": 51.148102,
+     "lon": -0.190278
+    }
+   ]
+  },
   "SAA422": {
    "airline": "SAA",
    "iata": "PLZ-JNB",
@@ -1645,6 +2776,42 @@
      "iata": "JNB",
      "lat": -26.1392,
      "lon": 28.246
+    }
+   ]
+  },
+  "SAS2535": {
+   "airline": "SAS",
+   "iata": "CPH-BHX",
+   "legs": [
+    {
+     "cc": "DK",
+     "iata": "CPH",
+     "lat": 55.617901,
+     "lon": 12.656
+    },
+    {
+     "cc": "GB",
+     "iata": "BHX",
+     "lat": 52.453899,
+     "lon": -1.74803
+    }
+   ]
+  },
+  "SAS541": {
+   "airline": "SAS",
+   "iata": "CPH-MAN",
+   "legs": [
+    {
+     "cc": "DK",
+     "iata": "CPH",
+     "lat": 55.617901,
+     "lon": 12.656
+    },
+    {
+     "cc": "GB",
+     "iata": "MAN",
+     "lat": 53.353699,
+     "lon": -2.27495
     }
    ]
   },
@@ -1852,6 +3019,24 @@
     }
    ]
   },
+  "SWR9TC": {
+   "airline": "SWR",
+   "iata": "ZRH-MAN",
+   "legs": [
+    {
+     "cc": "CH",
+     "iata": "ZRH",
+     "lat": 47.464699,
+     "lon": 8.54917
+    },
+    {
+     "cc": "GB",
+     "iata": "MAN",
+     "lat": 53.353699,
+     "lon": -2.27495
+    }
+   ]
+  },
   "TAM3016": {
    "airline": "TAM",
    "iata": "GRU-BEL",
@@ -1870,6 +3055,42 @@
     }
    ]
   },
+  "TAM3051": {
+   "airline": "TAM",
+   "iata": "CNF-CGH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CNF",
+     "lat": -19.624443,
+     "lon": -43.971943
+    },
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    }
+   ]
+  },
+  "TAM3065": {
+   "airline": "TAM",
+   "iata": "CWB-CGH",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CWB",
+     "lat": -25.5285,
+     "lon": -49.1758
+    },
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    }
+   ]
+  },
   "TAM3121": {
    "airline": "TAM",
    "iata": "LDB-CGH",
@@ -1885,6 +3106,24 @@
      "iata": "CGH",
      "lat": -23.62611,
      "lon": -46.656387
+    }
+   ]
+  },
+  "TAM3265": {
+   "airline": "TAM",
+   "iata": "GRU-BSB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "GRU",
+     "lat": -23.435556,
+     "lon": -46.473057
+    },
+    {
+     "cc": "BR",
+     "iata": "BSB",
+     "lat": -15.869167,
+     "lon": -47.920834
     }
    ]
   },
@@ -1924,7 +3163,43 @@
     }
    ]
   },
+  "TAM3482": {
+   "airline": "TAM",
+   "iata": "IGU-CWB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "IGU",
+     "lat": -25.600279,
+     "lon": -54.485001
+    },
+    {
+     "cc": "BR",
+     "iata": "CWB",
+     "lat": -25.5285,
+     "lon": -49.1758
+    }
+   ]
+  },
   "TAM3712": null,
+  "TAM4700": {
+   "airline": "TAM",
+   "iata": "CGH-BSB",
+   "legs": [
+    {
+     "cc": "BR",
+     "iata": "CGH",
+     "lat": -23.62611,
+     "lon": -46.656387
+    },
+    {
+     "cc": "BR",
+     "iata": "BSB",
+     "lat": -15.869167,
+     "lon": -47.920834
+    }
+   ]
+  },
   "TAM8080": {
    "airline": "TAM",
    "iata": "GRU-AEP",
@@ -1979,6 +3254,60 @@
     }
    ]
   },
+  "TAP13HL": {
+   "airline": "TAP",
+   "iata": "LIS-LHR",
+   "legs": [
+    {
+     "cc": "PT",
+     "iata": "LIS",
+     "lat": 38.7813,
+     "lon": -9.13592
+    },
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    }
+   ]
+  },
+  "TAP543W": {
+   "airline": "TAP",
+   "iata": "DUS-LIS",
+   "legs": [
+    {
+     "cc": "DE",
+     "iata": "DUS",
+     "lat": 51.289501,
+     "lon": 6.76678
+    },
+    {
+     "cc": "PT",
+     "iata": "LIS",
+     "lat": 38.7813,
+     "lon": -9.13592
+    }
+   ]
+  },
+  "THY2PH": {
+   "airline": "THY",
+   "iata": "MAN-IST",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "MAN",
+     "lat": 53.353699,
+     "lon": -2.27495
+    },
+    {
+     "cc": "TR",
+     "iata": "IST",
+     "lat": 41.263889,
+     "lon": 28.705556
+    }
+   ]
+  },
   "THY3VD": {
    "airline": "THY",
    "iata": "DUB-IST",
@@ -1988,6 +3317,24 @@
      "iata": "DUB",
      "lat": 53.421299,
      "lon": -6.27007
+    },
+    {
+     "cc": "TR",
+     "iata": "IST",
+     "lat": 41.263889,
+     "lon": 28.705556
+    }
+   ]
+  },
+  "THY8BC": {
+   "airline": "THY",
+   "iata": "BHX-IST",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "BHX",
+     "lat": 52.453899,
+     "lon": -1.74803
     },
     {
      "cc": "TR",
@@ -2312,6 +3659,24 @@
     }
    ]
   },
+  "UAL673": {
+   "airline": "UAL",
+   "iata": "BCN-SFO",
+   "legs": [
+    {
+     "cc": "ES",
+     "iata": "BCN",
+     "lat": 41.2971,
+     "lon": 2.07846
+    },
+    {
+     "cc": "US",
+     "iata": "SFO",
+     "lat": 37.618999,
+     "lon": -122.375
+    }
+   ]
+  },
   "UAL718": {
    "airline": "UAL",
    "iata": "MEX-SFO",
@@ -2371,15 +3736,94 @@
      "lon": -77.455803
     }
    ]
+  },
+  "VIR165": {
+   "airline": "VIR",
+   "iata": "LHR-MBJ",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    },
+    {
+     "cc": "JM",
+     "iata": "MBJ",
+     "lat": 18.5037,
+     "lon": -77.913399
+    }
+   ]
   }
  },
- "run": 30,
+ "run": 40,
  "seen": {
   "ff:FDX5025": 1787763187.774169,
   "ff:FDX5090": 1787763187.774169,
   "ff:FDX5230": 1787763187.774169,
+  "ff:LAN762": 1787764271.222858,
+  "ff:QTR31T": 1787764608.840706,
   "ff:QTR8188": 1787762852.203064,
+  "ff:SAS2535": 1787764608.840706,
+  "ff:SAS541": 1787764608.840706,
   "ff:SIA26": 1787763187.774169,
+  "rare:a00904": 1787764608.840706,
+  "rare:a0cbff": 1787764608.840706,
+  "rare:a0ec34": 1787764608.840706,
+  "rare:a1921d": 1787764608.840706,
+  "rare:a19e33": 1787764608.840706,
+  "rare:a1b980": 1787764608.840706,
+  "rare:a1c0ec": 1787764608.840706,
+  "rare:a1ce7b": 1787764608.840706,
+  "rare:a2654b": 1787764608.840706,
+  "rare:a2f268": 1787764608.840706,
+  "rare:a31478": 1787764608.840706,
+  "rare:a31b9f": 1787764608.840706,
+  "rare:a459a6": 1787764608.840706,
+  "rare:a4abf5": 1787764608.840706,
+  "rare:a5381e": 1787764608.840706,
+  "rare:a5504c": 1787764608.840706,
+  "rare:a55f56": 1787764608.840706,
+  "rare:a5856f": 1787764608.840706,
+  "rare:a597fc": 1787764608.840706,
+  "rare:a5bae6": 1787764608.840706,
+  "rare:a5ca1e": 1787764608.840706,
+  "rare:a60333": 1787764608.840706,
+  "rare:a629e7": 1787764608.840706,
+  "rare:a62ba4": 1787764608.840706,
+  "rare:a6ffbe": 1787764608.840706,
+  "rare:a780f9": 1787764608.840706,
+  "rare:a80bfd": 1787764608.840706,
+  "rare:a8d4c9": 1787764608.840706,
+  "rare:a8fec5": 1787764608.840706,
+  "rare:aa1aa8": 1787764608.840706,
+  "rare:aa1b9d": 1787764608.840706,
+  "rare:aa59d2": 1787764608.840706,
+  "rare:ab0149": 1787764608.840706,
+  "rare:ab1251": 1787764608.840706,
+  "rare:ab289c": 1787764608.840706,
+  "rare:abaed2": 1787764608.840706,
+  "rare:ac4831": 1787764608.840706,
+  "rare:ac696f": 1787764608.840706,
+  "rare:acaa78": 1787764608.840706,
+  "rare:acc2e6": 1787764608.840706,
+  "rare:acd78b": 1787764608.840706,
+  "rare:ad3870": 1787764608.840706,
+  "rare:ad675d": 1787764608.840706,
+  "rare:ad82e8": 1787764608.840706,
+  "rare:ae01a4": 1787764608.840706,
+  "rare:ae0584": 1787764608.840706,
+  "rare:ae2664": 1787764608.840706,
+  "rare:ae2fd3": 1787764608.840706,
+  "rare:ae5bc6": 1787764608.840706,
+  "rare:ae5c73": 1787764608.840706,
+  "rare:ae624e": 1787764608.840706,
+  "rare:ae624f": 1787764608.840706,
+  "rare:ae63f3": 1787764608.840706,
+  "rare:ae63fa": 1787764608.840706,
+  "rare:ae6bb5": 1787764608.840706,
+  "rare:c003aa": 1787764608.840706,
+  "rare:c00b93": 1787764608.840706,
   "sqk7600:39a3fb": 1787762120.329193,
   "sqk7600:a3e4b4": 1787762222.166398,
   "sqk7700:ab5df2": 1787763627.737706,
@@ -2393,302 +3837,340 @@
   "finds": 0
  },
  "type_counts": {
-  "A109": 6,
-  "A139": 4,
-  "A169": 1,
-  "A20N": 107,
-  "A210": 2,
-  "A21N": 104,
-  "A319": 45,
-  "A320": 139,
-  "A321": 84,
-  "A32P": 1,
-  "A332": 11,
-  "A333": 19,
+  "A109": 12,
+  "A119": 1,
+  "A139": 10,
+  "A169": 3,
+  "A19N": 1,
+  "A20N": 168,
+  "A210": 3,
+  "A21N": 166,
+  "A306": 1,
+  "A319": 102,
+  "A320": 246,
+  "A321": 125,
+  "A32P": 2,
+  "A332": 14,
+  "A333": 30,
   "A338": 1,
-  "A339": 7,
-  "A343": 2,
-  "A346": 2,
-  "A359": 25,
-  "A35K": 7,
-  "A388": 7,
-  "A400": 1,
-  "AA5": 6,
+  "A339": 15,
+  "A343": 3,
+  "A346": 4,
+  "A359": 33,
+  "A35K": 13,
+  "A388": 10,
+  "A400": 3,
+  "AA5": 9,
+  "AC11": 1,
   "AC90": 1,
-  "ALTO": 1,
+  "ALTO": 2,
   "AP32": 1,
-  "AS50": 28,
-  "AS55": 1,
+  "AS21": 1,
+  "AS50": 30,
+  "AS55": 4,
+  "AS65": 1,
   "AT75": 1,
-  "AT76": 11,
-  "B06": 12,
-  "B190": 2,
-  "B350": 11,
-  "B38M": 188,
-  "B39M": 37,
-  "B407": 9,
+  "AT76": 23,
+  "B06": 18,
+  "B190": 3,
+  "B212": 2,
+  "B350": 16,
+  "B38M": 268,
+  "B39M": 52,
+  "B407": 16,
   "B412": 1,
   "B427": 2,
-  "B429": 3,
+  "B429": 6,
   "B463": 1,
-  "B505": 2,
+  "B505": 3,
+  "B58T": 1,
+  "B712": 3,
   "B733": 1,
-  "B736": 1,
-  "B737": 76,
-  "B738": 203,
-  "B739": 31,
-  "B744": 6,
+  "B736": 2,
+  "B737": 103,
+  "B738": 333,
+  "B739": 50,
+  "B744": 7,
   "B748": 3,
-  "B752": 10,
+  "B752": 15,
   "B753": 3,
-  "B762": 1,
-  "B763": 10,
-  "B764": 8,
-  "B772": 15,
+  "B762": 3,
+  "B763": 22,
+  "B764": 13,
+  "B772": 28,
   "B773": 1,
-  "B77L": 26,
-  "B77W": 34,
-  "B788": 19,
-  "B789": 26,
-  "B78X": 5,
-  "BCS1": 6,
-  "BCS3": 45,
-  "BE20": 16,
+  "B77L": 37,
+  "B77W": 49,
+  "B788": 27,
+  "B789": 45,
+  "B78X": 10,
+  "BALL": 2,
+  "BCS1": 9,
+  "BCS3": 90,
+  "BE20": 28,
   "BE23": 1,
-  "BE24": 1,
+  "BE24": 2,
   "BE30": 1,
   "BE33": 9,
-  "BE35": 7,
-  "BE36": 9,
-  "BE40": 6,
-  "BE55": 2,
-  "BE58": 3,
+  "BE35": 14,
+  "BE36": 14,
+  "BE40": 9,
+  "BE55": 3,
+  "BE58": 4,
   "BE76": 2,
   "BE95": 1,
   "BE9L": 1,
   "BE9T": 3,
-  "BL8": 3,
-  "BR23": 2,
-  "BT36": 1,
+  "BL8": 5,
+  "BR23": 5,
+  "BT36": 2,
+  "BW60": 1,
   "C130": 2,
-  "C150": 13,
-  "C152": 25,
+  "C140": 1,
+  "C150": 25,
+  "C152": 31,
   "C17": 1,
   "C170": 3,
-  "C172": 306,
-  "C177": 5,
+  "C172": 427,
+  "C177": 7,
   "C180": 3,
-  "C182": 43,
+  "C182": 68,
   "C185": 2,
   "C206": 1,
-  "C207": 1,
-  "C208": 24,
+  "C207": 2,
+  "C208": 29,
   "C210": 3,
   "C240": 1,
-  "C25A": 5,
-  "C25B": 4,
-  "C25C": 3,
-  "C25M": 2,
-  "C30J": 3,
-  "C310": 3,
+  "C25A": 10,
+  "C25B": 7,
+  "C25C": 4,
+  "C25M": 3,
+  "C30J": 6,
+  "C310": 4,
   "C340": 3,
-  "C402": 5,
+  "C402": 9,
   "C414": 1,
-  "C42": 4,
+  "C42": 6,
   "C421": 1,
+  "C441": 1,
   "C500": 1,
-  "C510": 4,
+  "C510": 5,
   "C525": 1,
   "C550": 1,
-  "C560": 5,
-  "C56X": 14,
-  "C680": 2,
-  "C68A": 20,
-  "C700": 6,
-  "C72R": 6,
-  "C750": 6,
+  "C560": 7,
+  "C56X": 23,
+  "C5M": 1,
+  "C680": 6,
+  "C68A": 27,
+  "C700": 11,
+  "C72R": 8,
+  "C750": 9,
   "C77R": 1,
-  "C82R": 3,
-  "C82S": 5,
-  "C82T": 1,
+  "C82R": 4,
+  "C82S": 10,
+  "C82T": 2,
   "CH7B": 3,
-  "CL30": 15,
-  "CL35": 15,
-  "CL60": 14,
+  "CL30": 21,
+  "CL35": 19,
+  "CL60": 19,
   "CLON": 1,
   "COL3": 1,
   "COL4": 1,
-  "COZY": 1,
-  "CRJ2": 8,
-  "CRJ7": 21,
-  "CRJ9": 32,
+  "COZY": 2,
+  "CRJ2": 9,
+  "CRJ7": 42,
+  "CRJ9": 59,
   "CRUZ": 2,
-  "DA40": 15,
+  "DA40": 20,
   "DA42": 2,
-  "DA62": 2,
-  "DC3T": 1,
+  "DA62": 4,
+  "DC3T": 2,
   "DG1T": 1,
-  "DH8D": 3,
-  "DHC6": 3,
-  "DR40": 9,
-  "DUOD": 2,
-  "DV20": 3,
+  "DH8D": 9,
+  "DHC1": 2,
+  "DHC6": 4,
+  "DR40": 15,
+  "DUOD": 4,
+  "DV20": 6,
   "E120": 1,
   "E135": 6,
-  "E145": 11,
-  "E170": 10,
-  "E190": 24,
-  "E195": 2,
-  "E2": 1,
-  "E295": 11,
+  "E145": 18,
+  "E170": 23,
+  "E190": 46,
+  "E195": 4,
+  "E2": 2,
+  "E290": 3,
+  "E295": 34,
   "E35L": 1,
-  "E45X": 1,
+  "E45X": 9,
   "E50P": 2,
-  "E545": 8,
-  "E550": 9,
-  "E55P": 28,
-  "E75L": 126,
-  "E75S": 1,
+  "E545": 10,
+  "E550": 10,
+  "E55P": 49,
+  "E75L": 195,
+  "E75S": 3,
   "EA50": 1,
   "EC20": 2,
-  "EC30": 17,
-  "EC35": 7,
-  "EC45": 7,
+  "EC30": 19,
+  "EC35": 15,
+  "EC45": 14,
+  "EC55": 2,
   "EC75": 1,
   "ECHO": 1,
-  "EFOX": 2,
-  "EPIC": 1,
+  "EFOX": 3,
+  "EPIC": 2,
   "ERCO": 2,
   "EV97": 1,
   "EVSS": 2,
-  "F2TH": 6,
-  "F900": 5,
+  "F2TH": 10,
+  "F406": 1,
+  "F900": 11,
   "FA20": 2,
-  "FA7X": 4,
+  "FA7X": 9,
   "FA8X": 2,
-  "FDCT": 1,
-  "G115": 1,
-  "G280": 7,
+  "FDCT": 2,
+  "G103": 1,
+  "G109": 1,
+  "G115": 2,
+  "G280": 9,
   "G2CA": 1,
   "G2T1": 2,
-  "GA5C": 1,
-  "GA6C": 3,
+  "GA5C": 3,
+  "GA6C": 6,
   "GA7C": 1,
-  "GALX": 1,
-  "GL5T": 5,
-  "GL7T": 4,
-  "GLEX": 12,
+  "GALX": 2,
+  "GL5T": 8,
+  "GL7T": 7,
+  "GLAS": 1,
+  "GLEX": 18,
   "GLF3": 1,
-  "GLF4": 9,
-  "GLF5": 10,
-  "GLF6": 4,
-  "GLID": 3,
-  "GND": 4,
-  "GYRO": 1,
+  "GLF4": 12,
+  "GLF5": 13,
+  "GLF6": 9,
+  "GLID": 8,
+  "GND": 6,
+  "GYRO": 2,
   "H160": 1,
-  "H25B": 9,
-  "H47": 2,
-  "H500": 8,
-  "H60": 13,
-  "HDJT": 3,
-  "HR20": 2,
-  "HUSK": 1,
+  "H25B": 13,
+  "H47": 5,
+  "H500": 10,
+  "H60": 19,
+  "HDJT": 4,
+  "HR20": 3,
+  "HUSK": 3,
+  "J3": 1,
   "J600": 1,
-  "K35R": 1,
+  "K35R": 4,
   "L39": 1,
+  "LA4": 1,
   "LGND": 1,
-  "LJ45": 6,
+  "LJ35": 1,
+  "LJ45": 9,
   "LJ60": 1,
   "LNP4": 1,
-  "LS8": 1,
-  "LXR": 1,
-  "LYNX": 1,
-  "M20P": 15,
+  "LS8": 2,
+  "LXR": 2,
+  "LYNX": 2,
+  "M20P": 24,
   "M20T": 4,
+  "M7": 1,
   "M7T": 1,
-  "MC01": 1,
+  "MC01": 4,
   "MU2": 1,
   "NAVI": 2,
-  "NG5": 1,
-  "NNJA": 1,
-  "O1": 1,
+  "NG5": 3,
+  "NNJA": 2,
+  "O1": 2,
   "OSCR": 1,
   "P06T": 3,
   "P180": 1,
   "P210": 1,
-  "P212": 2,
-  "P28A": 193,
-  "P28B": 2,
-  "P28R": 14,
-  "P32R": 3,
+  "P212": 5,
+  "P28A": 282,
+  "P28B": 4,
+  "P28R": 19,
+  "P32R": 6,
   "P337": 2,
-  "P46T": 6,
+  "P46T": 10,
   "P68": 3,
+  "P750": 2,
   "PA11": 1,
-  "PA18": 1,
+  "PA18": 3,
   "PA20": 1,
   "PA22": 1,
-  "PA23": 1,
-  "PA25": 1,
-  "PA30": 2,
-  "PA31": 5,
-  "PA32": 11,
-  "PA34": 4,
+  "PA23": 2,
+  "PA24": 1,
+  "PA25": 2,
+  "PA30": 3,
+  "PA31": 8,
+  "PA32": 15,
+  "PA34": 9,
   "PA38": 1,
-  "PA44": 8,
-  "PA46": 1,
-  "PC12": 30,
-  "PC24": 3,
-  "PIAT": 7,
+  "PA44": 9,
+  "PA46": 2,
+  "PAY4": 1,
+  "PC12": 44,
+  "PC24": 8,
+  "PIAT": 9,
   "PISI": 2,
   "PRM1": 2,
-  "Q4": 1,
+  "Q4": 2,
   "R200": 1,
-  "R22": 4,
-  "R44": 6,
-  "R66": 1,
-  "RANG": 1,
+  "R22": 6,
+  "R44": 10,
+  "R66": 3,
+  "RANG": 2,
   "RELI": 1,
-  "RF10": 1,
-  "RV10": 2,
-  "RV12": 3,
+  "RF10": 2,
+  "RV10": 3,
+  "RV12": 4,
+  "RV14": 1,
   "RV4": 1,
   "RV6": 4,
-  "RV7": 1,
-  "RV8": 2,
-  "RV9": 1,
-  "S22T": 18,
+  "RV7": 3,
+  "RV8": 3,
+  "RV9": 2,
+  "S22T": 28,
+  "S76": 1,
   "S92": 4,
+  "SB20": 1,
   "SC7": 3,
-  "SF50": 3,
-  "SIRA": 5,
-  "SLG2": 10,
-  "SLG4": 22,
-  "SONX": 1,
+  "SF50": 7,
+  "SIRA": 6,
+  "SKRA": 1,
+  "SLG2": 12,
+  "SLG4": 23,
+  "SONX": 2,
   "SPIT": 2,
-  "SR20": 25,
-  "SR22": 26,
-  "ST75": 1,
+  "SR20": 30,
+  "SR22": 35,
+  "ST75": 2,
   "SU95": 1,
-  "SW4": 2,
+  "SW4": 4,
   "T18": 1,
-  "T206": 7,
-  "T210": 5,
-  "T28": 1,
+  "T206": 9,
+  "T210": 6,
+  "T28": 2,
   "T34T": 1,
-  "TB20": 2,
+  "T38": 7,
+  "TB20": 3,
   "TBM7": 2,
-  "TBM8": 1,
+  "TBM8": 2,
   "TBM9": 3,
-  "TL30": 2,
+  "TL20": 1,
+  "TL30": 4,
+  "TOBA": 1,
   "TUCA": 1,
-  "TWR": 24,
-  "U16": 1,
+  "TVLB": 1,
+  "TWR": 34,
+  "U16": 2,
   "U21": 3,
   "UH1": 4,
-  "ULAC": 1,
+  "ULAC": 2,
   "V10": 1,
+  "V22": 1,
   "VL3": 1,
-  "VR7": 1
+  "VR7": 3,
+  "WT9": 1
  }
 }
