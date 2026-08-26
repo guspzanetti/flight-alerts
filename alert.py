@@ -283,24 +283,44 @@ def fifth_freedom(route):
 
 
 def diversion_check(a, route):
-    """Is this aircraft heading somewhere other than where it filed?"""
+    """Is this aircraft heading somewhere other than where it filed?
+
+    Three guards, each removing a class of false positive found in testing:
+
+      on the ground  - an aircraft parked at its origin is trivially "far from
+                       its destination at low altitude", which is not a diversion
+      not yet flying - taxiing traffic reports a low positive altitude
+      climbing       - a departure is low and far from its destination too, so
+                       without a vertical-rate check every long-haul takeoff
+                       would alert
+    """
     if not route or not route.get("legs") or a.get("lat") is None:
         return None
     dest = route["legs"][-1]
     if dest.get("lat") is None:
         return None
+
     alt = a.get("alt_baro")
-    if not isinstance(alt, int):
-        return None
+    if not isinstance(alt, int) or alt < 100:
+        return None                       # on the ground, or taxiing
+
+    if (a.get("gs") or 0) < 100:
+        return None                       # not properly airborne yet
+
+    rate = a.get("baro_rate")
+    if isinstance(rate, (int, float)) and rate > 200:
+        return None                       # climbing away: a departure, not a diversion
+
     d = nm(a["lat"], a["lon"], dest["lat"], dest["lon"])
     if alt < 12000 and d > 80:
         return f"descending through {alt:,} ft but still {d:,.0f} nm from {dest['iata']}"
+
     trk = a.get("track")
     if trk is not None and alt < 20000 and d > 120:
         brg = bearing(a["lat"], a["lon"], dest["lat"], dest["lon"])
         off = abs((trk - brg + 180) % 360 - 180)
         if off > 90:
-            return (f"tracking {off:.0f}° away from {dest['iata']}, "
+            return (f"tracking {off:.0f}\u00b0 away from {dest['iata']}, "
                     f"{d:,.0f} nm out at {alt:,} ft")
     return None
 
