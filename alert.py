@@ -339,6 +339,48 @@ def hello():
     return 0
 
 
+def test_alert():
+    """Send sample alerts using real live traffic, so the format is honest."""
+    if not TOKEN or not CHAT:
+        print("no telegram secrets set")
+        return 1
+
+    d = get("/v2/point/51.5/0.0/250") or {}
+    ac = [x for x in d.get("ac", [])
+          if x.get("hex") and x.get("lat") is not None and not is_noise(x)]
+    if not ac:
+        send("\U0001f9ea <b>Test</b>\n\nNo suitable aircraft airborne to demo with, "
+             "but the pipeline works - you are reading this.")
+        return 0
+
+    a = ac[0]
+    cs = (a.get("flight") or "").strip()
+    route = route_for(cs, {}) if cs else None
+    img, cx = tracks.render(a["hex"], f"/tmp/test_{a['hex']}.png")
+
+    send("\U0001f9ea <b>TEST — this is not a real emergency</b>\n\n"
+         "\U0001f6a8 <b>SQUAWK 7700 — GENERAL EMERGENCY</b>\n\n"
+         f"<b>{label(a)}</b> — {a.get('t','?')} ({a.get('r','?')})\n"
+         f"Altitude: {fmt_alt(a)}   Speed: {a.get('gs','?')} kt\n"
+         + (f"Route: {route['iata']}\n" if route else "")
+         + f"Position: {a['lat']:.3f}, {a['lon']:.3f}\n\n"
+         "<i>A real one looks exactly like this, with the aircraft's track "
+         "rendered above.</i>",
+         fr24_link(a), img)
+
+    others = ac[1:4]
+    body = "\n\n".join(
+        f"\U0001f30d <b>{label(x)}</b> ({x.get('t','?')}, {x.get('r','?')}) "
+        f"at {fmt_alt(x)}" for x in others)
+    send("\U0001f9ea <b>TEST — sample hourly digest</b>\n\n"
+         f"\U0001f4e1 <b>Worth a look</b> — {len(others)} find(s)\n\n{body}\n\n"
+         "<i>The real digest carries fifth-freedom routings, drones, uncommon "
+         "types and odd track shapes, with up to 10 images ranked by how "
+         "convoluted the path is.</i>")
+    print(f"test alerts sent (demo aircraft: {label(a)}, shape score {cx:.1f})")
+    return 0
+
+
 def main():
     now = datetime.now(timezone.utc)
     ts = now.timestamp()
@@ -590,4 +632,6 @@ def main():
 if __name__ == "__main__":
     if "--hello" in sys.argv:
         sys.exit(hello())
+    if "--test" in sys.argv:
+        sys.exit(test_alert())
     sys.exit(main())

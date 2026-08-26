@@ -1,0 +1,22 @@
+name: test-alert
+
+# Manual only. Separate concurrency group from the watch loop, so sending a
+# test never cancels the live monitor.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: flight-alerts-test
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send sample alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 alert.py --test
