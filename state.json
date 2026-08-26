@@ -1,680 +1,32 @@
 {
  "last_green": 1787762120.329193,
- "last_run": "2026-08-26T17:32:53.886333+00:00",
- "last_scan": 1787765308.723429,
- "last_yellow": 1787762120.329193,
+ "last_run": "2026-08-26T17:43:58.590878+00:00",
+ "last_scan": 1787765979.508436,
+ "last_yellow": 1787765640.283035,
  "queue": [
   {
-   "fr24": "https://www.flightradar24.com/SCORE90",
-   "hex": "ae5c73",
-   "icon": "\ud83d\udef8",
-   "kind": "UAV",
+   "fr24": "https://www.flightradar24.com/ESF551",
+   "hex": "0d0a9c",
+   "icon": "\u2728",
+   "kind": "RARE",
    "photo": true,
-   "text": "<b>SCORE90</b> - unmanned aircraft at 50,800 ft over US Northeast"
+   "text": "<b>B734</b> - ESF551 (XA-EME) over Mexico. Seen 2x in 5,164 observations"
   },
   {
-   "fr24": "https://www.flightradar24.com/N555TN",
-   "hex": "14e3b4",
-   "icon": "\ud83d\udef8",
-   "kind": "UAV",
+   "fr24": "https://www.flightradar24.com/data/aircraft/zs-gag",
+   "hex": "008fef",
+   "icon": "\u2728",
+   "kind": "RARE",
    "photo": true,
-   "text": "<b>N555TN</b> - unmanned aircraft at 12,700 ft over US West"
+   "text": "<b>DC93</b> - ZS-GAG (ZS-GAG) over S Africa. Seen 1x in 5,202 observations"
   },
   {
-   "fr24": "https://www.flightradar24.com/QTR8188",
+   "fr24": "https://www.flightradar24.com/CLX492",
    "hex": null,
    "icon": "\ud83c\udf0d",
    "kind": "ROUTE",
    "photo": false,
-   "text": "<b>QTR8188</b> IAH-LGG-DMM-DOH (B77L)\n    foreign-to-foreign: IAH (US) \u2192 LGG (BE); LGG (BE) \u2192 DMM (SA)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA26",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA26</b> SIN-FRA-JFK (B77W)\n    foreign-to-foreign: FRA (DE) \u2192 JFK (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5025",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5025</b> KIX-HKG-IST-CDG-LGG-MEM (B77L)\n    foreign-to-foreign: KIX (JP) \u2192 HKG (HK); HKG (HK) \u2192 IST (TR); IST (TR) \u2192 CDG (FR); CDG (FR) \u2192 LGG (BE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5090",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5090</b> KIX-PVG (B77L)\n    foreign-to-foreign: KIX (JP) \u2192 PVG (CN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5230",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5230</b> ICN-SZX-ANC (B77L)\n    foreign-to-foreign: ICN (KR) \u2192 SZX (CN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UNIDENT",
-   "hex": "a98ac9",
-   "icon": "\ud83d\udef8",
-   "kind": "UAV",
-   "photo": true,
-   "text": "<b>UNIDENT</b> - unmanned aircraft at 11,975 ft over Gulf"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LAN762",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>LAN762</b> SCL-GRU-MVD (A20N)\n    foreign-to-foreign: GRU (BR) \u2192 MVD (UY)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QTR31T",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR31T</b> DOH-MXP-ORD (B77L)\n    foreign-to-foreign: MXP (IT) \u2192 ORD (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAS541",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SAS541</b> CPH-MAN (A20N)\n    foreign-to-foreign: CPH (DK) \u2192 MAN (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAS2535",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SAS2535</b> CPH-BHX (CRJ9)\n    foreign-to-foreign: CPH (DK) \u2192 BHX (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N2532K",
-   "hex": "a2654b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>VR7</b> - N2532K (N2532K) over US Northeast. Seen 2x in 4,002 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N3LE",
-   "hex": "a31b9f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C207</b> - N3LE (N3LE) over US Northeast. Seen 2x in 4,005 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UCA4815",
-   "hex": "a1c0ec",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E45X</b> - UCA4815 (N21197) over US Northeast. Seen 2x in 4,006 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N21ZZ",
-   "hex": "a1b980",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RANG</b> - N21ZZ (N21ZZ) over US Northeast. Seen 2x in 4,063 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MUSL",
-   "hex": "ae624f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B212</b> - MUSL (71-58277) over US Northeast. Seen 1x in 4,075 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N46HL",
-   "hex": "a597fc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PAY4</b> - N46HL (N46HL) over US Northeast. Seen 1x in 4,100 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N9265R",
-   "hex": "acd78b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PA46</b> - N9265R (N9265R) over US Northeast. Seen 2x in 4,123 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N472SF",
-   "hex": "a5ca1e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GLAS</b> - N472SF (N472SF) over US Northeast. Seen 1x in 4,134 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N921LL",
-   "hex": "acc2e6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC55</b> - N921LL (N921LL) over US Northeast. Seen 2x in 4,165 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JZA876",
-   "hex": "c00b93",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E75S</b> - JZA876 (C-FEJY) over US Northeast. Seen 2x in 4,177 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MUSL",
-   "hex": "ae624e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B212</b> - MUSL (69-7538) over US Northeast. Seen 2x in 4,180 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N2150P",
-   "hex": "a1ce7b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PA23</b> - N2150P (N2150P) over US Northeast. Seen 2x in 4,186 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N915NP",
-   "hex": "acaa78",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>NG5</b> - N915NP (N915NP) over US Northeast. Seen 2x in 4,198 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N8992P",
-   "hex": "ac696f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PA24</b> - N8992P (N8992P) over US Northeast. Seen 1x in 4,199 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GU81",
-   "hex": "ae63fa",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - GU81 (67-14923) over US Northeast. Seen 1x in 4,224 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N679SP",
-   "hex": "a8fec5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RV9</b> - N679SP (N679SP) over US Northeast. Seen 2x in 4,250 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N89033",
-   "hex": "ac4831",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C140</b> - N89033 (N89033) over US Northeast. Seen 1x in 4,253 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N101GC",
-   "hex": "a00904",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SONX</b> - N101GC (N101GC) over US Northeast. Seen 2x in 4,260 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N550DH",
-   "hex": "a6ffbe",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ST75</b> - N550DH (N550DH) over US Northeast. Seen 2x in 4,263 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BISON45",
-   "hex": "ae6bb5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>V22</b> - BISON45 (169468) over US Northeast. Seen 1x in 4,286 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DO04",
-   "hex": "ae63f3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - DO04 (68-8185) over US Northeast. Seen 2x in 4,300 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N40TD",
-   "hex": "a4abf5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>COZY</b> - N40TD (N40TD) over US Northeast. Seen 2x in 4,315 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS5195",
-   "hex": "a0cbff",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A306</b> - UPS5195 (N150UP) over US Northeast. Seen 1x in 4,335 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N852AM",
-   "hex": "abaed2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TBM8</b> - N852AM (N852AM) over US Northeast. Seen 2x in 4,347 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N97SM",
-   "hex": "ad82e8",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RF10</b> - N97SM (N97SM) over US Northeast. Seen 2x in 4,352 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N808TL",
-   "hex": "ab0149",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ULAC</b> - N808TL (N808TL) over US Northeast. Seen 2x in 4,359 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N38HF",
-   "hex": "a459a6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>S76</b> - N38HF (N38HF) over US Northeast. Seen 1x in 4,360 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/C6510",
-   "hex": "ae2664",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AS65</b> - C6510 (6510) over US Northeast. Seen 1x in 4,370 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N766WM",
-   "hex": "aa59d2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PA18</b> - N766WM (N766WM) over US Northeast. Seen 2x in 4,386 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N487GC",
-   "hex": "a60333",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>G103</b> - N487GC (N487GC) over US Northeast. Seen 1x in 4,388 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NC4689",
-   "hex": "a5bae6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TVLB</b> - NC4689 (N4689) over US Northeast. Seen 1x in 4,397 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N5829R",
-   "hex": "a780f9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>G109</b> - N5829R (N5829R) over US Northeast. Seen 1x in 4,400 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SCORE90",
-   "hex": "ae5c73",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>Q4</b> - SCORE90 (168459) over US Northeast. Seen 2x in 4,430 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ROCCO32",
-   "hex": "ae5bc6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B762</b> - ROCCO32 (16-46021) over US Northeast. Seen 2x in 4,456 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CFBKB",
-   "hex": "c003aa",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DC3T</b> - CFBKB (C-FBKB) over US Northeast. Seen 2x in 4,469 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N159G",
-   "hex": "a0ec34",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ALTO</b> - N159G (N159G) over US Northeast. Seen 2x in 4,486 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DAL2577",
-   "hex": "ad675d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B712</b> - DAL2577 (N963AT) over US Northeast. Seen 1x in 4,493 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RCH1844",
-   "hex": "ae0584",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C5M</b> - RCH1844 (87-0039) over US Northeast. Seen 1x in 4,551 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DAL2044",
-   "hex": "ad3870",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B712</b> - DAL2044 (N951AT) over US Northeast. Seen 2x in 4,591 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N6683Y",
-   "hex": "a8d4c9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B58T</b> - N6683Y (N6683Y) over US Northeast. Seen 1x in 4,658 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N497RV",
-   "hex": "a62ba4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RV14</b> - N497RV (N497RV) over US Northeast. Seen 1x in 4,673 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N4350W",
-   "hex": "a5381e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE24</b> - N4350W (N4350W) over US Northeast. Seen 2x in 4,727 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N441WD",
-   "hex": "a5504c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C441</b> - N441WD (N441WD) over US Northeast. Seen 1x in 4,736 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JUMP1",
-   "hex": "aa1aa8",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P750</b> - JUMP1 (N750GJ) over US Northeast. Seen 1x in 4,744 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N4968W",
-   "hex": "a629e7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AC11</b> - N4968W (N4968W) over US Northeast. Seen 1x in 4,749 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N455HS",
-   "hex": "a5856f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C82T</b> - N455HS (N455HS) over US Northeast. Seen 2x in 4,752 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N200BA",
-   "hex": "a1921d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GALX</b> - N200BA (N200BA) over US Northeast. Seen 2x in 4,761 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N750SD",
-   "hex": "aa1b9d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P750</b> - N750SD (N750SD) over US Northeast. Seen 2x in 4,777 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N812RR",
-   "hex": "ab1251",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>M7</b> - N812RR (N812RR) over US Northeast. Seen 1x in 4,784 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SCORE23",
-   "hex": "ae2fd3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E2</b> - SCORE23 (167929) over US Northeast. Seen 2x in 4,792 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N818RS",
-   "hex": "ab289c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LS8</b> - N818RS (N818RS) over US Northeast. Seen 2x in 4,804 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N6176V",
-   "hex": "a80bfd",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LA4</b> - N6176V (N6176V) over US Northeast. Seen 1x in 4,807 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N298PA",
-   "hex": "a31478",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A32P</b> - N298PA (N298PA) over US Northeast. Seen 2x in 4,811 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/COUGR61",
-   "hex": "ae01a4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LJ35</b> - COUGR61 (86-0377) over US Northeast. Seen 1x in 4,815 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N445Y",
-   "hex": "a55f56",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>O1</b> - N445Y (N445Y) over US Northeast. Seen 2x in 4,825 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N203LS",
-   "hex": "a19e33",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FDCT</b> - N203LS (N203LS) over US Northeast. Seen 2x in 4,850 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N28941",
-   "hex": "a2f268",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T28</b> - N28941 (N28941) over US Northeast. Seen 2x in 4,905 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5924",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5924</b> PEK-ICN-KIX (B77L)\n    foreign-to-foreign: PEK (CN) \u2192 ICN (KR); ICN (KR) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5262",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5262</b> TAO-KIX-MEM (B77L)\n    foreign-to-foreign: TAO (CN) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL821",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL821</b> BKK-HKG-LAX (B789)\n    foreign-to-foreign: BKK (TH) \u2192 HKG (HK)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QQE786",
-   "hex": "06a371",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GA7C</b> - QQE786 (A7-CHJ) over Japan. Seen 2x in 4,962 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/EVA647",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>EVA647</b> ORD-ANC-TPE (B77L)\n    foreign-to-foreign: ORD (US) \u2192 ANC (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GTI537",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>GTI537</b> ORD-ANC-ICN-PVG (B748)\n    foreign-to-foreign: ICN (KR) \u2192 PVG (CN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA7228",
-   "hex": "7c5d71",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B463</b> - QFA7228 (VH-SQR) over Australia. Seen 2x in 4,980 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CAR3",
-   "hex": "7cf451",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SERV</b> - CAR3 (CAR 3) over Australia. Seen 1x in 4,982 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/22548RA",
-   "hex": "1affff",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MI8</b> - 22548RA (97493) over Russia. Seen 1x in 4,990 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RSD977",
-   "hex": "14fc0b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T204</b> - RSD977 (RA-64523) over Russia. Seen 1x in 4,991 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA180",
-   "hex": "151d58",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA180 (RA-73048) over Russia. Seen 1x in 4,995 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/26750",
-   "hex": "14f126",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A148</b> - 26750 (RA-61734) over Russia. Seen 1x in 4,996 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA576",
-   "hex": "151d6d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B734</b> - UTA576 (RA-73069) over Russia. Seen 1x in 4,997 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA25",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA25</b> JFK-FRA-SIN (B77W)\n    foreign-to-foreign: JFK (US) \u2192 FRA (DE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VUAVT",
-   "hex": "8002cc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E35L</b> - VUAVT (K3602) over India. Seen 2x in 5,003 observations"
+   "text": "<b>CLX492</b> JNB-NBO-AMS-LUX (B744)\n    foreign-to-foreign: JNB (ZA) \u2192 NBO (KE); NBO (KE) \u2192 AMS (NL)"
   }
  ],
  "routes": {
@@ -756,6 +108,54 @@
     }
    ]
   },
+  "AAL2468": {
+   "airline": "AAL",
+   "iata": "DFW-OAX-DFW",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "DFW",
+     "lat": 32.896801,
+     "lon": -97.038002
+    },
+    {
+     "cc": "MX",
+     "iata": "OAX",
+     "lat": 16.999901,
+     "lon": -96.726601
+    },
+    {
+     "cc": "US",
+     "iata": "DFW",
+     "lat": 32.896801,
+     "lon": -97.038002
+    }
+   ]
+  },
+  "AAL264": {
+   "airline": "AAL",
+   "iata": "MIA-MEX-MIA",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "MIA",
+     "lat": 25.7932,
+     "lon": -80.290604
+    },
+    {
+     "cc": "MX",
+     "iata": "MEX",
+     "lat": 19.4363,
+     "lon": -99.072098
+    },
+    {
+     "cc": "US",
+     "iata": "MIA",
+     "lat": 25.7932,
+     "lon": -80.290604
+    }
+   ]
+  },
   "AAL3317": {
    "airline": "AAL",
    "iata": "DFW-LAX",
@@ -771,6 +171,24 @@
      "iata": "LAX",
      "lat": 33.942501,
      "lon": -118.407997
+    }
+   ]
+  },
+  "AAL393": {
+   "airline": "AAL",
+   "iata": "DFW-MEX",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "DFW",
+     "lat": 32.896801,
+     "lon": -97.038002
+    },
+    {
+     "cc": "MX",
+     "iata": "MEX",
+     "lat": 19.4363,
+     "lon": -99.072098
     }
    ]
   },
@@ -1063,6 +481,42 @@
     }
    ]
   },
+  "AFR995": {
+   "airline": "AFR",
+   "iata": "JNB-CDG",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "FR",
+     "iata": "CDG",
+     "lat": 49.012798,
+     "lon": 2.55
+    }
+   ]
+  },
+  "AIC2289": {
+   "airline": "AIC",
+   "iata": "BOM-DOH",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "BOM",
+     "lat": 19.088699,
+     "lon": 72.867897
+    },
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    }
+   ]
+  },
   "AIC2HG": {
    "airline": "AIC",
    "iata": "PNQ-DEL",
@@ -1280,6 +734,7 @@
     }
    ]
   },
+  "AVA072": null,
   "AZU2406": {
    "airline": "AZU",
    "iata": "VCP-IGU",
@@ -1874,6 +1329,36 @@
     }
    ]
   },
+  "CLX492": {
+   "airline": "CLX",
+   "iata": "JNB-NBO-AMS-LUX",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "KE",
+     "iata": "NBO",
+     "lat": -1.31924,
+     "lon": 36.927799
+    },
+    {
+     "cc": "NL",
+     "iata": "AMS",
+     "lat": 52.308601,
+     "lon": 4.76389
+    },
+    {
+     "cc": "LU",
+     "iata": "LUX",
+     "lat": 49.626598,
+     "lon": 6.21152
+    }
+   ]
+  },
   "CPA679": {
    "airline": "CPA",
    "iata": "HKG-DEL",
@@ -2303,6 +1788,24 @@
     }
    ]
   },
+  "DAL588": {
+   "airline": "DAL",
+   "iata": "ATL-MEX",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    },
+    {
+     "cc": "MX",
+     "iata": "MEX",
+     "lat": 19.4363,
+     "lon": -99.072098
+    }
+   ]
+  },
   "DAL7": {
    "airline": "DAL",
    "iata": "LAX-HND",
@@ -2412,6 +1915,24 @@
     }
    ]
   },
+  "DLH573": {
+   "airline": "DLH",
+   "iata": "JNB-FRA",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "DE",
+     "iata": "FRA",
+     "lat": 50.026402,
+     "lon": 8.54313
+    }
+   ]
+  },
   "DLH8KM": {
    "airline": "DLH",
    "iata": "BHX-MUC",
@@ -2448,6 +1969,97 @@
     }
    ]
   },
+  "ETD573": {
+   "airline": "ETD",
+   "iata": "AUH-DMM",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "AUH",
+     "lat": 24.433001,
+     "lon": 54.6511
+    },
+    {
+     "cc": "SA",
+     "iata": "DMM",
+     "lat": 26.471201,
+     "lon": 49.797901
+    }
+   ]
+  },
+  "ETD645": {
+   "airline": "ETD",
+   "iata": "AUH-BAH",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "AUH",
+     "lat": 24.433001,
+     "lon": 54.6511
+    },
+    {
+     "cc": "BH",
+     "iata": "BAH",
+     "lat": 26.2708,
+     "lon": 50.633598
+    }
+   ]
+  },
+  "ETD73G": {
+   "airline": "ETD",
+   "iata": "AUH-KUL",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "AUH",
+     "lat": 24.433001,
+     "lon": 54.6511
+    },
+    {
+     "cc": "MY",
+     "iata": "KUL",
+     "lat": 2.74558,
+     "lon": 101.709999
+    }
+   ]
+  },
+  "ETD822": {
+   "airline": "ETD",
+   "iata": "AUH-ICN",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "AUH",
+     "lat": 24.433001,
+     "lon": 54.6511
+    },
+    {
+     "cc": "KR",
+     "iata": "ICN",
+     "lat": 37.469101,
+     "lon": 126.450996
+    }
+   ]
+  },
+  "ETD920": {
+   "airline": "ETD",
+   "iata": "CDG-AUH",
+   "legs": [
+    {
+     "cc": "FR",
+     "iata": "CDG",
+     "lat": 49.012798,
+     "lon": 2.55
+    },
+    {
+     "cc": "AE",
+     "iata": "AUH",
+     "lat": 24.433001,
+     "lon": 54.6511
+    }
+   ]
+  },
+  "ETD9R5": null,
   "EVA647": {
    "airline": "EVA",
    "iata": "ORD-ANC-TPE",
@@ -2901,6 +2513,7 @@
     }
    ]
   },
+  "IBE0304": null,
   "IBE07SC": null,
   "IBE07WV": null,
   "IGO1007": {
@@ -3026,6 +2639,60 @@
      "iata": "SGN",
      "lat": 10.8188,
      "lon": 106.652
+    }
+   ]
+  },
+  "KAC357": {
+   "airline": "KAC",
+   "iata": "KWI-COK",
+   "legs": [
+    {
+     "cc": "KW",
+     "iata": "KWI",
+     "lat": 29.226601,
+     "lon": 47.968899
+    },
+    {
+     "cc": "IN",
+     "iata": "COK",
+     "lat": 10.152,
+     "lon": 76.401901
+    }
+   ]
+  },
+  "KAC373": {
+   "airline": "KAC",
+   "iata": "KWI-HYD",
+   "legs": [
+    {
+     "cc": "KW",
+     "iata": "KWI",
+     "lat": 29.226601,
+     "lon": 47.968899
+    },
+    {
+     "cc": "IN",
+     "iata": "HYD",
+     "lat": 17.231318,
+     "lon": 78.429855
+    }
+   ]
+  },
+  "KAC381": {
+   "airline": "KAC",
+   "iata": "KWI-DEL",
+   "legs": [
+    {
+     "cc": "KW",
+     "iata": "KWI",
+     "lat": 29.226601,
+     "lon": 47.968899
+    },
+    {
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
     }
    ]
   },
@@ -3217,6 +2884,24 @@
     }
    ]
   },
+  "MSR968": {
+   "airline": "MSR",
+   "iata": "CAI-BOM",
+   "legs": [
+    {
+     "cc": "EG",
+     "iata": "CAI",
+     "lat": 30.121901,
+     "lon": 31.4056
+    },
+    {
+     "cc": "IN",
+     "iata": "BOM",
+     "lat": 19.088699,
+     "lon": 72.867897
+    }
+   ]
+  },
   "N35ZA": null,
   "N831VF": null,
   "PHX58": null,
@@ -3328,6 +3013,60 @@
     }
    ]
   },
+  "QTR1154": {
+   "airline": "QTR",
+   "iata": "DOH-DMM",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "SA",
+     "iata": "DMM",
+     "lat": 26.471201,
+     "lon": 49.797901
+    }
+   ]
+  },
+  "QTR1W": {
+   "airline": "QTR",
+   "iata": "DOH-ATQ",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "IN",
+     "iata": "ATQ",
+     "lat": 31.7096,
+     "lon": 74.797302
+    }
+   ]
+  },
+  "QTR285": {
+   "airline": "QTR",
+   "iata": "DOH-EVN",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "AM",
+     "iata": "EVN",
+     "lat": 40.147301,
+     "lon": 44.395901
+    }
+   ]
+  },
   "QTR31T": {
    "airline": "QTR",
    "iata": "DOH-MXP-ORD",
@@ -3349,6 +3088,78 @@
      "iata": "ORD",
      "lat": 41.9786,
      "lon": -87.9048
+    }
+   ]
+  },
+  "QTR620": {
+   "airline": "QTR",
+   "iata": "DOH-LHE",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "PK",
+     "iata": "LHE",
+     "lat": 31.521601,
+     "lon": 74.403603
+    }
+   ]
+  },
+  "QTR643": {
+   "airline": "QTR",
+   "iata": "DAC-DOH",
+   "legs": [
+    {
+     "cc": "BD",
+     "iata": "DAC",
+     "lat": 23.843347,
+     "lon": 90.397783
+    },
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    }
+   ]
+  },
+  "QTR6N": {
+   "airline": "QTR",
+   "iata": "DOH-MAA",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "IN",
+     "iata": "MAA",
+     "lat": 12.990005,
+     "lon": 80.169296
+    }
+   ]
+  },
+  "QTR71A": {
+   "airline": "QTR",
+   "iata": "DOH-AMD",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "IN",
+     "iata": "AMD",
+     "lat": 23.0772,
+     "lon": 72.634697
     }
    ]
   },
@@ -3400,6 +3211,78 @@
     }
    ]
   },
+  "QTR85R": {
+   "airline": "QTR",
+   "iata": "DOH-COK",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "IN",
+     "iata": "COK",
+     "lat": 10.152,
+     "lon": 76.401901
+    }
+   ]
+  },
+  "QTR95P": {
+   "airline": "QTR",
+   "iata": "CPH-DOH",
+   "legs": [
+    {
+     "cc": "DK",
+     "iata": "CPH",
+     "lat": 55.617901,
+     "lon": 12.656
+    },
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    }
+   ]
+  },
+  "QTR982": {
+   "airline": "QTR",
+   "iata": "DOH-HAN",
+   "legs": [
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    },
+    {
+     "cc": "VN",
+     "iata": "HAN",
+     "lat": 21.221201,
+     "lon": 105.806999
+    }
+   ]
+  },
+  "QTR9H": {
+   "airline": "QTR",
+   "iata": "MEL-DOH",
+   "legs": [
+    {
+     "cc": "AU",
+     "iata": "MEL",
+     "lat": -37.673302,
+     "lon": 144.843002
+    },
+    {
+     "cc": "QA",
+     "iata": "DOH",
+     "lat": 25.273056,
+     "lon": 51.608056
+    }
+   ]
+  },
   "RAM814": {
    "airline": "RAM",
    "iata": "TNG-LGW",
@@ -3418,6 +3301,43 @@
     }
    ]
   },
+  "SAA038": null,
+  "SAA362": {
+   "airline": "SAA",
+   "iata": "CPT-JNB",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "CPT",
+     "lat": -33.964802,
+     "lon": 18.6017
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    }
+   ]
+  },
+  "SAA363": {
+   "airline": "SAA",
+   "iata": "JNB-CPT",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "ZA",
+     "iata": "CPT",
+     "lat": -33.964802,
+     "lon": 18.6017
+    }
+   ]
+  },
   "SAA422": {
    "airline": "SAA",
    "iata": "PLZ-JNB",
@@ -3427,6 +3347,24 @@
      "iata": "PLZ",
      "lat": -33.984901,
      "lon": 25.6173
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    }
+   ]
+  },
+  "SAA578": {
+   "airline": "SAA",
+   "iata": "DUR-JNB",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "DUR",
+     "lat": -29.614444,
+     "lon": 31.119722
     },
     {
      "cc": "ZA",
@@ -4043,6 +3981,96 @@
     }
    ]
   },
+  "UAE2AR": {
+   "airline": "UAE",
+   "iata": "JNB-DXB",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "AE",
+     "iata": "DXB",
+     "lat": 25.2528,
+     "lon": 55.364399
+    }
+   ]
+  },
+  "UAE60L": {
+   "airline": "UAE",
+   "iata": "CPT-DXB",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "CPT",
+     "lat": -33.964802,
+     "lon": 18.6017
+    },
+    {
+     "cc": "AE",
+     "iata": "DXB",
+     "lat": 25.2528,
+     "lon": 55.364399
+    }
+   ]
+  },
+  "UAE810": {
+   "airline": "UAE",
+   "iata": "MED-DXB",
+   "legs": [
+    {
+     "cc": "SA",
+     "iata": "MED",
+     "lat": 24.5534,
+     "lon": 39.705101
+    },
+    {
+     "cc": "AE",
+     "iata": "DXB",
+     "lat": 25.2528,
+     "lon": 55.364399
+    }
+   ]
+  },
+  "UAE821": {
+   "airline": "UAE",
+   "iata": "DXB-DMM",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "DXB",
+     "lat": 25.2528,
+     "lon": 55.364399
+    },
+    {
+     "cc": "SA",
+     "iata": "DMM",
+     "lat": 26.471201,
+     "lon": 49.797901
+    }
+   ]
+  },
+  "UAE922": {
+   "airline": "UAE",
+   "iata": "CAI-DXB",
+   "legs": [
+    {
+     "cc": "EG",
+     "iata": "CAI",
+     "lat": 30.121901,
+     "lon": 31.4056
+    },
+    {
+     "cc": "AE",
+     "iata": "DXB",
+     "lat": 25.2528,
+     "lon": 55.364399
+    }
+   ]
+  },
   "UAL1158": {
    "airline": "UAL",
    "iata": "LAX-HNL",
@@ -4533,8 +4561,9 @@
    ]
   }
  },
- "run": 50,
+ "run": 60,
  "seen": {
+  "ff:CLX492": 1787765979.508436,
   "ff:EVA647": 1787764967.356561,
   "ff:FDX5025": 1787763187.774169,
   "ff:FDX5090": 1787763187.774169,
@@ -4550,12 +4579,15 @@
   "ff:SIA25": 1787765308.723429,
   "ff:SIA26": 1787763187.774169,
   "ff:UAL821": 1787764967.356561,
+  "rare:008fef": 1787765979.508436,
   "rare:06a371": 1787764967.356561,
+  "rare:0d0a9c": 1787765979.508436,
   "rare:14f126": 1787765308.723429,
   "rare:14fc0b": 1787765308.723429,
   "rare:151d58": 1787765308.723429,
   "rare:151d6d": 1787765308.723429,
   "rare:1affff": 1787765308.723429,
+  "rare:70606d": 1787765640.283035,
   "rare:7c5d71": 1787764967.356561,
   "rare:7cf451": 1787764967.356561,
   "rare:8002cc": 1787765308.723429,
@@ -4627,7 +4659,7 @@
  "stats": {
   "diversions": 0,
   "emergencies": 4,
-  "finds": 0
+  "finds": 85
  },
  "type_counts": {
   "A109": 12,
@@ -4636,23 +4668,23 @@
   "A148": 1,
   "A169": 3,
   "A19N": 1,
-  "A20N": 172,
+  "A20N": 195,
   "A210": 3,
-  "A21N": 170,
+  "A21N": 180,
   "A306": 1,
   "A319": 102,
-  "A320": 248,
-  "A321": 130,
+  "A320": 281,
+  "A321": 132,
   "A32P": 2,
-  "A332": 15,
-  "A333": 32,
-  "A338": 1,
+  "A332": 17,
+  "A333": 35,
+  "A338": 2,
   "A339": 15,
   "A343": 3,
   "A346": 4,
-  "A359": 41,
-  "A35K": 13,
-  "A388": 11,
+  "A359": 49,
+  "A35K": 19,
+  "A388": 14,
   "A400": 3,
   "AA5": 9,
   "AC11": 1,
@@ -4664,13 +4696,13 @@
   "AS55": 4,
   "AS65": 1,
   "AT75": 1,
-  "AT76": 23,
+  "AT76": 24,
   "B06": 18,
   "B190": 3,
   "B212": 2,
   "B350": 16,
-  "B38M": 269,
-  "B39M": 52,
+  "B38M": 297,
+  "B39M": 56,
   "B407": 16,
   "B412": 1,
   "B427": 2,
@@ -4680,26 +4712,26 @@
   "B58T": 1,
   "B712": 3,
   "B733": 1,
-  "B734": 1,
+  "B734": 2,
   "B735": 1,
   "B736": 2,
-  "B737": 103,
-  "B738": 335,
+  "B737": 104,
+  "B738": 348,
   "B739": 50,
-  "B744": 8,
-  "B748": 5,
+  "B744": 11,
+  "B748": 6,
   "B752": 15,
   "B753": 3,
   "B762": 3,
-  "B763": 22,
+  "B763": 23,
   "B764": 13,
   "B772": 28,
   "B773": 1,
-  "B77L": 43,
-  "B77W": 54,
-  "B788": 30,
-  "B789": 49,
-  "B78X": 11,
+  "B77L": 45,
+  "B77W": 70,
+  "B788": 34,
+  "B789": 58,
+  "B78X": 14,
   "BALL": 2,
   "BCS1": 9,
   "BCS3": 90,
@@ -4709,7 +4741,7 @@
   "BE30": 1,
   "BE33": 9,
   "BE35": 14,
-  "BE36": 14,
+  "BE36": 15,
   "BE40": 9,
   "BE55": 3,
   "BE58": 4,
@@ -4727,10 +4759,10 @@
   "C152": 31,
   "C17": 1,
   "C170": 3,
-  "C172": 427,
+  "C172": 428,
   "C177": 7,
   "C180": 3,
-  "C182": 68,
+  "C182": 69,
   "C185": 2,
   "C206": 1,
   "C207": 2,
@@ -4768,7 +4800,7 @@
   "CH7B": 3,
   "CL30": 21,
   "CL35": 19,
-  "CL60": 19,
+  "CL60": 21,
   "CLON": 1,
   "COL3": 1,
   "COL4": 1,
@@ -4777,27 +4809,28 @@
   "CRJ7": 42,
   "CRJ9": 59,
   "CRUZ": 2,
-  "DA40": 20,
+  "DA40": 22,
   "DA42": 2,
   "DA62": 4,
   "DC3T": 2,
+  "DC93": 1,
   "DG1T": 1,
   "DH8D": 9,
   "DHC1": 2,
-  "DHC6": 4,
+  "DHC6": 5,
   "DR40": 15,
   "DUOD": 4,
   "DV20": 6,
   "E120": 1,
   "E135": 6,
   "E145": 18,
-  "E170": 23,
-  "E190": 46,
+  "E170": 24,
+  "E190": 47,
   "E195": 4,
   "E2": 2,
   "E290": 3,
   "E295": 34,
-  "E35L": 2,
+  "E35L": 3,
   "E45X": 9,
   "E50P": 2,
   "E545": 10,
@@ -4818,10 +4851,10 @@
   "ERCO": 2,
   "EV97": 1,
   "EVSS": 2,
-  "F2TH": 10,
+  "F2TH": 12,
   "F406": 1,
   "F900": 11,
-  "FA20": 2,
+  "FA20": 3,
   "FA7X": 9,
   "FA8X": 2,
   "FDCT": 2,
@@ -4835,19 +4868,19 @@
   "GA6C": 6,
   "GA7C": 2,
   "GALX": 2,
-  "GL5T": 8,
+  "GL5T": 9,
   "GL7T": 7,
   "GLAS": 1,
   "GLEX": 18,
   "GLF3": 1,
   "GLF4": 12,
-  "GLF5": 13,
+  "GLF5": 14,
   "GLF6": 9,
   "GLID": 8,
   "GND": 6,
   "GYRO": 2,
   "H160": 1,
-  "H25B": 13,
+  "H25B": 14,
   "H47": 5,
   "H500": 10,
   "H60": 19,
@@ -4856,7 +4889,7 @@
   "HUSK": 3,
   "J3": 1,
   "J600": 1,
-  "K35R": 4,
+  "K35R": 5,
   "L39": 1,
   "LA4": 1,
   "LGND": 1,
@@ -4906,7 +4939,7 @@
   "PA44": 9,
   "PA46": 2,
   "PAY4": 1,
-  "PC12": 44,
+  "PC12": 45,
   "PC24": 8,
   "PIAT": 9,
   "PISI": 2,
@@ -4944,7 +4977,7 @@
   "SR22": 35,
   "ST75": 2,
   "SU95": 1,
-  "SW4": 4,
+  "SW4": 5,
   "T18": 1,
   "T204": 1,
   "T206": 9,
@@ -4961,7 +4994,7 @@
   "TOBA": 1,
   "TUCA": 1,
   "TVLB": 1,
-  "TWR": 37,
+  "TWR": 43,
   "U16": 2,
   "U21": 3,
   "UH1": 4,
