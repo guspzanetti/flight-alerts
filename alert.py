@@ -34,6 +34,16 @@ YELLOW_INTERVAL = 55 * 60      # flush the digest roughly hourly
 GREEN_INTERVAL = 24 * 60 * 60  # daily roundup
 SEEN_TTL = 6 * 60 * 60         # forget an aircraft after 6h
 SCAN_INTERVAL = 5 * 60         # expensive regional scan: only every 5 min
+STALE_MAX = 15 * 60            # never compare against a position older than this
+DIGEST_IMAGES = 10             # Telegram allows 10 per media group
+
+# Flight-school and light-GA types orbit constantly on training circuits and
+# were ~150 false hits per run in testing. A circling C172 is not a story.
+TRAINERS = {"C172", "C152", "C162", "C182", "PA28", "PA38", "PA44", "P28A", "P28B",
+            "SR20", "SR22", "DA40", "DA42", "DV20", "BE33", "BE35", "BE36", "BE9T",
+            "AA5", "GROB", "T206", "C206", "C208", "RV7", "RV8", "RV10", "EVOP",
+            "G115", "TECN", "SLG2", "SLG4", "ULAC", "GLID", "B06", "R44", "R22",
+            "H500", "C150", "C120", "P32R", "PA32", "BE76", "C72R", "C77R"}
 ROUTE_BUDGET = 25              # max NEW route lookups per scan (cache makes repeats free)
 ROUTE_CACHE_MAX = 4000         # routes are static, so the cache compounds
 
@@ -287,6 +297,7 @@ def main():
     counts = st.get("type_counts", {})
     stats = st.get("stats", {"emergencies": 0, "diversions": 0, "finds": 0})
     routes = st.get("routes", {})
+    prev = st.get("prev", {})
     if not st:  # cold start: don't fire an empty digest/roundup on the very first run
         st["last_yellow"] = st["last_green"] = ts
 
@@ -340,8 +351,9 @@ def main():
     if not do_scan:
         # Fast tick: emergencies only. The regional sweep is the expensive part,
         # so it runs on its own slower cadence while alerts stay near real-time.
-        st.update({"seen": seen, "queue": queue[-200:], "type_counts": counts,
-                   "routes": routes, "stats": stats, "last_run": now.isoformat()})
+        st.update({"seen": seen, "queue": queue[-400:], "type_counts": counts,
+                   "routes": routes, "prev": prev, "stats": stats,
+                   "last_run": now.isoformat()})
         save_state(st)
         print(f"[{now:%H:%M:%S}] fast tick | feed OK ({n_ctrl}) | queued={len(queue)}")
         return 0
@@ -393,6 +405,38 @@ def main():
                                           f"{total:,} observations",
                                   "fr24": fr24_link(a)})
 
+            # ODD TRACK SHAPES - the category the group actually posts.
+            # Guarded against the two things that made this useless before:
+            # positions older than STALE_MAX, and stale duplicate coordinates.
+            if a.get("lat") is not None and isinstance(alt, int) and typ not in TRAINERS:
+                p = prev.get(hexid)
+                if p and len(p) == 3 and ts - p[2] <= STALE_MAX:
+                    dist = nm(p[0], p[1], a["lat"], a["lon"])
+                    gs = a.get("gs") or 0
+                    mins = max(0.5, (ts - p[2]) / 60.0)
+                    expected = gs * (mins / 60.0)
+                    stale = a.get("seen_pos")
+                    fresh = dist >= 0.75 and not (
+                        isinstance(stale, (int, float)) and stale > 45)
+                    if fresh and expected >= 5:
+                        ratio = dist / expected
+                        if ratio < 0.35:
+                            kind = ("LOW-LEVEL ORBIT" if alt < 12000
+                                    else "HOLDING / CIRCLING")
+                            key = f"shape:{hexid}:{int(ts // 1800)}"
+                            if key not in seen:
+                                seen[key] = ts
+                                queue.append({
+                                    "icon": "\U0001f300", "kind": "SHAPE",
+                                    "hex": hexid, "photo": True,
+                                    "text": f"<b>{label(a)}</b> ({typ or '?'}, "
+                                            f"{a.get('r','?')}) - {kind.lower()}\n"
+                                            f"    {dist:.1f} nm of an expected "
+                                            f"{expected:.0f} ({ratio:.0%}) at "
+                                            f"{alt:,} ft over {rname}",
+                                    "fr24": fr24_link(a)})
+                prev[hexid] = [a["lat"], a["lon"], ts]
+
             # fifth-freedom routings (cache-only: no network here)
             cs = (a.get("flight") or "").strip().upper()
             if cs and f"ff:{cs}" not in seen and cs in routes:
@@ -409,17 +453,36 @@ def main():
     # 4. Flush the digest if it's due ---------------------------------------
     if queue and ts - st.get("last_yellow", 0) > YELLOW_INTERVAL:
         stats["finds"] += len(queue)
-        head = f"\U0001f4e1 <b>Worth a look</b> — {len(queue)} find(s)\n"
-        body = "\n\n".join(f"{q['icon']} {q['text']}" for q in queue[:12])
-        extra = f"\n\n<i>+{len(queue)-12} more</i>" if len(queue) > 12 else ""
-        send(head + "\n" + body + extra)
-        # send the best picture separately, if any find has a track worth seeing
+
+        # Full text digest, chunked - Telegram caps a message at 4096 chars.
+        head = f"\U0001f4e1 <b>Worth a look</b> - {len(queue)} find(s)\n\n"
+        chunk, chunks = head, []
         for q in queue:
-            if q.get("photo") and q.get("hex"):
-                img, cx = tracks.render(q["hex"], f"/tmp/{q['hex']}.png")
-                if img and cx > 1.6:
-                    send(f"{q['icon']} {q['text']}", q.get("fr24"), img)
-                    break
+            line = f"{q['icon']} {q['text']}\n\n"
+            if len(chunk) + len(line) > 3800:
+                chunks.append(chunk)
+                chunk = ""
+            chunk += line
+        if chunk.strip():
+            chunks.append(chunk)
+        for c in chunks:
+            send(c)
+
+        # Pictures for the best-looking tracks. Rendering costs one fetch each,
+        # so only a bounded set of candidates is rendered, then ranked by how
+        # convoluted the path is - path length over bounding-box diagonal.
+        cands = [q for q in queue if q.get("photo") and q.get("hex")][-25:]
+        scored = []
+        for q in cands:
+            img, cx = tracks.render(q["hex"], f"/tmp/{q['hex']}.png")
+            if img:
+                scored.append((cx, q, img))
+        scored.sort(key=lambda t: -t[0])
+        for cx, q, img in scored[:DIGEST_IMAGES]:
+            send(f"{q['icon']} {q['text']}\n<i>shape score {cx:.1f}x</i>",
+                 q.get("fr24"), img)
+
+        print(f"digest sent: {len(queue)} finds, {len(scored[:DIGEST_IMAGES])} images")
         queue = []
         st["last_yellow"] = ts
 
@@ -441,8 +504,11 @@ def main():
         counts = dict(sorted(counts.items(), key=lambda kv: -kv[1])[:600])
     if len(routes) > ROUTE_CACHE_MAX:
         routes = dict(list(routes.items())[-ROUTE_CACHE_MAX:])
-    st.update({"seen": seen, "queue": queue[-200:], "type_counts": counts,
-               "routes": routes, "stats": stats, "last_run": now.isoformat()})
+    if len(prev) > 8000:
+        prev = dict(list(prev.items())[-5000:])
+    st.update({"seen": seen, "queue": queue[-400:], "type_counts": counts,
+               "routes": routes, "prev": prev, "stats": stats,
+               "last_run": now.isoformat()})
     save_state(st)
     print(f"[{now:%Y-%m-%d %H:%M UTC}] run #{run} | feed OK ({n_ctrl}) | "
           f"queued={len(queue)} | routes cached={len(routes)} (+{fetched}) | "
