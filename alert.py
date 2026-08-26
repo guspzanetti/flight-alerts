@@ -184,6 +184,10 @@ def tg(method, params, files=None):
 def send(text, fr24=None, photo=None):
     params = {"chat_id": CHAT, "parse_mode": "HTML", "disable_web_page_preview": "true"}
     if fr24:
+        # A plain URL as well as the button: long-pressable, and it survives
+        # being forwarded to somewhere the inline keyboard does not.
+        text = f"{text}\n\n{fr24}"
+    if fr24:
         params["reply_markup"] = json.dumps(
             {"inline_keyboard": [[{"text": "Open in Flightradar24", "url": fr24}]]})
     if photo:
@@ -200,12 +204,20 @@ def send(text, fr24=None, photo=None):
 
 # ---------------------------------------------------------------- helpers
 def fr24_link(a):
+    """Build a link the Flightradar24 app will actually open.
+
+    FR24's apple-app-site-association shows the Premium app excludes "/data*",
+    so the /data/aircraft/<reg> form can never hand off from the browser to the
+    app for Premium users. A bare callsign is claimed by both apps, and the map
+    coordinate form is not excluded either - so fall back to that rather than
+    to /data when an aircraft broadcasts no callsign.
+    """
     cs = (a.get("flight") or "").strip()
     if cs:
         return f"https://www.flightradar24.com/{cs}"
-    reg = (a.get("r") or "").lower()
-    return f"https://www.flightradar24.com/data/aircraft/{reg}" if reg else \
-           "https://www.flightradar24.com/"
+    if a.get("lat") is not None and a.get("lon") is not None:
+        return f"https://www.flightradar24.com/{a['lat']:.2f},{a['lon']:.2f}/11"
+    return "https://www.flightradar24.com/"
 
 
 def label(a):
