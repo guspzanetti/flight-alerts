@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1788302671.142989,
  "last_green": 1788301697.804025,
- "last_run": "2026-09-02T07:56:56.748549+00:00",
- "last_scan": 1788335669.622871,
- "last_yellow": 1788332647.647162,
+ "last_run": "2026-09-02T08:00:03.362213+00:00",
+ "last_scan": 1788336003.362213,
+ "last_yellow": 1788336003.362213,
  "prev": {
   "0080fe": [
    -25.891525,
@@ -20,15 +20,40 @@
    27.510579,
    1788333673.841516
   ],
+  "0088b3": [
+   -26.03215,
+   28.322961,
+   1788336003.362213
+  ],
+  "008dea": [
+   -25.580246,
+   27.922821,
+   1788336003.362213
+  ],
   "008feb": [
    -25.754653,
    28.526882,
    1788331979.920305
   ],
   "009404": [
-   -25.817592,
-   28.19496,
-   1788333673.841516
+   -25.903946,
+   28.153258,
+   1788336003.362213
+  ],
+  "009893": [
+   -26.134519,
+   27.989308,
+   1788336003.362213
+  ],
+  "009913": [
+   -25.617233,
+   28.353831,
+   1788336003.362213
+  ],
+  "00ae2a": [
+   -27.413589,
+   29.843304,
+   1788336003.362213
   ],
   "00ae6d": [
    -27.519608,
@@ -39,6 +64,11 @@
    -25.002416,
    28.839267,
    1788333673.841516
+  ],
+  "00af60": [
+   -24.852219,
+   28.272654,
+   1788336003.362213
   ],
   "00af85": [
    -25.322183,
@@ -65,10 +95,25 @@
    28.058253,
    1788331979.920305
   ],
+  "00b22b": [
+   -26.042542,
+   28.862431,
+   1788336003.362213
+  ],
   "00b231": [
    -26.209259,
    28.234345,
    1788331979.920305
+  ],
+  "00c45d": [
+   -26.200653,
+   28.484595,
+   1788336003.362213
+  ],
+  "00c45f": [
+   -26.524796,
+   27.497328,
+   1788336003.362213
   ],
   "00c77d": [
    -27.741735,
@@ -114,6 +159,11 @@
    -25.303143,
    28.116708,
    1788331979.920305
+  ],
+  "058024": [
+   -25.966919,
+   28.88259,
+   1788336003.362213
   ],
   "06a071": [
    25.987518,
@@ -345,15 +395,20 @@
    28.679084,
    1788331979.920305
   ],
+  "0a00cd": [
+   -26.328828,
+   28.023852,
+   1788336003.362213
+  ],
   "0c202c": [
    40.343674,
    -73.868164,
    1788334662.993891
   ],
   "0c2068": [
-   19.503021,
-   -98.95631,
-   1788334331.422778
+   18.177206,
+   -95.682188,
+   1788336003.362213
   ],
   "0c208d": [
    18.156537,
@@ -364,6 +419,16 @@
    38.655624,
    -75.294561,
    1788332308.314377
+  ],
+  "0c217b": [
+   23.168257,
+   -98.84201,
+   1788336003.362213
+  ],
+  "0d09ec": [
+   20.986908,
+   -95.110065,
+   1788336003.362213
   ],
   "0d0a0d": [
    32.080637,
@@ -1764,6 +1829,11 @@
    51.629929,
    -0.235612,
    1788333004.895875
+  ],
+  "40688b": [
+   -26.291656,
+   28.208693,
+   1788336003.362213
   ],
   "406890": [
    51.787262,
@@ -3824,6 +3894,11 @@
    51.402562,
    6.220856,
    1788333004.895875
+  ],
+  "4bb101": [
+   -26.185089,
+   28.241807,
+   1788336003.362213
   ],
   "4bb103": [
    49.177597,
@@ -10941,9 +11016,9 @@
    1788319688.737891
   ],
   "89631a": [
-   23.067658,
-   55.523427,
-   1788310749.478141
+   -25.948883,
+   28.47423,
+   1788336003.362213
   ],
   "89631b": [
    24.664307,
@@ -30006,9 +30081,9 @@
    1788301697.804025
   ],
   "c05086": [
-   19.938538,
-   -98.835607,
-   1788334331.422778
+   23.293076,
+   -99.349215,
+   1788336003.362213
   ],
   "c050c5": [
    40.665298,
@@ -31876,9 +31951,9 @@
    1788305451.473137
   ],
   "e80244": [
-   19.607986,
-   -98.870675,
-   1788334331.422778
+   17.15593,
+   -95.957577,
+   1788336003.362213
   ],
   "e8024d": [
    -25.82369,
@@ -31991,240 +32066,7 @@
    1788311083.75752
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/KRAKEN",
-   "hex": "4ca420",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C295</b> - KRAKEN (285) over W Europe. Seen 1x in 23,123 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE9987",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE9987</b> DWC-LGG-ORD (B77L)\n    foreign-to-foreign: LGG (BE) \u2192 ORD (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BGA114R",
-   "hex": "395d6e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA114R (F-GXLO) over W Europe. Seen 1x in 23,163 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NHZ34",
-   "hex": "407c1e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A169</b> - NHZ34 (G-NHVT) over W Europe. Seen 3x in 23,165 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AUR201",
-   "hex": "4068e1",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DHC6</b> - AUR201 (G-ISSG) over W Europe. Seen 3x in 23,223 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SHUCK80",
-   "hex": "ae11d6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E3TF</b> - SHUCK80 (75-0556) over W Europe. Seen 1x in 23,231 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FMY8044",
-   "hex": "3aabfc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TBM7</b> - FMY8044 (136) over W Europe. Seen 4x in 23,238 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LOG28RW",
-   "hex": "407981",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - LOG28RW (G-LMRA) over W Europe. Seen 3x in 23,242 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SFU55",
-   "hex": "405385",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C42</b> - SFU55 (G-SFLB) over W Europe. Seen 1x in 23,286 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UFX61",
-   "hex": "407d97",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A169</b> - UFX61 (G-UNIA) over W Europe. Seen 5x in 23,353 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MZY051A",
-   "hex": "39b325",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SIRA</b> - MZY051A (F-HMZF) over W Europe. Seen 4x in 23,394 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RRR7202",
-   "hex": "43c39d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>R135</b> - RRR7202 (ZZ666) over W Europe. Seen 1x in 23,455 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ARL866W",
-   "hex": "440359",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PA27</b> - ARL866W (OE-FFY) over W Europe. Seen 1x in 23,479 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CERBR18",
-   "hex": "3aabc6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AS55</b> - CERBR18 (F-MAYQ) over W Europe. Seen 3x in 23,491 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TYW751",
-   "hex": "440890",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ASTR</b> - TYW751 (OE-GKW) over W Europe. Seen 5x in 23,563 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IAM1490",
-   "hex": "33ffd6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - IAM1490 (MM62202) over W Europe. Seen 5x in 23,681 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5146",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5146</b> PEN-SIN (B763)\n    foreign-to-foreign: PEN (MY) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/30579",
-   "hex": "14f127",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A148</b> - 30579 (RA-61735) over Russia. Seen 3x in 23,962 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KAL214",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>KAL214</b> LAX-SFO-ICN (B748)\n    foreign-to-foreign: LAX (US) \u2192 SFO (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BAH8",
-   "hex": "894016",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RJ85</b> - BAH8 (A9C-HWR) over Gulf. Seen 6x in 24,074 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QTR8142",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR8142</b> ORD-FRA-DOH (B77L)\n    foreign-to-foreign: ORD (US) \u2192 FRA (DE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BWY40",
-   "hex": "4009cc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA20</b> - BWY40 (G-FRAJ) over W Europe. Seen 1x in 24,254 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VCG1LE",
-   "hex": "407e3a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C25M</b> - VCG1LE (G-SOLE) over W Europe. Seen 4x in 24,346 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/EAP64",
-   "hex": "3990c8",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C77R</b> - EAP64 (F-HEGI) over W Europe. Seen 2x in 24,562 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HS35",
-   "hex": "44f677",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F260</b> - HS35 (ST-40) over W Europe. Seen 2x in 24,734 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HS14",
-   "hex": "44f676",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F260</b> - HS14 (ST-36) over W Europe. Seen 3x in 24,745 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CRATR04",
-   "hex": "44f66a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F260</b> - CRATR04 (ST-20) over W Europe. Seen 4x in 24,749 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/35.15,136.92/11",
-   "hex": "87cc39",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>KC2</b> - 88-1208 (88-1208) over Japan. Seen 4x in 24,933 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QTR8441",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR8441</b> STN-MXP-DOH (B77L)\n    foreign-to-foreign: STN (GB) \u2192 MXP (IT)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL1009": {
    "airline": "AAL",
@@ -56300,8 +56142,27 @@
   },
   "SAA025": null,
   "SAA031": null,
+  "SAA050": null,
   "SAA059": null,
   "SAA067": null,
+  "SAA190": {
+   "airline": "SAA",
+   "iata": "JNB-MRU",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "MU",
+     "iata": "MRU",
+     "lat": -20.430201,
+     "lon": 57.683601
+    }
+   ]
+  },
   "SAA306": {
    "airline": "SAA",
    "iata": "CPT-JNB",
@@ -56317,6 +56178,24 @@
      "iata": "JNB",
      "lat": -26.1392,
      "lon": 28.246
+    }
+   ]
+  },
+  "SAA319": {
+   "airline": "SAA",
+   "iata": "JNB-CPT",
+   "legs": [
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "ZA",
+     "iata": "CPT",
+     "lat": -33.964802,
+     "lon": 18.6017
     }
    ]
   },
@@ -59190,6 +59069,30 @@
     }
    ]
   },
+  "THY21Y": {
+   "airline": "THY",
+   "iata": "IST-JNB-DUR",
+   "legs": [
+    {
+     "cc": "TR",
+     "iata": "IST",
+     "lat": 41.263889,
+     "lon": 28.705556
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    },
+    {
+     "cc": "ZA",
+     "iata": "DUR",
+     "lat": -29.614444,
+     "lon": 31.119722
+    }
+   ]
+  },
   "THY299": null,
   "THY2AY": {
    "airline": "THY",
@@ -59879,6 +59782,24 @@
      "iata": "BKK",
      "lat": 13.6811,
      "lon": 100.747002
+    }
+   ]
+  },
+  "UAE37R": {
+   "airline": "UAE",
+   "iata": "DXB-JNB",
+   "legs": [
+    {
+     "cc": "AE",
+     "iata": "DXB",
+     "lat": 25.2528,
+     "lon": 55.364399
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
     }
    ]
   },
@@ -65159,7 +65080,7 @@
    ]
   }
  },
- "run": 509,
+ "run": 512,
  "seen": {
   "div:AAL9740": 1788314741.877808,
   "div:FDX1385": 1788320331.898316,
@@ -65198,6 +65119,7 @@
   "ff:SIA478": 1788320019.362964,
   "ff:THY16": 1788328637.141371,
   "ff:THY215": 1788330320.751415,
+  "ff:THY21Y": 1788336003.362213,
   "ff:THY6657": 1788323642.691188,
   "ff:UAE348": 1788329314.553343,
   "ff:UAE3HJ": 1788316738.032792,
@@ -65208,6 +65130,7 @@
   "ff:UPS15": 1788320996.216775,
   "rare:0088b3": 1788329670.452452,
   "rare:008fef": 1788329670.452452,
+  "rare:009913": 1788336003.362213,
   "rare:14f115": 1788325669.946921,
   "rare:14f127": 1788333673.841516,
   "rare:151d50": 1788327321.090905,
@@ -65276,7 +65199,7 @@
  "stats": {
   "diversions": 12,
   "emergencies": 4,
-  "finds": 156
+  "finds": 187
  },
  "type_counts": {
   "A109": 11,
@@ -65292,18 +65215,18 @@
   "A310": 1,
   "A318": 2,
   "A319": 442,
-  "A320": 1711,
+  "A320": 1714,
   "A321": 1025,
   "A332": 164,
   "A333": 328,
   "A337": 2,
   "A338": 9,
-  "A339": 138,
+  "A339": 139,
   "A343": 19,
   "A346": 8,
-  "A359": 478,
+  "A359": 479,
   "A35K": 115,
-  "A388": 208,
+  "A388": 209,
   "A400": 1,
   "A5": 1,
   "AA1": 1,
@@ -65327,8 +65250,8 @@
   "B190": 12,
   "B212": 9,
   "B350": 71,
-  "B38M": 1581,
-  "B39M": 325,
+  "B38M": 1582,
+  "B39M": 326,
   "B407": 38,
   "B412": 10,
   "B427": 2,
@@ -65342,27 +65265,27 @@
   "B735": 7,
   "B736": 18,
   "B737": 461,
-  "B738": 2725,
+  "B738": 2729,
   "B739": 274,
   "B744": 114,
   "B748": 92,
   "B752": 219,
   "B753": 18,
   "B762": 47,
-  "B763": 589,
+  "B763": 590,
   "B764": 72,
   "B772": 275,
   "B773": 24,
   "B77L": 227,
-  "B77W": 657,
+  "B77W": 658,
   "B788": 353,
-  "B789": 635,
+  "B789": 636,
   "B78X": 149,
   "BALL": 6,
   "BCS1": 32,
   "BCS3": 367,
   "BE18": 1,
-  "BE20": 63,
+  "BE20": 65,
   "BE23": 1,
   "BE30": 6,
   "BE33": 11,
@@ -65373,7 +65296,7 @@
   "BE58": 24,
   "BE60": 1,
   "BE76": 11,
-  "BE95": 1,
+  "BE95": 2,
   "BE99": 8,
   "BE9L": 15,
   "BE9T": 1,
@@ -65390,7 +65313,7 @@
   "C152": 80,
   "C162": 18,
   "C17": 38,
-  "C172": 894,
+  "C172": 895,
   "C175": 6,
   "C177": 18,
   "C180": 3,
@@ -65453,7 +65376,7 @@
   "DA62": 8,
   "DC93": 1,
   "DH8B": 12,
-  "DH8C": 1,
+  "DH8C": 2,
   "DH8D": 205,
   "DHC2": 2,
   "DHC3": 1,
@@ -65465,7 +65388,7 @@
   "E135": 38,
   "E145": 69,
   "E170": 94,
-  "E190": 227,
+  "E190": 228,
   "E195": 11,
   "E2": 1,
   "E290": 5,
@@ -65626,7 +65549,7 @@
   "SLG2": 44,
   "SLG4": 92,
   "SR20": 73,
-  "SR22": 81,
+  "SR22": 82,
   "SW3": 2,
   "SW4": 8,
   "T204": 2,
@@ -65647,6 +65570,7 @@
   "V10": 11,
   "V22": 33,
   "VL3": 4,
+  "WACF": 1,
   "WT9": 2
  }
 }
