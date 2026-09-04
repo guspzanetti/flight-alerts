@@ -1,34 +1,104 @@
 {
  "last_feed_warn": 1788444853.719563,
  "last_green": 1788474821.846802,
- "last_run": "2026-09-04T08:00:21.545370+00:00",
- "last_scan": 1788508546.423279,
- "last_yellow": 1788505520.098956,
+ "last_run": "2026-09-04T08:01:25.946128+00:00",
+ "last_scan": 1788508885.946128,
+ "last_yellow": 1788508885.946128,
  "prev": {
+  "0031cb": [
+   -25.954735,
+   30.057801,
+   1788508885.946128
+  ],
+  "00834b": [
+   -25.636317,
+   27.951603,
+   1788508885.946128
+  ],
   "0083cf": [
    -25.56486,
    28.55725,
    1788507207.769836
+  ],
+  "008de8": [
+   -27.561578,
+   29.425084,
+   1788508885.946128
+  ],
+  "0096c6": [
+   -26.950928,
+   29.01624,
+   1788508885.946128
+  ],
+  "009d4a": [
+   -26.034164,
+   29.045209,
+   1788508885.946128
+  ],
+  "009e21": [
+   -26.901855,
+   29.433254,
+   1788508885.946128
   ],
   "00a51a": [
    -26.557353,
    28.390785,
    1788507207.769836
   ],
+  "00ae17": [
+   -26.124883,
+   28.183154,
+   1788508885.946128
+  ],
+  "00aeff": [
+   -24.385505,
+   28.96846,
+   1788508885.946128
+  ],
   "00af60": [
    -26.218965,
    28.691535,
    1788507207.769836
+  ],
+  "00af85": [
+   -26.340958,
+   28.352707,
+   1788508885.946128
+  ],
+  "00b08a": [
+   -26.0801,
+   28.10271,
+   1788508885.946128
   ],
   "00b08c": [
    -26.688217,
    28.843413,
    1788507207.769836
   ],
+  "00b102": [
+   -26.15918,
+   28.612181,
+   1788508885.946128
+  ],
+  "00b22b": [
+   -26.024935,
+   28.268984,
+   1788508885.946128
+  ],
+  "00b22d": [
+   -26.68808,
+   28.827503,
+   1788508885.946128
+  ],
   "00b22e": [
    -26.031097,
    28.244554,
    1788507207.769836
+  ],
+  "00c451": [
+   -26.547455,
+   28.553933,
+   1788508885.946128
   ],
   "010249": [
    26.459314,
@@ -1226,9 +1296,9 @@
    1788508208.26242
   ],
   "406a05": [
-   -24.396515,
-   26.809845,
-   1788507207.769836
+   -26.174368,
+   28.24511,
+   1788508885.946128
   ],
   "406a3e": [
    50.881782,
@@ -2310,6 +2380,11 @@
    5.130772,
    1788508208.26242
   ],
+  "4841c3": [
+   -25.755305,
+   27.506915,
+   1788508885.946128
+  ],
   "484368": [
    53.231134,
    -1.77405,
@@ -2710,10 +2785,15 @@
    2.143418,
    1788505863.392813
   ],
+  "4b9e55": [
+   55.458298,
+   31.530096,
+   1788508885.946128
+  ],
   "4b9e56": [
-   55.421929,
-   31.465676,
-   1788506540.18294
+   56.02771,
+   37.586476,
+   1788508885.946128
   ],
   "4bb065": [
    50.524017,
@@ -2734,6 +2814,11 @@
    -34.331065,
    147.315617,
    1788507867.407684
+  ],
+  "4bb104": [
+   -25.415543,
+   28.634949,
+   1788508885.946128
   ],
   "4bb141": [
    41.03009,
@@ -6119,6 +6204,11 @@
    25.303888,
    55.202257,
    1788506869.251034
+  ],
+  "8963d8": [
+   -25.485069,
+   28.72448,
+   1788508885.946128
   ],
   "8963de": [
    23.669769,
@@ -30486,363 +30576,8 @@
    1788461071.706621
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/2RUFF",
-   "hex": "43f704",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>K100</b> - 2RUFF (2-RUFF) over W Europe. Seen 40x in 175,478 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH728",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH728</b> ADD-GVA-MAN (A359)\n    foreign-to-foreign: GVA (CH) \u2192 MAN (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GTI5561",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>GTI5561</b> MIA-LGG-ALA-HKG (B744)\n    foreign-to-foreign: LGG (BE) \u2192 ALA (KZ); ALA (KZ) \u2192 HKG (HK)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CTM2007",
-   "hex": "3b77c3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CN35</b> - CTM2007 (64-IO) over W Europe. Seen 21x in 175,729 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NEPTN56",
-   "hex": "481041",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>NH90</b> - NEPTN56 (N-088) over W Europe. Seen 4x in 175,906 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HHE15A",
-   "hex": "484bd8",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC55</b> - HHE15A (PH-EUB) over W Europe. Seen 19x in 175,943 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LXHMC",
-   "hex": "4d0296",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA8X</b> - LXHMC (LX-SHS) over W Europe. Seen 26x in 175,953 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA25",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA25</b> JFK-FRA-SIN (B77W)\n    foreign-to-foreign: JFK (US) \u2192 FRA (DE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HHE62A",
-   "hex": "485734",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC75</b> - HHE62A (PH-OSF) over W Europe. Seen 42x in 175,964 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA26",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA26</b> SIN-FRA-JFK (B77W)\n    foreign-to-foreign: FRA (DE) \u2192 JFK (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PH2RK",
-   "hex": "486868",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>VFHC</b> - PH2RK (PH-2RK) over W Europe. Seen 3x in 175,990 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CPA450",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>CPA450</b> HKG-TPE-NRT (B773)\n    foreign-to-foreign: TPE (TW) \u2192 NRT (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/231131",
-   "hex": "7cc43b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>NG5</b> - 231131 (23-1131) over Australia. Seen 35x in 176,365 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ZVM",
-   "hex": "7c8190",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P750</b> - ZVM (VH-ZVM) over Australia. Seen 8x in 176,370 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA455",
-   "hex": "151d4f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA455 (RA-73039) over Russia. Seen 34x in 176,373 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VDA8082",
-   "hex": "1540a1",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A124</b> - VDA8082 (RA-82081) over Gulf. Seen 12x in 176,439 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KQA2341",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>KQA2341</b> SHJ-HGA-NBO (B738)\n    foreign-to-foreign: SHJ (AE) \u2192 HGA (SO)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH3652",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH3652</b> SCL-LOS-MCT (B77L)\n    foreign-to-foreign: SCL (CL) \u2192 LOS (NG); LOS (NG) \u2192 MCT (OM)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QTR8359",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR8359</b> IAH-LGG-RUH-DOH (B77L)\n    foreign-to-foreign: IAH (US) \u2192 LGG (BE); LGG (BE) \u2192 RUH (SA)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE348",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE348</b> DXB-SIN-KTI (B77W)\n    foreign-to-foreign: SIN (SG) \u2192 KTI (KH)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ACA7246",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ACA7246</b> YYZ-NLU-GDL (B763)\n    foreign-to-foreign: NLU (MX) \u2192 GDL (MX)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KAL214",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>KAL214</b> LAX-SFO-ICN (B744)\n    foreign-to-foreign: LAX (US) \u2192 SFO (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PCJ2",
-   "hex": "a95ca7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LJ31</b> - PCJ2 (N702GW) over US West. Seen 35x in 176,671 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY174",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY174</b> IST-KUL-SYD (A359)\n    foreign-to-foreign: KUL (MY) \u2192 SYD (AU)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/R2575",
-   "hex": "7cc5c2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ALTO</b> - R2575 (23-2575) over Australia. Seen 5x in 176,782 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PE994",
-   "hex": "7c498f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>JS32</b> - PE994 (VH-OTD) over Australia. Seen 43x in 176,791 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PE315",
-   "hex": "7c499c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>JS32</b> - PE315 (VH-OTQ) over Australia. Seen 44x in 176,795 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/EWE",
-   "hex": "7c175c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T18</b> - EWE (VH-EWE) over Australia. Seen 2x in 176,868 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QTR8159",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR8159</b> DOH-LGG-GRU-UIO (B77L)\n    foreign-to-foreign: LGG (BE) \u2192 GRU (BR); GRU (BR) \u2192 UIO (EC)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CCA897",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>CCA897</b> PEK-MAD-GRU (B789)\n    foreign-to-foreign: MAD (ES) \u2192 GRU (BR)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HKS75",
-   "hex": "407b24",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC75</b> - HKS75 (G-EMEI) over W Europe. Seen 43x in 177,211 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AFR62HP",
-   "hex": "3950cc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - AFR62HP (F-GUGM) over W Europe. Seen 41x in 177,347 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AFR76SP",
-   "hex": "3950ce",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - AFR76SP (F-GUGO) over W Europe. Seen 42x in 177,474 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CTM1717",
-   "hex": "3b9bb3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E121</b> - CTM1717 (67) over W Europe. Seen 4x in 177,510 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HS14",
-   "hex": "44f676",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F260</b> - HS14 (ST-36) over W Europe. Seen 16x in 177,539 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CTM1755",
-   "hex": "3b7731",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E121</b> - CTM1755 (084) over W Europe. Seen 5x in 177,549 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CTM1753",
-   "hex": "3b7723",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E121</b> - CTM1753 (107) over W Europe. Seen 6x in 177,564 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CPA2074",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>CPA2074</b> SIN-PEN-PNH-HKG (B744)\n    foreign-to-foreign: SIN (SG) \u2192 PEN (MY); PEN (MY) \u2192 PNH (KH)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CPA565",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>CPA565</b> KIX-TPE-HKG (B773)\n    foreign-to-foreign: KIX (JP) \u2192 TPE (TW)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JL2325",
-   "hex": "845bde",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT46</b> - JL2325 (JA10JC) over Japan. Seen 29x in 177,672 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JN5519",
-   "hex": "87c842",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P1</b> - JN5519 (5519) over Japan. Seen 27x in 177,757 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA12",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA12</b> SIN-NRT-LAX (B77W)\n    foreign-to-foreign: NRT (JP) \u2192 LAX (US)"
-  }
- ],
+ "queue": [],
  "routes": {
-  "ANA527": {
-   "airline": "ANA",
-   "iata": "ITM-KMJ",
-   "legs": [
-    {
-     "cc": "JP",
-     "iata": "ITM",
-     "lat": 34.7855,
-     "lon": 135.438004
-    },
-    {
-     "cc": "JP",
-     "iata": "KMJ",
-     "lat": 32.837299,
-     "lon": 130.854996
-    }
-   ]
-  },
   "ANA727": {
    "airline": "ANA",
    "iata": "HND-IWJ",
@@ -30876,6 +30611,24 @@
      "iata": "SIN",
      "lat": 1.35019,
      "lon": 103.994003
+    }
+   ]
+  },
+  "BAW57K": {
+   "airline": "BAW",
+   "iata": "LHR-JNB",
+   "legs": [
+    {
+     "cc": "GB",
+     "iata": "LHR",
+     "lat": 51.4706,
+     "lon": -0.461941
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
     }
    ]
   },
@@ -102249,7 +102002,7 @@
   },
   "VYT74": null
  },
- "run": 2936,
+ "run": 2937,
  "seen": {
   "div:TAM3826": 1788497537.906397,
   "div:TAP118": 1788489572.976922,
@@ -102296,6 +102049,7 @@
   "ff:KLM835": 1788504519.274052,
   "ff:KQA2341": 1788506869.251034,
   "ff:MAS6125": 1788490895.937148,
+  "ff:MPH8341": 1788508885.946128,
   "ff:QFA219": 1788492225.731108,
   "ff:QFA256": 1788498195.149163,
   "ff:QFA7536": 1788492578.633045,
@@ -102328,6 +102082,7 @@
   "ff:THY175": 1788490577.419534,
   "ff:THY181": 1788493887.463953,
   "ff:THY215": 1788501524.483937,
+  "ff:THY21Y": 1788508885.946128,
   "ff:UAE248": 1788493565.153753,
   "ff:UAE348": 1788506869.251034,
   "ff:UAE3HJ": 1788505179.274189,
@@ -102432,7 +102187,7 @@
  "stats": {
   "diversions": 13,
   "emergencies": 4,
-  "finds": 207
+  "finds": 251
  },
  "type_counts": {
   "A109": 188,
@@ -102450,7 +102205,7 @@
   "A310": 4,
   "A318": 42,
   "A319": 3984,
-  "A320": 11364,
+  "A320": 11367,
   "A321": 6055,
   "A332": 930,
   "A333": 1700,
@@ -102460,9 +102215,9 @@
   "A343": 98,
   "A345": 5,
   "A346": 63,
-  "A359": 2763,
+  "A359": 2764,
   "A35K": 683,
-  "A388": 1128,
+  "A388": 1129,
   "A400": 39,
   "A5": 10,
   "AA1": 4,
@@ -102507,7 +102262,7 @@
   "B36T": 1,
   "B38M": 10769,
   "B39M": 2175,
-  "B407": 424,
+  "B407": 425,
   "B412": 81,
   "B427": 5,
   "B429": 182,
@@ -102524,11 +102279,11 @@
   "B734": 210,
   "B735": 35,
   "B736": 103,
-  "B737": 3251,
-  "B738": 17314,
+  "B737": 3252,
+  "B738": 17317,
   "B739": 1830,
   "B742": 6,
-  "B744": 689,
+  "B744": 690,
   "B748": 516,
   "B752": 1123,
   "B753": 129,
@@ -102536,9 +102291,9 @@
   "B763": 3126,
   "B764": 420,
   "B772": 1605,
-  "B773": 110,
+  "B773": 112,
   "B77L": 1525,
-  "B77W": 3580,
+  "B77W": 3581,
   "B788": 1918,
   "B789": 3641,
   "B78X": 848,
@@ -102549,7 +102304,7 @@
   "BE10": 9,
   "BE18": 1,
   "BE19": 2,
-  "BE20": 629,
+  "BE20": 631,
   "BE23": 18,
   "BE24": 14,
   "BE30": 18,
@@ -102627,7 +102382,7 @@
   "C525": 106,
   "C550": 104,
   "C55B": 22,
-  "C560": 177,
+  "C560": 178,
   "C56X": 746,
   "C5M": 30,
   "C650": 50,
@@ -102714,14 +102469,14 @@
   "E110": 1,
   "E120": 25,
   "E121": 6,
-  "E135": 258,
+  "E135": 259,
   "E145": 789,
   "E170": 836,
-  "E190": 1744,
-  "E195": 122,
+  "E190": 1745,
+  "E195": 123,
   "E2": 9,
   "E290": 62,
-  "E295": 1059,
+  "E295": 1060,
   "E300": 25,
   "E35L": 140,
   "E390": 2,
@@ -102951,7 +102706,7 @@
   "PAY1": 5,
   "PAY2": 5,
   "PAY4": 4,
-  "PC12": 1564,
+  "PC12": 1565,
   "PC21": 148,
   "PC24": 284,
   "PC6T": 19,
