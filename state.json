@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1791122529.116921,
  "last_green": 1791084275.450539,
- "last_run": "2026-10-04T16:20:12.604219+00:00",
- "last_scan": 1791130657.541294,
- "last_yellow": 1791127986.324491,
+ "last_run": "2026-10-04T16:31:17.233135+00:00",
+ "last_scan": 1791131327.308107,
+ "last_yellow": 1791131327.308107,
  "prev": {
   "02a1a2": [
    48.657051,
@@ -685,15 +685,60 @@
    -73.379883,
    1791130657.541294
   ],
+  "75026b": [
+   34.058304,
+   137.798151,
+   1791131001.247107
+  ],
+  "76cef0": [
+   28.254227,
+   76.943224,
+   1791131327.308107
+  ],
+  "780a96": [
+   38.223267,
+   142.34325,
+   1791131001.247107
+  ],
+  "780c06": [
+   35.4803,
+   139.844912,
+   1791131001.247107
+  ],
   "780f3f": [
    50.999176,
    5.004089,
    1791130657.541294
   ],
+  "789214": [
+   37.254173,
+   140.567083,
+   1791131001.247107
+  ],
+  "789280": [
+   34.822861,
+   138.658055,
+   1791131001.247107
+  ],
+  "7c6178": [
+   -33.653171,
+   150.474415,
+   1791131001.247107
+  ],
   "8004e0": [
    51.698448,
    4.785004,
    1791130657.541294
+  ],
+  "800d0f": [
+   28.414032,
+   77.135115,
+   1791131327.308107
+  ],
+  "8014d0": [
+   28.338684,
+   76.314732,
+   1791131327.308107
   ],
   "80159e": [
    42.059418,
@@ -705,15 +750,60 @@
    -72.049809,
    1791130657.541294
   ],
+  "801723": [
+   28.276337,
+   77.235999,
+   1791131327.308107
+  ],
+  "840df8": [
+   35.284222,
+   141.162863,
+   1791131001.247107
+  ],
+  "86d59c": [
+   34.602081,
+   137.888283,
+   1791131001.247107
+  ],
+  "86eb72": [
+   33.175049,
+   137.933075,
+   1791131001.247107
+  ],
+  "88522f": [
+   26.604557,
+   81.134773,
+   1791131327.308107
+  ],
+  "888124": [
+   36.530426,
+   144.236931,
+   1791131001.247107
+  ],
   "896463": [
    51.180042,
    0.268631,
    1791130657.541294
   ],
+  "8964a3": [
+   35.305756,
+   139.649334,
+   1791131001.247107
+  ],
   "896636": [
    51.183426,
    4.164264,
    1791130657.541294
+  ],
+  "8990e1": [
+   36.070084,
+   143.077068,
+   1791131001.247107
+  ],
+  "8990ee": [
+   33.867591,
+   135.251026,
+   1791131001.247107
   ],
   "a013e8": [
    40.703927,
@@ -859,6 +949,11 @@
    39.218678,
    -76.639587,
    1791130657.541294
+  ],
+  "a219ea": [
+   37.538498,
+   141.618795,
+   1791131001.247107
   ],
   "a21fa1": [
    38.700394,
@@ -8855,6 +8950,11 @@
    -73.504403,
    1791130657.541294
   ],
+  "a96b14": [
+   37.470362,
+   136.901232,
+   1791131001.247107
+  ],
   "a96b65": [
    39.88591,
    -75.19437,
@@ -8871,9 +8971,9 @@
    1791077615.693328
   ],
   "a96f37": [
-   34.854033,
-   134.971905,
-   1791098635.783056
+   36.582611,
+   136.060999,
+   1791131001.247107
   ],
   "a96f68": [
    40.352783,
@@ -15741,9 +15841,9 @@
    1791009627.189668
   ],
   "ac30e9": [
-   23.951825,
-   57.021841,
-   1791087442.346515
+   36.74033,
+   137.141983,
+   1791131001.247107
   ],
   "ac31a1": [
    40.447678,
@@ -16556,9 +16656,9 @@
    1791074271.768523
   ],
   "ac638d": [
-   24.443649,
-   56.317162,
-   1791074271.768523
+   34.389587,
+   135.024607,
+   1791131001.247107
   ],
   "ac64cf": [
    38.85571,
@@ -21041,9 +21141,9 @@
    1791113770.613859
   ],
   "c038a7": [
-   37.913956,
-   141.588349,
-   1791127655.15877
+   33.466461,
+   135.74361,
+   1791131001.247107
   ],
   "c038aa": [
    42.400244,
@@ -21056,9 +21156,9 @@
    1791094683.343139
   ],
   "c038c8": [
-   35.930328,
-   140.317268,
-   1791033777.234893
+   38.152399,
+   142.251036,
+   1791131001.247107
   ],
   "c038ca": [
    34.696779,
@@ -25006,353 +25106,59 @@
    1791040414.412587
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/ETH639",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH639</b> KUL-SIN-ADD (A359)\n    foreign-to-foreign: KUL (MY) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VTM628",
-   "hex": "0d0ae5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SW4</b> - VTM628 (XA-SLW) over Mexico. Seen 14x in 94,540 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY184",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY184</b> IST-MEX-CUN-IST (B789)\n    foreign-to-foreign: MEX (MX) \u2192 CUN (MX)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CHETA15",
-   "hex": "c07b75",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AJET</b> - CHETA15 (C-GUTO) over US Northeast. Seen 2x in 94,684 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TAY813",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>TAY813</b> TNA-ANC-JFK-LGG (B744)\n    foreign-to-foreign: TNA (CN) \u2192 ANC (US); ANC (US) \u2192 JFK (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VAMPYR01",
-   "hex": "abc123",
-   "icon": "\ud83d\udef8",
-   "kind": "UAV",
-   "photo": true,
-   "text": "<b>VAMPYR01</b> - unmanned aircraft at 13,925 ft over US West"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LOG56LK",
-   "hex": "407981",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - LOG56LK (G-LMRA) over W Europe. Seen 8x in 96,160 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAS7408",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SAS7408</b> TFS-OSL (A20N)\n    foreign-to-foreign: TFS (ES) \u2192 OSL (NO)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KFE845",
-   "hex": "4d230c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA8X</b> - KFE845 (9H-KIM) over W Europe. Seen 16x in 96,560 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA1",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QFA1</b> SYD-SIN-LHR (A388)\n    foreign-to-foreign: SIN (SG) \u2192 LHR (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GLJ77C",
-   "hex": "34254b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GALX</b> - GLJ77C (EC-KBC) over W Europe. Seen 17x in 97,633 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RRR4253",
-   "hex": "43c5da",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A400</b> - RRR4253 (ZM400) over W Europe. Seen 16x in 97,743 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/OOH11",
-   "hex": "44a3c7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FK9</b> - OOH11 (OO-H11) over W Europe. Seen 13x in 97,798 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/N13ER",
-   "hex": "a83bf2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>VFHC</b> - N13ER (N63FT) over US Northeast. Seen 2x in 98,229 observations"
-  }
- ],
+ "queue": [],
  "routes": {
-  "AAL137": {
-   "airline": "AAL",
-   "iata": "LHR-LAX",
+  "AFL1006": {
+   "airline": "AFL",
+   "iata": "SVO-KGD",
    "legs": [
     {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
+     "cc": "RU",
+     "iata": "SVO",
+     "lat": 55.972599,
+     "lon": 37.4146
     },
     {
-     "cc": "US",
-     "iata": "LAX",
-     "lat": 33.942501,
-     "lon": -118.407997
+     "cc": "RU",
+     "iata": "KGD",
+     "lat": 54.889999,
+     "lon": 20.5926
     }
    ]
   },
-  "ACA843": {
-   "airline": "ACA",
-   "iata": "FRA-YYZ",
+  "AFL1354": {
+   "airline": "AFL",
+   "iata": "SVO-GSV",
    "legs": [
     {
-     "cc": "DE",
-     "iata": "FRA",
-     "lat": 50.026402,
-     "lon": 8.54313
+     "cc": "RU",
+     "iata": "SVO",
+     "lat": 55.972599,
+     "lon": 37.4146
     },
     {
-     "cc": "CA",
-     "iata": "YYZ",
-     "lat": 43.6772,
-     "lon": -79.6306
+     "cc": "RU",
+     "iata": "GSV",
+     "lat": 51.712778,
+     "lon": 46.171111
     }
    ]
   },
-  "AFR44YP": {
-   "airline": "AFR",
-   "iata": "RNS-LYS",
+  "AIC3UX": {
+   "airline": "AIC",
+   "iata": "BDQ-DEL",
    "legs": [
     {
-     "cc": "FR",
-     "iata": "RNS",
-     "lat": 48.0695,
-     "lon": -1.73479
+     "cc": "IN",
+     "iata": "BDQ",
+     "lat": 22.336201,
+     "lon": 73.226303
     },
     {
-     "cc": "FR",
-     "iata": "LYS",
-     "lat": 45.726398,
-     "lon": 5.09083
-    }
-   ]
-  },
-  "AFR88JK": {
-   "airline": "AFR",
-   "iata": "MAN-CDG",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "MAN",
-     "lat": 53.353699,
-     "lon": -2.27495
-    },
-    {
-     "cc": "FR",
-     "iata": "CDG",
-     "lat": 49.012798,
-     "lon": 2.55
-    }
-   ]
-  },
-  "BAW137": null,
-  "BAW21V": {
-   "airline": "BAW",
-   "iata": "LHR-CVG",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "US",
-     "iata": "CVG",
-     "lat": 39.048801,
-     "lon": -84.667801
-    }
-   ]
-  },
-  "BAW225Y": {
-   "airline": "BAW",
-   "iata": "LHR-MSY",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "US",
-     "iata": "MSY",
-     "lat": 29.993401,
-     "lon": -90.258003
-    }
-   ]
-  },
-  "BAW308": {
-   "airline": "BAW",
-   "iata": "LHR-CDG",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "FR",
-     "iata": "CDG",
-     "lat": 49.012798,
-     "lon": 2.55
-    }
-   ]
-  },
-  "BAW33K": {
-   "airline": "BAW",
-   "iata": "LHR-JFK",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "US",
-     "iata": "JFK",
-     "lat": 40.639801,
-     "lon": -73.7789
-    }
-   ]
-  },
-  "BAW371": {
-   "airline": "BAW",
-   "iata": "TLS-LHR",
-   "legs": [
-    {
-     "cc": "FR",
-     "iata": "TLS",
-     "lat": 43.629101,
-     "lon": 1.36382
-    },
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    }
-   ]
-  },
-  "BAW43XP": {
-   "airline": "BAW",
-   "iata": "AMS-LHR",
-   "legs": [
-    {
-     "cc": "NL",
-     "iata": "AMS",
-     "lat": 52.308601,
-     "lon": 4.76389
-    },
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    }
-   ]
-  },
-  "BAW49": {
-   "airline": "BAW",
-   "iata": "LHR-SEA",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "US",
-     "iata": "SEA",
-     "lat": 47.449001,
-     "lon": -122.308998
-    }
-   ]
-  },
-  "BAW516": {
-   "airline": "BAW",
-   "iata": "LHR-FAO",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "PT",
-     "iata": "FAO",
-     "lat": 37.0144,
-     "lon": -7.96591
-    }
-   ]
-  },
-  "BAW5E": {
-   "airline": "BAW",
-   "iata": "LHR-MIA",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "US",
-     "iata": "MIA",
-     "lat": 25.7932,
-     "lon": -80.290604
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
     }
    ]
   },
@@ -25407,6 +25213,42 @@
      "iata": "PHX",
      "lat": 33.434299,
      "lon": -112.012001
+    }
+   ]
+  },
+  "CPA865": {
+   "airline": "CPA",
+   "iata": "YVR-HKG",
+   "legs": [
+    {
+     "cc": "CA",
+     "iata": "YVR",
+     "lat": 49.193901,
+     "lon": -123.183998
+    },
+    {
+     "cc": "HK",
+     "iata": "HKG",
+     "lat": 22.308901,
+     "lon": 113.915001
+    }
+   ]
+  },
+  "CPA875": {
+   "airline": "CPA",
+   "iata": "DFW-HKG",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "DFW",
+     "lat": 32.896801,
+     "lon": -97.038002
+    },
+    {
+     "cc": "HK",
+     "iata": "HKG",
+     "lat": 22.308901,
+     "lon": 113.915001
     }
    ]
   },
@@ -33894,6 +33736,30 @@
    ]
   },
   "FDX5078": null,
+  "FDX5080": {
+   "airline": "FDX",
+   "iata": "BLR-KIX-MEM",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "BLR",
+     "lat": 13.1979,
+     "lon": 77.706299
+    },
+    {
+     "cc": "JP",
+     "iata": "KIX",
+     "lat": 34.427299,
+     "lon": 135.244003
+    },
+    {
+     "cc": "US",
+     "iata": "MEM",
+     "lat": 35.0424,
+     "lon": -89.9767
+    }
+   ]
+  },
   "FDX5103": {
    "airline": "FDX",
    "iata": "CDG-MEM",
@@ -34462,6 +34328,30 @@
      "iata": "LAX",
      "lat": 33.942501,
      "lon": -118.407997
+    }
+   ]
+  },
+  "FDX6427": {
+   "airline": "FDX",
+   "iata": "HAN-ANC-DFW",
+   "legs": [
+    {
+     "cc": "VN",
+     "iata": "HAN",
+     "lat": 21.221201,
+     "lon": 105.806999
+    },
+    {
+     "cc": "US",
+     "iata": "ANC",
+     "lat": 61.1744,
+     "lon": -149.996002
+    },
+    {
+     "cc": "US",
+     "iata": "DFW",
+     "lat": 32.896801,
+     "lon": -97.038002
     }
    ]
   },
@@ -38779,6 +38669,30 @@
     }
    ]
   },
+  "GTI354": {
+   "airline": "GTI",
+   "iata": "XMN-ANC-NLU",
+   "legs": [
+    {
+     "cc": "CN",
+     "iata": "XMN",
+     "lat": 24.544001,
+     "lon": 118.127998
+    },
+    {
+     "cc": "US",
+     "iata": "ANC",
+     "lat": 61.1744,
+     "lon": -149.996002
+    },
+    {
+     "cc": "MX",
+     "iata": "NLU",
+     "lat": 19.755301,
+     "lon": -99.016403
+    }
+   ]
+  },
   "GTI364": {
    "airline": "GTI",
    "iata": "LAX-PVG",
@@ -39437,6 +39351,7 @@
     }
    ]
   },
+  "GTI9010": null,
   "GTI9174": null,
   "GTI9811": {
    "airline": "GTI",
@@ -41111,6 +41026,24 @@
     }
    ]
   },
+  "IGO2115": {
+   "airline": "IGO",
+   "iata": "HBX-DEL",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "HBX",
+     "lat": 15.3617,
+     "lon": 75.0849
+    },
+    {
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
+    }
+   ]
+  },
   "IGO2137": {
    "airline": "IGO",
    "iata": "SXR-DEL",
@@ -41276,6 +41209,24 @@
      "iata": "LKO",
      "lat": 26.760599,
      "lon": 80.889297
+    }
+   ]
+  },
+  "IGO2268": {
+   "airline": "IGO",
+   "iata": "AMD-DEL",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "AMD",
+     "lat": 23.0772,
+     "lon": 72.634697
+    },
+    {
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
     }
    ]
   },
@@ -65648,6 +65599,24 @@
     }
    ]
   },
+  "SIA335": {
+   "airline": "SIA",
+   "iata": "CDG-SIN",
+   "legs": [
+    {
+     "cc": "FR",
+     "iata": "CDG",
+     "lat": 49.012798,
+     "lon": 2.55
+    },
+    {
+     "cc": "SG",
+     "iata": "SIN",
+     "lat": 1.35019,
+     "lon": 103.994003
+    }
+   ]
+  },
   "SIA337": {
    "airline": "SIA",
    "iata": "CDG-SIN",
@@ -75564,6 +75533,24 @@
      "iata": "BKK",
      "lat": 13.6811,
      "lon": 100.747002
+    }
+   ]
+  },
+  "THA345": {
+   "airline": "THA",
+   "iata": "BKK-LHE",
+   "legs": [
+    {
+     "cc": "TH",
+     "iata": "BKK",
+     "lat": 13.6811,
+     "lon": 100.747002
+    },
+    {
+     "cc": "PK",
+     "iata": "LHE",
+     "lat": 31.521601,
+     "lon": 74.403603
     }
    ]
   },
@@ -92330,6 +92317,24 @@
     }
    ]
   },
+  "UAL877": {
+   "airline": "UAL",
+   "iata": "SFO-HKG",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "SFO",
+     "lat": 37.618999,
+     "lon": -122.375
+    },
+    {
+     "cc": "HK",
+     "iata": "HKG",
+     "lat": 22.308901,
+     "lon": 113.915001
+    }
+   ]
+  },
   "UAL879": {
    "airline": "UAL",
    "iata": "LHR-IAH",
@@ -95034,7 +95039,7 @@
   },
   "WUP655": null
  },
- "run": 1694,
+ "run": 1704,
  "seen": {
   "div:DAL8842": 1791119836.819692,
   "div:DAL8843": 1791124962.344474,
@@ -95059,6 +95064,7 @@
   "ff:EVA692": 1791123619.772471,
   "ff:FDX10": 1791111986.599009,
   "ff:FDX157": 1791120176.469504,
+  "ff:FDX5080": 1791131001.247107,
   "ff:FDX5272": 1791116798.36821,
   "ff:FDX5603": 1791110988.627649,
   "ff:FDX6073": 1791123619.772471,
@@ -95193,26 +95199,26 @@
  "stats": {
   "diversions": 18,
   "emergencies": 4,
-  "finds": 274
+  "finds": 289
  },
  "type_counts": {
   "A109": 98,
   "A119": 11,
-  "A139": 174,
+  "A139": 175,
   "A148": 4,
   "A169": 43,
   "A189": 29,
-  "A20N": 4393,
+  "A20N": 4395,
   "A210": 95,
-  "A21N": 5618,
+  "A21N": 5619,
   "A306": 65,
   "A310": 5,
   "A318": 17,
   "A319": 2046,
-  "A320": 6735,
-  "A321": 3190,
+  "A320": 6738,
+  "A321": 3191,
   "A332": 519,
-  "A333": 1022,
+  "A333": 1023,
   "A337": 6,
   "A338": 4,
   "A339": 490,
@@ -95220,8 +95226,8 @@
   "A343": 40,
   "A345": 4,
   "A346": 25,
-  "A359": 1690,
-  "A35K": 435,
+  "A359": 1691,
+  "A35K": 437,
   "A388": 690,
   "A400": 16,
   "A5": 9,
@@ -95295,7 +95301,7 @@
   "B738": 9639,
   "B739": 938,
   "B742": 6,
-  "B744": 373,
+  "B744": 375,
   "B748": 323,
   "B752": 396,
   "B753": 67,
@@ -95304,11 +95310,11 @@
   "B764": 185,
   "B772": 945,
   "B773": 57,
-  "B77L": 920,
-  "B77W": 2214,
-  "B788": 1111,
-  "B789": 2255,
-  "B78X": 504,
+  "B77L": 924,
+  "B77W": 2219,
+  "B788": 1112,
+  "B789": 2258,
+  "B78X": 505,
   "BALL": 112,
   "BCAT": 1,
   "BCS1": 170,
@@ -95725,7 +95731,7 @@
   "PAY3": 26,
   "PC12": 642,
   "PC21": 38,
-  "PC24": 158,
+  "PC24": 159,
   "PC6T": 30,
   "PELI": 2,
   "PETR": 2,
@@ -95849,7 +95855,7 @@
   "TRF1": 2,
   "TUCA": 7,
   "TWEN": 20,
-  "TWR": 1316,
+  "TWR": 1318,
   "TWST": 2,
   "UF10": 4,
   "UF13": 1,
