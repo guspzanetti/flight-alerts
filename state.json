@@ -1,9 +1,9 @@
 {
- "last_feed_warn": 1791302686.453278,
+ "last_feed_warn": 1791306877.943349,
  "last_green": 1791257318.297326,
- "last_run": "2026-10-06T17:05:41.310881+00:00",
- "last_scan": 1791306213.7384,
- "last_yellow": 1791303511.917374,
+ "last_run": "2026-10-06T17:21:09.125967+00:00",
+ "last_scan": 1791307269.125967,
+ "last_yellow": 1791307269.125967,
  "prev": {
   "000001": [
    24.425308,
@@ -11,14 +11,19 @@
    1791302112.942582
   ],
   "008080": [
-   -27.392487,
-   28.027678,
-   1791305509.330358
+   -29.61821,
+   27.243509,
+   1791306592.290871
   ],
   "0082d2": [
-   -24.221878,
-   28.544871,
-   1791305509.330358
+   -26.214935,
+   28.405981,
+   1791306592.290871
+  ],
+  "00834c": [
+   -26.625878,
+   28.687944,
+   1791306592.290871
   ],
   "00882f": [
    -25.72202,
@@ -26,14 +31,19 @@
    1791304544.56359
   ],
   "0088b3": [
-   -25.736847,
-   29.600321,
-   1791305509.330358
+   -26.099213,
+   28.653173,
+   1791306592.290871
   ],
   "008b8f": [
    -26.283766,
    28.211993,
    1791305509.330358
+  ],
+  "008dee": [
+   -26.057785,
+   28.40142,
+   1791306592.290871
   ],
   "009a01": [
    -26.257416,
@@ -41,9 +51,14 @@
    1791305509.330358
   ],
   "009a53": [
-   -27.938736,
-   26.496743,
-   1791305509.330358
+   -26.37296,
+   28.156427,
+   1791306592.290871
+  ],
+  "009ad8": [
+   -29.012565,
+   25.27701,
+   1791306592.290871
   ],
   "009d4a": [
    -25.935608,
@@ -60,20 +75,45 @@
    28.427072,
    1791304544.56359
   ],
+  "00ae3a": [
+   -24.618484,
+   28.496552,
+   1791306592.290871
+  ],
+  "00aedf": [
+   -26.51541,
+   28.365748,
+   1791306592.290871
+  ],
   "00b08c": [
    -27.968072,
    25.978088,
    1791305509.330358
   ],
   "00b097": [
-   -29.029929,
-   25.257138,
-   1791304544.56359
+   -26.241403,
+   28.224405,
+   1791306592.290871
+  ],
+  "00b098": [
+   -28.412227,
+   25.400498,
+   1791306592.290871
   ],
   "00b1e2": [
    -25.038959,
    26.757772,
    1791304544.56359
+  ],
+  "00b22e": [
+   -27.690582,
+   29.800571,
+   1791306592.290871
+  ],
+  "00b22f": [
+   -30.121857,
+   27.333823,
+   1791306592.290871
   ],
   "00c469": [
    -26.348511,
@@ -216,9 +256,9 @@
    1791301807.93021
   ],
   "04c119": [
-   -25.582626,
-   28.279521,
-   1791305509.330358
+   -23.254798,
+   28.914897,
+   1791306592.290871
   ],
   "04c11b": [
    49.926623,
@@ -1805,6 +1845,11 @@
    2.068247,
    1791303853.954906
   ],
+  "39d2b2": [
+   -25.635544,
+   28.110657,
+   1791306592.290871
+  ],
   "39d305": [
    48.154845,
    0.143386,
@@ -2319,6 +2364,11 @@
    54.102493,
    3.86601,
    1791301807.93021
+  ],
+  "3c7a4c": [
+   -24.845032,
+   27.249858,
+   1791306592.290871
   ],
   "3cc108": [
    51.365845,
@@ -9295,6 +9345,11 @@
    104.216972,
    1791299117.893496
   ],
+  "76cef3": [
+   28.961105,
+   75.95868,
+   1791307269.125967
+  ],
   "76cef5": [
    1.20932,
    104.638537,
@@ -9540,6 +9595,11 @@
    139.176006,
    1791300416.275159
   ],
+  "7c1474": [
+   -27.806717,
+   30.293141,
+   1791306592.290871
+  ],
   "7c24be": [
    -33.5711,
    151.030884,
@@ -9675,6 +9735,11 @@
    77.335616,
    1791299755.976511
   ],
+  "801428": [
+   28.325729,
+   76.285365,
+   1791307269.125967
+  ],
   "80143a": [
    1.778961,
    103.737984,
@@ -9704,6 +9769,11 @@
    28.044113,
    77.643444,
    1791298760.551148
+  ],
+  "801506": [
+   27.273327,
+   80.647571,
+   1791307269.125967
   ],
   "80152e": [
    23.059465,
@@ -9855,6 +9925,11 @@
    77.228235,
    1791301807.93021
   ],
+  "801767": [
+   28.493601,
+   76.863529,
+   1791307269.125967
+  ],
   "801772": [
    3.06665,
    101.467678,
@@ -9904,6 +9979,11 @@
    28.749161,
    77.41046,
    1791302844.141513
+  ],
+  "801878": [
+   26.924011,
+   80.511129,
+   1791307269.125967
   ],
   "8018b7": [
    26.772995,
@@ -10045,6 +10125,11 @@
    81.030033,
    1791300785.016716
   ],
+  "888129": [
+   27.112427,
+   81.225914,
+   1791307269.125967
+  ],
   "888227": [
    27.204895,
    80.838335,
@@ -10104,6 +10189,11 @@
    24.307755,
    54.67982,
    1791299117.893496
+  ],
+  "89620f": [
+   28.343307,
+   76.964563,
+   1791307269.125967
   ],
   "8962d1": [
    25.270184,
@@ -13254,6 +13344,11 @@
    34.418747,
    -113.541907,
    1791303165.969498
+  ],
+  "a6b0c5": [
+   -26.132446,
+   28.096601,
+   1791306592.290871
   ],
   "a6b0d2": [
    38.648366,
@@ -38951,263 +39046,28 @@
    1791213473.002783
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/KNM10",
-   "hex": "407557",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AS55</b> - KNM10 (G-GBTV) over W Europe. Seen 50x in 212,285 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DMFKI",
-   "hex": "3fef10",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MT</b> - DMFKI (D-MACL) over W Europe. Seen 28x in 212,863 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PVV9602",
-   "hex": "504e48",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B742</b> - PVV9602 (ER-BAT) over Gulf. Seen 16x in 212,867 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY6218",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY6218</b> HAN-DEL-IST (B77L)\n    foreign-to-foreign: HAN (VN) \u2192 DEL (IN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RBDN904",
-   "hex": "896c43",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C295</b> - RBDN904 (822) over Gulf. Seen 16x in 212,901 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VDA8157",
-   "hex": "1540a1",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A124</b> - VDA8157 (RA-82081) over Gulf. Seen 6x in 212,961 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA11",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA11</b> LAX-NRT-SIN (B77W)\n    foreign-to-foreign: LAX (US) \u2192 NRT (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CLG1935",
-   "hex": "393f0a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - CLG1935 (F-GPYK) over W Europe. Seen 52x in 213,391 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CLG1555",
-   "hex": "393f0d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - CLG1555 (F-GPYN) over W Europe. Seen 53x in 213,408 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BGA131J",
-   "hex": "395d69",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA131J (F-GXLJ) over W Europe. Seen 31x in 213,628 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MUSL",
-   "hex": "ae6242",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B212</b> - MUSL (69-6657) over US Northeast. Seen 31x in 213,785 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CONOY62",
-   "hex": "ae598a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H47</b> - CONOY62 (10-08404) over US Northeast. Seen 36x in 213,868 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NGF1014",
-   "hex": "a1b980",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RANG</b> - NGF1014 (N21ZZ) over US Northeast. Seen 4x in 213,896 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SCORE90",
-   "hex": "ae6259",
-   "icon": "\ud83d\udef8",
-   "kind": "UAV",
-   "photo": true,
-   "text": "<b>SCORE90</b> - unmanned aircraft at 48,025 ft over US Northeast"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SCORE90",
-   "hex": "ae6259",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>Q4</b> - SCORE90 (169173) over US Northeast. Seen 1x in 213,908 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HAGAR70",
-   "hex": "ae058a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C5M</b> - HAGAR70 (87-0045) over US Northeast. Seen 20x in 214,006 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JTM211",
-   "hex": "a1bda0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA10</b> - JTM211 (N211EC) over US Northeast. Seen 7x in 214,245 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TM0122",
-   "hex": "0088b3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8C</b> - TM0122 (ZS-DHA) over S Africa. Seen 44x in 214,548 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FMY8647",
-   "hex": "3aaba3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PUMA</b> - FMY8647 (1451) over W Europe. Seen 5x in 214,885 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAS2535",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SAS2535</b> CPH-BHX (CRJ9)\n    foreign-to-foreign: CPH (DK) \u2192 BHX (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CTM2001",
-   "hex": "3b77c3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CN35</b> - CTM2001 (64-IO) over W Europe. Seen 23x in 215,076 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/38.49,-76.10/11",
-   "hex": "ae5f4b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P8</b> - 169562 (169562) over US Northeast. Seen 9x in 215,446 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/38.53,-75.79/11",
-   "hex": "ae222e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P8</b> - 167953 (167953) over US Northeast. Seen 10x in 215,476 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/44.02,-75.72/11",
-   "hex": "afc662",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H64</b> - 23-03526 (23-03526) over US Northeast. Seen 24x in 215,491 observations"
-  }
- ],
+ "queue": [],
  "routes": {
-  "AAR177": null,
-  "AAR203": null,
-  "AAR211": null,
-  "ANA813": null,
-  "ANA877": null,
-  "BAW6": {
-   "airline": "BAW",
-   "iata": "HND-LHR",
-   "legs": [
-    {
-     "cc": "JP",
-     "iata": "HND",
-     "lat": 35.552299,
-     "lon": 139.779999
-    },
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    }
-   ]
-  },
-  "BAW745": {
-   "airline": "BAW",
-   "iata": "GVA-LHR",
-   "legs": [
-    {
-     "cc": "CH",
-     "iata": "GVA",
-     "lat": 46.238098,
-     "lon": 6.10895
-    },
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    }
-   ]
-  },
-  "BAW99": {
-   "airline": "BAW",
-   "iata": "LHR-YYZ",
-   "legs": [
-    {
-     "cc": "GB",
-     "iata": "LHR",
-     "lat": 51.4706,
-     "lon": -0.461941
-    },
-    {
-     "cc": "CA",
-     "iata": "YYZ",
-     "lat": 43.6772,
-     "lon": -79.6306
-    }
-   ]
-  },
-  "CPA865": null,
   "CSN8031": null,
   "CXA829": null,
+  "DAL200": {
+   "airline": "DAL",
+   "iata": "ATL-JNB",
+   "legs": [
+    {
+     "cc": "US",
+     "iata": "ATL",
+     "lat": 33.6367,
+     "lon": -84.428101
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    }
+   ]
+  },
   "DLH404": null,
   "ETD2KQ": {
    "airline": "ETD",
@@ -39231,7 +39091,63 @@
   "FDX5928": null,
   "FDX6076": null,
   "GTI8998": null,
+  "HVN38": null,
   "IBE07WV": null,
+  "IGO2376": {
+   "airline": "IGO",
+   "iata": "JAI-DEL",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "JAI",
+     "lat": 26.8242,
+     "lon": 75.812202
+    },
+    {
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
+    }
+   ]
+  },
+  "IGO347H": {
+   "airline": "IGO",
+   "iata": "HYD-DEL",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "HYD",
+     "lat": 17.231318,
+     "lon": 78.429855
+    },
+    {
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
+    }
+   ]
+  },
+  "IGO6046": {
+   "airline": "IGO",
+   "iata": "PAT-DEL",
+   "legs": [
+    {
+     "cc": "IN",
+     "iata": "PAT",
+     "lat": 25.591299,
+     "lon": 85.087997
+    },
+    {
+     "cc": "IN",
+     "iata": "DEL",
+     "lat": 28.5665,
+     "lon": 77.103104
+    }
+   ]
+  },
+  "IGO647M": null,
   "JAL33": null,
   "JAL79": null,
   "KAL2197": {
@@ -52242,6 +52158,24 @@
     }
    ]
   },
+  "QFA65": {
+   "airline": "QFA",
+   "iata": "PER-JNB",
+   "legs": [
+    {
+     "cc": "AU",
+     "iata": "PER",
+     "lat": -31.9403,
+     "lon": 115.967003
+    },
+    {
+     "cc": "ZA",
+     "iata": "JNB",
+     "lat": -26.1392,
+     "lon": 28.246
+    }
+   ]
+  },
   "QFA650": {
    "airline": "QFA",
    "iata": "PER-SYD",
@@ -61755,6 +61689,7 @@
     }
    ]
   },
+  "SAA578": null,
   "SAA585": {
    "airline": "SAA",
    "iata": "JNB-DUR",
@@ -86527,6 +86462,7 @@
     }
    ]
   },
+  "UAE6U": null,
   "UAE7": {
    "airline": "UAE",
    "iata": "DXB-LHR",
@@ -109065,7 +109001,7 @@
   },
   "WUP655": null
  },
- "run": 3617,
+ "run": 3623,
  "seen": {
   "div:AAL2185": 1791292802.297524,
   "div:AAL2955": 1791303165.969498,
@@ -109099,6 +109035,7 @@
   "ff:QTR8420": 1791296052.35608,
   "ff:SAS2535": 1791305864.490602,
   "ff:SIA11": 1791304205.748293,
+  "ff:SIA25": 1791307269.125967,
   "ff:SIA26": 1791296761.515265,
   "ff:SIA479": 1791289418.334096,
   "ff:SIA7429": 1791301113.990172,
@@ -109307,7 +109244,7 @@
  "stats": {
   "diversions": 23,
   "emergencies": 14,
-  "finds": 337
+  "finds": 362
  },
  "type_counts": {
   "A109": 208,
@@ -109318,25 +109255,25 @@
   "A169": 94,
   "A189": 69,
   "A19N": 1,
-  "A20N": 9660,
+  "A20N": 9661,
   "A210": 133,
-  "A21N": 11956,
+  "A21N": 11959,
   "A306": 175,
   "A310": 13,
   "A318": 34,
   "A319": 4494,
-  "A320": 14248,
+  "A320": 14252,
   "A321": 7061,
-  "A332": 1140,
+  "A332": 1141,
   "A333": 2167,
   "A337": 32,
   "A338": 16,
-  "A339": 1011,
+  "A339": 1012,
   "A33P": 9,
   "A343": 100,
   "A345": 28,
   "A346": 58,
-  "A359": 3586,
+  "A359": 3587,
   "A35K": 944,
   "A388": 1466,
   "A3ST": 1,
@@ -109421,7 +109358,7 @@
   "B735": 32,
   "B736": 56,
   "B737": 3660,
-  "B738": 21140,
+  "B738": 21143,
   "B739": 2184,
   "B742": 16,
   "B744": 734,
@@ -109434,9 +109371,9 @@
   "B772": 1976,
   "B773": 109,
   "B77L": 1867,
-  "B77W": 4684,
-  "B788": 2312,
-  "B789": 4715,
+  "B77W": 4686,
+  "B788": 2313,
+  "B789": 4716,
   "B78X": 1050,
   "BALL": 171,
   "BCAT": 1,
@@ -109489,7 +109426,7 @@
   "C162": 30,
   "C17": 249,
   "C170": 49,
-  "C172": 8170,
+  "C172": 8171,
   "C175": 30,
   "C177": 121,
   "C180": 59,
@@ -109610,7 +109547,7 @@
   "DH89": 4,
   "DH8A": 72,
   "DH8B": 61,
-  "DH8C": 44,
+  "DH8C": 45,
   "DH8D": 1126,
   "DH90": 2,
   "DHC1": 38,
@@ -109630,9 +109567,9 @@
   "E120": 12,
   "E121": 8,
   "E135": 274,
-  "E145": 902,
+  "E145": 903,
   "E170": 905,
-  "E190": 2172,
+  "E190": 2176,
   "E195": 197,
   "E2": 8,
   "E200": 5,
@@ -109932,7 +109869,7 @@
   "R135": 5,
   "R200": 29,
   "R22": 269,
-  "R44": 474,
+  "R44": 475,
   "R66": 92,
   "RALL": 23,
   "RANG": 5,
@@ -109992,7 +109929,7 @@
   "SLG4": 173,
   "SONX": 8,
   "SPIT": 39,
-  "SR20": 588,
+  "SR20": 589,
   "SR22": 1011,
   "SREY": 6,
   "SSTL": 1,
