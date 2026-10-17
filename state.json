@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792264951.878965,
  "last_green": 1792205283.514146,
- "last_run": "2026-10-17T19:51:10.144920+00:00",
- "last_scan": 1792266670.14492,
- "last_yellow": 1792263869.059329,
+ "last_run": "2026-10-17T20:04:17.156725+00:00",
+ "last_scan": 1792267457.156725,
+ "last_yellow": 1792267457.156725,
  "prev": {
   "00834b": [
    -26.273711,
@@ -29921,56 +29921,7 @@
    1792158885.70399
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/UAE9393",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE9393</b> DWC-LGG-ORD (B77L)\n    foreign-to-foreign: LGG (BE) \u2192 ORD (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JSD500",
-   "hex": "471841",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C650</b> - JSD500 (HA-JEV) over W Europe. Seen 18x in 94,927 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RRR4203",
-   "hex": "43c5dc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A400</b> - RRR4203 (ZM402) over W Europe. Seen 22x in 94,928 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KOC92",
-   "hex": "4bce61",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA8X</b> - KOC92 (TC-SSA) over W Europe. Seen 18x in 94,959 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ANE1325",
-   "hex": "3485d2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJX</b> - ANE1325 (EC-OSN) over W Europe. Seen 15x in 95,062 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/39.05,-77.37/11",
-   "hex": "ae68ae",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>D328</b> -  (99-3106) over US Northeast. Seen 10x in 95,325 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL142": null,
   "AFR1886": null,
@@ -93172,9 +93123,8 @@
    ]
   }
  },
- "run": 1673,
+ "run": 1674,
  "seen": {
-  "div:TAM4511": 1792245148.799968,
   "ff:ETH639": 1792252664.244531,
   "ff:QFA1": 1792252664.244531,
   "ff:QFA256": 1792248976.273295,
@@ -93184,26 +93134,23 @@
   "rare:0d0e26": 1792253814.24365,
   "rare:3485d2": 1792264384.379196,
   "rare:4046bc": 1792248976.273295,
-  "rare:406845": 1792245465.192678,
   "rare:43c5dc": 1792264384.379196,
   "rare:471841": 1792264384.379196,
   "rare:4bce61": 1792264384.379196,
   "rare:505cbb": 1792248976.273295,
   "rare:733641": 1792252271.609833,
-  "rare:a217eb": 1792245465.192678,
   "rare:a520a2": 1792252271.609833,
   "rare:aa1ba6": 1792246116.082938,
   "rare:aa542d": 1792249289.488658,
   "rare:ad43ad": 1792247932.312534,
   "rare:ae0411": 1792246116.082938,
-  "rare:ae0576": 1792245465.192678,
   "rare:ae272e": 1792246116.082938,
   "rare:ae68ae": 1792264384.379196
  },
  "stats": {
   "diversions": 17,
   "emergencies": 1,
-  "finds": 245
+  "finds": 251
  },
  "type_counts": {
   "A109": 132,
