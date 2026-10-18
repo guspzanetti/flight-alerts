@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792353280.497718,
  "last_green": 1792291819.843293,
- "last_run": "2026-10-18T18:53:01.110250+00:00",
- "last_scan": 1792349581.11025,
- "last_yellow": 1792346690.047327,
+ "last_run": "2026-10-18T20:02:54.405809+00:00",
+ "last_scan": 1792353774.405809,
+ "last_yellow": 1792353774.405809,
  "prev": {
   "008df8": [
    -26.44344,
@@ -33241,128 +33241,7 @@
    1792348616.771889
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/LOG8MU",
-   "hex": "407a01",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - LOG8MU (G-LMRB) over W Europe. Seen 6x in 138,660 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JFL287",
-   "hex": "4400b0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C55B</b> - JFL287 (OE-GLL) over W Europe. Seen 10x in 138,721 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH729",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH729</b> MAN-GVA-ADD (B789)\n    foreign-to-foreign: MAN (GB) \u2192 GVA (CH)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TAY3PO",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>TAY3PO</b> CDG-OPO (B734)\n    foreign-to-foreign: CDG (FR) \u2192 OPO (PT)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/OSPRY18",
-   "hex": "ae593a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>V22</b> - OSPRY18 (168301) over US Northeast. Seen 30x in 139,463 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE379",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE379</b> BKK-HKT-DXB (B77W)\n    foreign-to-foreign: BKK (TH) \u2192 HKT (TH)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRB9775",
-   "hex": "73348c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A310</b> - IRB9775 (EP-MDL) over SE Asia. Seen 7x in 140,498 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE5CL",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE5CL</b> CHC-SYD-DXB (A388)\n    foreign-to-foreign: CHC (NZ) \u2192 SYD (AU)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NGF1014",
-   "hex": "a19474",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>NAVI</b> - NGF1014 (N20000) over US Northeast. Seen 24x in 140,603 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SKYFL01",
-   "hex": "43c5ef",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A400</b> - SKYFL01 (ZM421) over US West. Seen 25x in 142,405 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA2",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QFA2</b> LHR-SIN-SYD (A388)\n    foreign-to-foreign: LHR (GB) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS416",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS416</b> MIA-VCP-SCL-EZE (B763)\n    foreign-to-foreign: VCP (BR) \u2192 SCL (CL); SCL (CL) \u2192 EZE (AR)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LOG56LK",
-   "hex": "407981",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - LOG56LK (G-LMRA) over W Europe. Seen 7x in 142,672 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BOX442",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>BOX442</b> FRA-YYZ-ORD (B77L)\n    foreign-to-foreign: YYZ (CA) \u2192 ORD (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ANE60XM",
-   "hex": "343650",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJX</b> - ANE60XM (EC-LJT) over W Europe. Seen 22x in 142,943 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL169": null,
   "ACA17": null,
@@ -91135,35 +91014,28 @@
    ]
   }
  },
- "run": 2320,
+ "run": 2321,
  "seen": {
   "div:QTR8174": 1792341477.756399,
   "div:UAL1807": 1792332593.515147,
   "div:UAL717": 1792341152.591544,
   "ff:BAW248": 1792343138.292863,
   "ff:BOX442": 1792349260.312778,
-  "ff:BOX587": 1792328971.098889,
-  "ff:BOX590": 1792331303.34013,
   "ff:CAL5233": 1792345736.235117,
-  "ff:CAL5346": 1792329980.22822,
   "ff:CAL5382": 1792341152.591544,
   "ff:CHH7926": 1792342807.014704,
   "ff:CLX17G": 1792340165.901593,
   "ff:CLX244": 1792343476.131266,
-  "ff:CLX342": 1792329980.22822,
   "ff:CLX7": 1792343476.131266,
   "ff:CPA2098": 1792340496.395105,
   "ff:CPA3174": 1792340496.395105,
   "ff:ETH3516": 1792332276.410631,
-  "ff:ETH673": 1792328263.980608,
   "ff:ETH729": 1792347015.516183,
   "ff:EVA665": 1792345736.235117,
-  "ff:FDX157": 1792329980.22822,
   "ff:FDX5080": 1792340496.395105,
   "ff:FDX6045": 1792340496.395105,
   "ff:FDX6073": 1792333602.099292,
   "ff:GTI5421": 1792340165.901593,
-  "ff:GTI569": 1792331938.568446,
   "ff:GTI8052": 1792339830.708548,
   "ff:LAN762": 1792332921.055679,
   "ff:QFA1": 1792340496.395105,
@@ -91185,12 +91057,10 @@
   "ff:UAL33": 1792342807.014704,
   "ff:UAL821": 1792343808.694886,
   "ff:UPS416": 1792348938.134605,
-  "rare:008fef": 1792328622.027982,
   "rare:06809b": 1792334906.604956,
   "rare:0d0943": 1792341477.756399,
   "rare:0d0ae5": 1792341477.756399,
   "rare:0d0c19": 1792343138.292863,
-  "rare:14f121": 1792331622.154282,
   "rare:14fa39": 1792344126.91972,
   "rare:155c16": 1792340824.723235,
   "rare:155c26": 1792340824.723235,
@@ -91205,31 +91075,22 @@
   "rare:407981": 1792349260.312778,
   "rare:407a01": 1792347015.516183,
   "rare:407f58": 1792340165.901593,
-  "rare:408188": 1792329645.606343,
   "rare:424509": 1792334906.604956,
-  "rare:43c5e7": 1792329645.606343,
   "rare:43c5ef": 1792348616.771889,
   "rare:4400b0": 1792347015.516183,
   "rare:440406": 1792340165.901593,
-  "rare:44a001": 1792329645.606343,
-  "rare:44a7c0": 1792329645.606343,
-  "rare:452023": 1792330973.907793,
   "rare:45ba47": 1792341836.247931,
   "rare:47183b": 1792340165.901593,
   "rare:471841": 1792334906.604956,
-  "rare:485734": 1792329645.606343,
   "rare:489009": 1792340165.901593,
   "rare:4b19c1": 1792340165.901593,
-  "rare:4ca421": 1792330973.907793,
   "rare:4d21b7": 1792341836.247931,
   "rare:4d230c": 1792333271.932093,
   "rare:504e60": 1792334247.962215,
-  "rare:5110b0": 1792329645.606343,
   "rare:7000a1": 1792346368.467547,
   "rare:70606d": 1792341152.591544,
   "rare:71c745": 1792341152.591544,
   "rare:73348c": 1792347981.116242,
-  "rare:781b2b": 1792330973.907793,
   "rare:a0116f": 1792343476.131266,
   "rare:a14ed8": 1792334906.604956,
   "rare:a19474": 1792348616.771889,
@@ -91237,17 +91098,11 @@
   "rare:a3a5cf": 1792341152.591544,
   "rare:a60fb6": 1792346368.467547,
   "rare:a6dfe7": 1792343476.131266,
-  "rare:a7d247": 1792330973.907793,
-  "rare:a98ac7": 1792328971.098889,
-  "rare:a9fa38": 1792329645.606343,
-  "rare:aa1aa8": 1792330973.907793,
   "rare:aa1ba6": 1792341152.591544,
-  "rare:ab4b1c": 1792329645.606343,
   "rare:ab72b2": 1792342807.014704,
   "rare:ac96df": 1792341152.591544,
   "rare:ae0568": 1792345415.434079,
   "rare:ae056b": 1792333271.932093,
-  "rare:ae265c": 1792330973.907793,
   "rare:ae593a": 1792347015.516183,
   "rare:ae68ae": 1792343476.131266,
   "rare:ae6aa6": 1792342807.014704,
@@ -91256,13 +91111,12 @@
   "rare:e49d96": 1792332921.055679,
   "sqk7700:440604": 1792347413.042413,
   "sqk7700:4d022a": 1792341765.434773,
-  "sqk7700:ae05a4": 1792343476.131266,
-  "uav:a98ac7": 1792328971.098889
+  "sqk7700:ae05a4": 1792343476.131266
  },
  "stats": {
   "diversions": 10,
   "emergencies": 4,
-  "finds": 233
+  "finds": 248
  },
  "type_counts": {
   "A109": 198,
