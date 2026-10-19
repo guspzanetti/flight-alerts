@@ -1,9 +1,9 @@
 {
- "last_feed_warn": 1792409889.470778,
+ "last_feed_warn": 1792413497.777327,
  "last_green": 1792378229.610975,
- "last_run": "2026-10-19T11:37:00.521548+00:00",
- "last_scan": 1792409820.521548,
- "last_yellow": 1792409157.118741,
+ "last_run": "2026-10-19T12:36:46.963571+00:00",
+ "last_scan": 1792413406.963571,
+ "last_yellow": 1792413406.963571,
  "prev": {
   "0000cb": [
    -21.35272,
@@ -31481,40 +31481,7 @@
    1792348616.771889
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/JANET22",
-   "hex": "a2b320",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B736</b> - JANET22 (N273RH) over US West. Seen 37x in 160,103 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QSM1269",
-   "hex": "731a3a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RJ1H</b> - QSM1269 (EP-FQZ) over Gulf. Seen 12x in 160,148 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PVV7326",
-   "hex": "504e60",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B742</b> - PVV7326 (ER-BAR) over Gulf. Seen 20x in 160,232 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LAN535",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>LAN535</b> LAX-LIM-SCL (B788)\n    foreign-to-foreign: LAX (US) \u2192 LIM (PE)"
-  }
- ],
+ "queue": [],
  "routes": {
   "ARG1242": null,
   "AVA086": null,
@@ -86862,7 +86829,7 @@
    ]
   }
  },
- "run": 2599,
+ "run": 2600,
  "seen": {
   "div:UAL2372": 1792406200.368822,
   "ff:CAL5141": 1792408831.58096,
@@ -86932,7 +86899,7 @@
  "stats": {
   "diversions": 2,
   "emergencies": 0,
-  "finds": 77
+  "finds": 81
  },
  "type_counts": {
   "A109": 212,
