@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792472913.173394,
  "last_green": 1792464666.886856,
- "last_run": "2026-10-20T04:06:42.065289+00:00",
- "last_scan": 1792469202.065289,
- "last_yellow": 1792468235.996678,
+ "last_run": "2026-10-20T05:51:00.863153+00:00",
+ "last_scan": 1792475460.863153,
+ "last_yellow": 1792475460.863153,
  "prev": {
   "008256": [
    -25.865168,
@@ -38701,48 +38701,7 @@
    1792348616.771889
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/32.02,-118.34/11",
-   "hex": "ae6bb6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>V22</b> - 169469 (169469) over US West. Seen 33x in 172,501 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE6M",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE6M</b> DXB-ACC-ABJ (B77W)\n    foreign-to-foreign: ACC (GH) \u2192 ABJ (CI)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE248",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE248</b> EZE-GIG-DXB (B77W)\n    foreign-to-foreign: EZE (AR) \u2192 GIG (BR)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE256",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE256</b> MEX-BCN-DXB (B77L)\n    foreign-to-foreign: MEX (MX) \u2192 BCN (ES)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BTX1A",
-   "hex": "3c5c41",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA8X</b> - BTX1A (D-AGBA) over US Northeast. Seen 39x in 173,096 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL100": null,
   "AAL50": {
@@ -93972,7 +93931,7 @@
   },
   "YAK52": null
  },
- "run": 2808,
+ "run": 2809,
  "seen": {
   "div:UAL1356": 1792466930.676375,
   "div:UAL1460": 1792468562.075347,
@@ -94071,7 +94030,7 @@
  "stats": {
   "diversions": 4,
   "emergencies": 1,
-  "finds": 26
+  "finds": 31
  },
  "type_counts": {
   "A109": 217,
