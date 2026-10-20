@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792519024.156301,
  "last_green": 1792464666.886856,
- "last_run": "2026-10-20T17:33:23.326550+00:00",
- "last_scan": 1792517603.32655,
- "last_yellow": 1792515774.585751,
+ "last_run": "2026-10-20T18:14:17.118711+00:00",
+ "last_scan": 1792520057.118711,
+ "last_yellow": 1792520057.118711,
  "prev": {
   "009e2b": [
    -26.125671,
@@ -27111,40 +27111,7 @@
    1792511683.655048
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/FDX5262",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5262</b> TAO-KIX-MEM (B77L)\n    foreign-to-foreign: TAO (CN) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5928",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5928</b> PEK-ICN-ANC (B77L)\n    foreign-to-foreign: PEK (CN) \u2192 ICN (KR)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/EVA667",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>EVA667</b> ATL-KIX-TPE (B77L)\n    foreign-to-foreign: ATL (US) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA7229",
-   "hex": "7c5be9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B462</b> - QFA7229 (VH-SFV) over Australia. Seen 15x in 182,441 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAR177": {
    "airline": "AAR",
@@ -82099,7 +82066,7 @@
   },
   "YAK52": null
  },
- "run": 2957,
+ "run": 2958,
  "seen": {
   "div:UAL3904": 1792509381.999228,
   "ff:AZG5721": 1792507449.708779,
@@ -82183,7 +82150,7 @@
  "stats": {
   "diversions": 7,
   "emergencies": 3,
-  "finds": 177
+  "finds": 181
  },
  "type_counts": {
   "A109": 224,
