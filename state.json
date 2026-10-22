@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792666969.481658,
  "last_green": 1792637664.125168,
- "last_run": "2026-10-22T11:15:01.240255+00:00",
- "last_scan": 1792667701.240255,
- "last_yellow": 1792665918.353006,
+ "last_run": "2026-10-22T11:50:29.815704+00:00",
+ "last_scan": 1792669829.815704,
+ "last_yellow": 1792669829.815704,
  "prev": {
   "008126": [
    -28.502426,
@@ -26701,72 +26701,7 @@
    1792666257.870085
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/SIA479",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA479</b> CPT-JNB-SIN (A359)\n    foreign-to-foreign: CPT (ZA) \u2192 JNB (ZA)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ZTRMD",
-   "hex": "008dc0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE95</b> - ZTRMD (ZS-FET) over S Africa. Seen 56x in 229,110 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ZSODI",
-   "hex": "0092d2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>UH1</b> - ZSODI (ZS-HCR) over S Africa. Seen 22x in 229,114 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SSF333",
-   "hex": "155c2f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SSF333 (RA-89135) over Russia. Seen 34x in 229,120 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PVV7323",
-   "hex": "504e48",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B742</b> - PVV7323 (ER-BAT) over Gulf. Seen 26x in 229,227 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PVV7326",
-   "hex": "504e60",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B742</b> - PVV7326 (ER-BAR) over Gulf. Seen 27x in 229,266 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MLM318",
-   "hex": "4d21b7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - MLM318 (9H-BDONE) over Gulf. Seen 26x in 229,279 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH3651",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH3651</b> WUH-ADD-ACC-GRU-SCL (B77L)\n    foreign-to-foreign: ACC (GH) \u2192 GRU (BR); GRU (BR) \u2192 SCL (CL)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL951": null,
   "AFR454A": {
@@ -78595,7 +78530,7 @@
   "VLZ01": null,
   "YAK52": null
  },
- "run": 3741,
+ "run": 3742,
  "seen": {
   "div:IGO7628": 1792665590.945565,
   "div:UAL2372": 1792663330.682172,
@@ -78691,7 +78626,7 @@
  "stats": {
   "diversions": 6,
   "emergencies": 4,
-  "finds": 108
+  "finds": 116
  },
  "type_counts": {
   "A109": 275,
