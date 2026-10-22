@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792631853.623032,
  "last_green": 1792551134.375942,
- "last_run": "2026-10-22T01:16:24.386001+00:00",
- "last_scan": 1792631784.386001,
- "last_yellow": 1792629239.788061,
+ "last_run": "2026-10-22T02:12:08.891085+00:00",
+ "last_scan": 1792635128.891085,
+ "last_yellow": 1792635128.891085,
  "prev": {
   "008d3c": [
    -28.021701,
@@ -27831,160 +27831,7 @@
    1792511683.655048
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/RAX511",
-   "hex": "a9ca2a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E110</b> - RAX511 (N73RA) over US Northeast. Seen 4x in 220,548 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/R43544",
-   "hex": "afa813",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H64</b> - R43544 (24-03544) over US Northeast. Seen 48x in 220,785 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA25",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA25</b> JFK-FRA-SIN (B77W)\n    foreign-to-foreign: JFK (US) \u2192 FRA (DE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DTCHMN01",
-   "hex": "ae4b9e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H53S</b> - DTCHMN01 (164780) over US West. Seen 46x in 221,400 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DAGR103",
-   "hex": "ae5922",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>V22</b> - DAGR103 (168347) over US West. Seen 46x in 221,512 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TGC",
-   "hex": "7cf4bd",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H269</b> - TGC (VH-TGC) over Australia. Seen 23x in 221,636 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY52",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY52</b> IST-BKK-KTI (A333)\n    foreign-to-foreign: BKK (TH) \u2192 KTI (KH)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SHUCK80",
-   "hex": "ae11f0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E3TF</b> - SHUCK80 (82-0007) over W Europe. Seen 5x in 221,775 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH3501",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH3501</b> JFK-LGG (B77L)\n    foreign-to-foreign: JFK (US) \u2192 LGG (BE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS232",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS232</b> CGN-EMA-PHL (B763)\n    foreign-to-foreign: CGN (DE) \u2192 EMA (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRACE03",
-   "hex": "87cd24",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>KC2</b> - GRACE03 (38-1217) over Japan. Seen 28x in 221,993 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/WAA902",
-   "hex": "20109e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F406</b> - WAA902 (V5-WAK) over S Africa. Seen 38x in 222,071 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF1901",
-   "hex": "a1281d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF1901 (N174AV) over US West. Seen 34x in 222,186 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MNLYT21",
-   "hex": "ae4c00",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>V22</b> - MNLYT21 (167917) over US West. Seen 47x in 222,266 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF1935",
-   "hex": "a520a2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF1935 (N4299A) over US West. Seen 35x in 222,299 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF1067",
-   "hex": "a74290",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E120</b> - AMF1067 (N567SW) over US West. Seen 14x in 222,390 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF2119",
-   "hex": "a6881a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF2119 (N52RP) over US West. Seen 36x in 222,446 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AZO5087",
-   "hex": "155bcc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - AZO5087 (RA-89036) over Gulf. Seen 30x in 222,473 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KAC206",
-   "hex": "706066",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A338</b> - KAC206 (9K-APF) over Gulf. Seen 21x in 222,534 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "ACA91": null,
   "ARG1240": {
@@ -80029,57 +79876,37 @@
   },
   "YAK52": null
  },
- "run": 3595,
+ "run": 3596,
  "seen": {
   "div:AAL2030": 1792626019.088676,
   "div:UAL1019": 1792614050.794826,
-  "div:UAL1322": 1792611431.13434,
   "div:UAL2291": 1792629885.264127,
   "div:UAL2461": 1792629885.264127,
   "div:UAL637": 1792629885.264127,
   "ff:CAL6876": 1792627008.047696,
   "ff:ETH3501": 1792630524.310426,
-  "ff:GTI346": 1792611749.943648,
   "ff:KAL8385": 1792627008.047696,
-  "ff:KLM701": 1792611431.13434,
-  "ff:KLM809": 1792611431.13434,
   "ff:LAN714": 1792624064.522234,
   "ff:LAN777": 1792624064.522234,
   "ff:PIA763": 1792629239.788061,
   "ff:QFA4": 1792626019.088676,
   "ff:QFA7550": 1792624384.103449,
   "ff:QTR8214": 1792624384.103449,
-  "ff:QTR8406": 1792612432.31932,
   "ff:QTR970": 1792627649.020187,
   "ff:RJA272": 1792626688.107801,
-  "ff:SIA12": 1792610719.932131,
   "ff:SIA25": 1792629885.264127,
   "ff:SIA377": 1792627008.047696,
   "ff:SIA7921": 1792628605.771829,
-  "ff:TAY2DI": 1792611431.13434,
   "ff:THY52": 1792630524.310426,
-  "ff:UAE256": 1792612432.31932,
   "ff:UAE34E": 1792628283.936954,
   "ff:UAE5CL": 1792629239.788061,
-  "ff:UAL152": 1792612432.31932,
   "ff:UPS232": 1792630524.310426,
   "rare:09c02b": 1792627649.020187,
-  "rare:152a9d": 1792610719.932131,
   "rare:155bcc": 1792631467.032045,
   "rare:20109e": 1792631158.689775,
-  "rare:3452c7": 1792611431.13434,
-  "rare:3485d2": 1792611431.13434,
-  "rare:3950cd": 1792611431.13434,
   "rare:3c5c41": 1792626019.088676,
-  "rare:43c5ef": 1792610719.932131,
-  "rare:43c6bb": 1792611431.13434,
-  "rare:43c6c3": 1792611431.13434,
-  "rare:43c6e6": 1792611431.13434,
-  "rare:43c95e": 1792611431.13434,
-  "rare:4b008b": 1792611431.13434,
   "rare:7000a1": 1792625355.402643,
   "rare:706066": 1792631467.032045,
-  "rare:7334b3": 1792610393.54611,
   "rare:7c005d": 1792624703.633614,
   "rare:7c0d6e": 1792626360.378831,
   "rare:7c1194": 1792624703.633614,
@@ -80107,9 +79934,7 @@
   "rare:a1718e": 1792624384.103449,
   "rare:a1806a": 1792624384.103449,
   "rare:a18421": 1792626019.088676,
-  "rare:a1f3b5": 1792611431.13434,
   "rare:a395e3": 1792626019.088676,
-  "rare:a4c0d8": 1792612432.31932,
   "rare:a520a2": 1792631467.032045,
   "rare:a5a24f": 1792624384.103449,
   "rare:a6609b": 1792626019.088676,
@@ -80120,43 +79945,25 @@
   "rare:aa0ca7": 1792628605.771829,
   "rare:aa3c0b": 1792627649.020187,
   "rare:ac6c18": 1792614050.794826,
-  "rare:ace069": 1792610719.932131,
   "rare:ae0572": 1792626019.088676,
   "rare:ae11f0": 1792630524.310426,
-  "rare:ae267b": 1792611431.13434,
   "rare:ae4b75": 1792623738.841882,
   "rare:ae4b9e": 1792629885.264127,
   "rare:ae4ba8": 1792614050.794826,
   "rare:ae4c00": 1792631467.032045,
   "rare:ae5922": 1792629885.264127,
   "rare:ae5e7f": 1792627649.020187,
-  "rare:ae60ea": 1792610719.932131,
-  "rare:ae61c4": 1792610719.932131,
-  "rare:ae61db": 1792610719.932131,
-  "rare:ae6230": 1792611431.13434,
-  "rare:ae6232": 1792611431.13434,
   "rare:ae6240": 1792624384.103449,
-  "rare:ae624e": 1792611431.13434,
   "rare:ae6259": 1792624384.103449,
-  "rare:ae6bb6": 1792610719.932131,
   "rare:afa813": 1792629885.264127,
   "rare:c04a7d": 1792624384.103449,
-  "rare:c0868c": 1792611431.13434,
-  "rare:e49931": 1792612780.308309,
-  "rare:e49932": 1792611071.553195,
-  "sqk7700:000a02": 1792613413.562057,
-  "sqk7700:249249": 1792612289.439471,
   "sqk7700:71fbc7": 1792628097.988138,
-  "sqk7700:adaa52": 1792610463.88763,
-  "sqk7700:ae4d99": 1792613029.151074,
-  "uav:a98ac0": 1792623738.841882,
-  "uav:ae6259": 1792611431.13434,
-  "uav:af9b5f": 1792610719.932131
+  "uav:a98ac0": 1792623738.841882
  },
  "stats": {
   "diversions": 15,
   "emergencies": 8,
-  "finds": 295
+  "finds": 314
  },
  "type_counts": {
   "A109": 266,
