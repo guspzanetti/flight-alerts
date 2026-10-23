@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792774251.531747,
  "last_green": 1792724072.502188,
- "last_run": "2026-10-23T15:58:29.364435+00:00",
- "last_scan": 1792771109.364435,
- "last_yellow": 1792769743.033709,
+ "last_run": "2026-10-23T16:58:01.017471+00:00",
+ "last_scan": 1792774681.017471,
+ "last_yellow": 1792774681.017471,
  "prev": {
   "0031cb": [
    -25.853856,
@@ -30256,56 +30256,7 @@
    1792666257.870085
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/VUBCH",
-   "hex": "8017ad",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C295</b> - VUBCH (CA7116) over India. Seen 19x in 261,606 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UGD110",
-   "hex": "06809b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A338</b> - UGD110 (5X-NIL) over W Europe. Seen 27x in 261,993 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5230",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5230</b> ICN-SZX-ANC (B77L)\n    foreign-to-foreign: ICN (KR) \u2192 SZX (CN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KAL233",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>KAL233</b> ICN-ANC-ORD-SEA (B748)\n    foreign-to-foreign: ANC (US) \u2192 ORD (US); ORD (US) \u2192 SEA (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CJT2039",
-   "hex": "c023e4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CH7A</b> - CJT2039 (C-FNPJ) over Mexico. Seen 27x in 262,216 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GBB124K",
-   "hex": "008fef",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DC93</b> - GBB124K (ZS-GAG) over S Africa. Seen 10x in 262,241 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AIC2383": {
    "airline": "AIC",
@@ -80742,54 +80693,35 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 4237,
+ "run": 4238,
  "seen": {
   "div:UAL1581": 1792766116.043712,
-  "div:UAL2693": 1792752731.305937,
   "ff:BAW16": 1792768733.954243,
-  "ff:BOX722": 1792751749.611037,
   "ff:FDX5179": 1792766440.513993,
   "ff:FDX5230": 1792770427.838005,
   "ff:FDX5282": 1792768073.277485,
   "ff:KAL233": 1792770427.838005,
-  "ff:KLM751": 1792751094.789159,
   "ff:LAN626": 1792767415.06432,
-  "ff:MAS6125": 1792749789.05549,
   "ff:QFA255": 1792767090.819694,
-  "ff:SIA11": 1792751420.990207,
-  "ff:SIA12": 1792749789.05549,
-  "ff:SIA479": 1792752412.65476,
   "ff:THY6577": 1792768411.801031,
   "ff:THY92W": 1792762862.154907,
-  "ff:UAE9913": 1792750762.393315,
   "ff:UAL848": 1792766440.513993,
   "ff:UPS105": 1792766440.513993,
   "rare:008fef": 1792770774.271609,
   "rare:06809b": 1792770105.069496,
-  "rare:14f125": 1792750110.470796,
-  "rare:155bd2": 1792750110.470796,
-  "rare:155c0b": 1792751749.611037,
-  "rare:157765": 1792751749.611037,
-  "rare:3453d3": 1792751094.789159,
   "rare:34604b": 1792766116.043712,
   "rare:3950ce": 1792766116.043712,
   "rare:395d66": 1792767745.287732,
   "rare:395d69": 1792766116.043712,
-  "rare:3981a4": 1792751094.789159,
   "rare:4400d0": 1792767745.287732,
   "rare:4b008f": 1792766116.043712,
   "rare:4bb64b": 1792767745.287732,
   "rare:5003d6": 1792767090.819694,
-  "rare:50801f": 1792752731.305937,
   "rare:8002b1": 1792768411.801031,
   "rare:8017ad": 1792770105.069496,
-  "rare:841066": 1792751420.990207,
-  "rare:896024": 1792752070.015133,
   "rare:a12403": 1792769401.066683,
   "rare:a491a8": 1792767745.287732,
-  "rare:a9f6c2": 1792751094.789159,
   "rare:aaf5b8": 1792766116.043712,
-  "rare:ab6552": 1792751094.789159,
   "rare:ae0110": 1792766116.043712,
   "rare:ae056b": 1792767745.287732,
   "rare:ae2238": 1792767745.287732,
@@ -80797,13 +80729,12 @@
   "rare:ae4cfe": 1792769401.066683,
   "rare:c023e4": 1792770774.271609,
   "rare:c04b8d": 1792767745.287732,
-  "rare:c07b8c": 1792769401.066683,
-  "uav:a98abd": 1792750436.303977
+  "rare:c07b8c": 1792769401.066683
  },
  "stats": {
   "diversions": 3,
   "emergencies": 0,
-  "finds": 87
+  "finds": 93
  },
  "type_counts": {
   "A109": 319,
