@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792752928.887529,
  "last_green": 1792724072.502188,
- "last_run": "2026-10-23T11:07:39.346256+00:00",
- "last_scan": 1792753659.346256,
- "last_yellow": 1792752070.015133,
+ "last_run": "2026-10-23T11:39:06.000062+00:00",
+ "last_scan": 1792755546.000062,
+ "last_yellow": 1792755546.000062,
  "prev": {
   "008081": [
    -27.651443,
@@ -34146,24 +34146,7 @@
    1792666257.870085
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/SIA479",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA479</b> CPT-JNB-SIN (A359)\n    foreign-to-foreign: CPT (ZA) \u2192 JNB (ZA)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ADB7128",
-   "hex": "50801f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A124</b> - ADB7128 (UR-82072) over US Northeast. Seen 14x in 255,901 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL1235": null,
   "AAL1242": null,
@@ -84745,7 +84728,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 4156,
+ "run": 4157,
  "seen": {
   "div:UAL2693": 1792752731.305937,
   "ff:BOX722": 1792751749.611037,
@@ -84788,7 +84771,7 @@
  "stats": {
   "diversions": 2,
   "emergencies": 0,
-  "finds": 57
+  "finds": 59
  },
  "type_counts": {
   "A109": 305,
