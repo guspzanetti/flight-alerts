@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792837802.205962,
  "last_green": 1792810565.772384,
- "last_run": "2026-10-24T10:50:27.380667+00:00",
- "last_scan": 1792838835.591076,
- "last_yellow": 1792836802.795367,
+ "last_run": "2026-10-24T11:09:02.620152+00:00",
+ "last_scan": 1792840142.620152,
+ "last_yellow": 1792840142.620152,
  "prev": {
   "008de4": [
    -29.791943,
@@ -26111,48 +26111,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/SIA12",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA12</b> SIN-NRT-LAX (B77W)\n    foreign-to-foreign: NRT (JP) \u2192 LAX (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SDM6010",
-   "hex": "155bc1",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6010 (RA-89025) over Russia. Seen 41x in 284,147 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SDM6153",
-   "hex": "155c0b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6153 (RA-89099) over Russia. Seen 42x in 284,149 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SDM6047",
-   "hex": "155c11",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6047 (RA-89105) over Russia. Seen 43x in 284,151 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/30579",
-   "hex": "14f127",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A148</b> - 30579 (RA-61735) over Russia. Seen 11x in 284,158 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AFL1531": {
    "airline": "AFL",
@@ -75781,7 +75740,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 4599,
+ "run": 4600,
  "seen": {
   "ff:ACA91": 1792836140.423028,
   "ff:KLM751": 1792834521.347668,
@@ -75826,7 +75785,7 @@
  "stats": {
   "diversions": 4,
   "emergencies": 1,
-  "finds": 51
+  "finds": 56
  },
  "type_counts": {
   "A109": 331,
