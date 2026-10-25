@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1792925082.425506,
  "last_green": 1792897060.813224,
- "last_run": "2026-10-25T11:20:09.479806+00:00",
- "last_scan": 1792926961.829324,
- "last_yellow": 1792924169.321325,
+ "last_run": "2026-10-25T11:45:29.830584+00:00",
+ "last_scan": 1792928729.830584,
+ "last_yellow": 1792928362.944997,
  "prev": {
   "00808c": [
    -26.068222,
@@ -30356,40 +30356,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/UAL837",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL837</b> SFO-NRT-KHH (B38M)\n    foreign-to-foreign: NRT (JP) \u2192 KHH (TW)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA12",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA12</b> SIN-NRT-LAX (B77W)\n    foreign-to-foreign: NRT (JP) \u2192 LAX (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5124",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5124</b> MEM-CDG-DXB-HKG (B77L)\n    foreign-to-foreign: CDG (FR) \u2192 DXB (AE); DXB (AE) \u2192 HKG (HK)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/30576",
-   "hex": "14f126",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A148</b> - 30576 (RA-61734) over Russia. Seen 12x in 309,064 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AFL1082": {
    "airline": "AFL",
@@ -78989,7 +78956,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 5030,
+ "run": 5032,
  "seen": {
   "div:TAM9421": 1792923833.712492,
   "ff:CPA3248": 1792920643.450518,
@@ -79027,7 +78994,7 @@
  "stats": {
   "diversions": 1,
   "emergencies": 2,
-  "finds": 40
+  "finds": 44
  },
  "type_counts": {
   "A109": 338,
