@@ -1,9 +1,9 @@
 {
- "last_feed_warn": 1793051082.384233,
+ "last_feed_warn": 1793054733.841708,
  "last_green": 1792983738.57166,
- "last_run": "2026-10-26T21:30:29.154954+00:00",
- "last_scan": 1793049971.863712,
- "last_yellow": 1793049299.169544,
+ "last_run": "2026-10-26T22:44:29.536139+00:00",
+ "last_scan": 1793054669.536139,
+ "last_yellow": 1793054188.463838,
  "prev": {
   "007465": [
    51.285652,
@@ -30016,56 +30016,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/BCS2881",
-   "hex": "4d209e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A346</b> - BCS2881 (9H-TEQ) over W Europe. Seen 74x in 345,604 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/53.50,0.62/11",
-   "hex": "43c60a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EUFI</b> - ZK301 (ZK301) over W Europe. Seen 61x in 345,630 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DEADPO32",
-   "hex": "43c6de",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EUFI</b> - DEADPO32 (ZK331) over W Europe. Seen 62x in 345,634 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/C2302",
-   "hex": "ae2238",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CN35</b> - C2302 (2302) over US Northeast. Seen 38x in 346,684 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PE552",
-   "hex": "7c499c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>JS32</b> - PE552 (VH-OTQ) over Australia. Seen 70x in 346,771 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PE775",
-   "hex": "7c005d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>JS32</b> - PE775 (VH-ACV) over Australia. Seen 71x in 346,774 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AFR282": null,
   "ANA218": null,
@@ -76808,7 +76759,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 5589,
+ "run": 5591,
  "seen": {
   "div:UAL648": 1793048011.621848,
   "ff:CSN435": 1793045658.298047,
@@ -76862,7 +76813,7 @@
  "stats": {
   "diversions": 9,
   "emergencies": 6,
-  "finds": 156
+  "finds": 162
  },
  "type_counts": {
   "A109": 368,
