@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1793023560.397946,
  "last_green": 1792983738.57166,
- "last_run": "2026-10-26T14:00:37.706912+00:00",
- "last_scan": 1793023237.706912,
- "last_yellow": 1793021785.259556,
+ "last_run": "2026-10-26T14:51:30.203681+00:00",
+ "last_scan": 1793026290.203681,
+ "last_yellow": 1793026290.203681,
  "prev": {
   "0000cb": [
    -21.981455,
@@ -34156,200 +34156,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/ZSOFD",
-   "hex": "008239",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>J3</b> - ZSOFD (ZS-AVG) over S Africa. Seen 18x in 339,351 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DAZZLE1",
-   "hex": "ae63f1",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - DAZZLE1 (63-8131) over US Northeast. Seen 72x in 339,405 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RH01",
-   "hex": "ae63fc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - RH01 (68-8150) over US Northeast. Seen 73x in 339,408 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DE81",
-   "hex": "ae63f3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - DE81 (68-8185) over US Northeast. Seen 74x in 339,495 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/C6605",
-   "hex": "ae26bc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AS65</b> - C6605 (6605) over US Northeast. Seen 83x in 339,573 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/150191",
-   "hex": "ae5f04",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DHC2</b> - 150191 (150191) over US Northeast. Seen 35x in 339,609 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRB885",
-   "hex": "a16971",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GLF2</b> - GRB885 (N190PA) over US Northeast. Seen 15x in 339,641 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SP01",
-   "hex": "ae63f5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - SP01 (62-3615) over US Northeast. Seen 75x in 339,653 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TSTR15",
-   "hex": "ae1395",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - TSTR15 (614856) over US Northeast. Seen 76x in 339,662 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KS01",
-   "hex": "ae6402",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - KS01 (70-1574) over US Northeast. Seen 77x in 339,679 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/53445656",
-   "hex": "ae4bae",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H53S</b> - 53445656 (165247) over US Northeast. Seen 67x in 339,784 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/C6604",
-   "hex": "ae26bb",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AS65</b> - C6604 (6604) over US Northeast. Seen 84x in 339,833 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/C2302",
-   "hex": "ae2238",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CN35</b> - C2302 (2302) over US Northeast. Seen 35x in 339,937 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL641",
-   "hex": "a12403",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B37M</b> - UAL641 (N17272) over US Northeast. Seen 13x in 340,074 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GU81",
-   "hex": "ae63ee",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T38</b> - GU81 (67-14939) over US Northeast. Seen 78x in 340,156 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF1902",
-   "hex": "a1281d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF1902 (N174AV) over US West. Seen 55x in 340,319 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ROCC01",
-   "hex": "a3ea1f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SLCH</b> - ROCC01 (N351SL) over US West. Seen 1x in 340,320 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FAB1398",
-   "hex": "e49af8",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TUCA</b> - FAB1398 (FAB1398) over Brazil. Seen 36x in 340,572 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAH53P",
-   "hex": "489009",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE4W</b> - SAH53P (SP-EAK) over W Europe. Seen 3x in 340,873 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BGA123Y",
-   "hex": "395d68",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA123Y (F-GXLI) over W Europe. Seen 39x in 340,922 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HKS77",
-   "hex": "4071d0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC75</b> - HKS77 (G-MCSE) over W Europe. Seen 57x in 340,927 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BFF20",
-   "hex": "c08830",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA20</b> - BFF20 (C-GZOX) over W Europe. Seen 49x in 340,998 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NATO40",
-   "hex": "4d03c6",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E3TF</b> - NATO40 (LX-N90448) over W Europe. Seen 8x in 341,239 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BPO371",
-   "hex": "3e02e2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC20</b> - BPO371 (D-HSHE) over W Europe. Seen 81x in 341,262 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL109": null,
   "ACA865": null,
@@ -81328,7 +81135,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 5519,
+ "run": 5520,
  "seen": {
   "div:AAL2997": 1793022532.751258,
   "div:IGO5156": 1793019427.804642,
@@ -81435,7 +81242,7 @@
  "stats": {
   "diversions": 8,
   "emergencies": 3,
-  "finds": 92
+  "finds": 116
  },
  "type_counts": {
   "A109": 365,
