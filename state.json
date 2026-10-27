@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1793078813.630651,
  "last_green": 1793070516.175236,
- "last_run": "2026-10-27T04:54:02.212814+00:00",
- "last_scan": 1793076842.212814,
- "last_yellow": 1793074117.179905,
+ "last_run": "2026-10-27T06:09:27.063612+00:00",
+ "last_scan": 1793081367.063612,
+ "last_yellow": 1793081367.063612,
  "prev": {
   "008ba5": [
    39.957462,
@@ -30401,80 +30401,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/ANZ3",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ANZ3</b> LHR-LAX-AKL (B77W)\n    foreign-to-foreign: LHR (GB) \u2192 LAX (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE17K",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE17K</b> DXB-LCA-MLA (B77W)\n    foreign-to-foreign: LCA (CY) \u2192 MLA (MT)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE797",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE797</b> DXB-CKY-DSS-DXB (B77W)\n    foreign-to-foreign: CKY (GN) \u2192 DSS (SN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE6M",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE6M</b> DXB-ACC-ABJ (B77W)\n    foreign-to-foreign: ACC (GH) \u2192 ABJ (CI)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IMX359",
-   "hex": "4b008b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT72</b> - IMX359 (HB-AFJ) over W Europe. Seen 64x in 353,941 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY181",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY181</b> IST-MEX-CUN-IST (B789)\n    foreign-to-foreign: MEX (MX) \u2192 CUN (MX)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BCS2882",
-   "hex": "4d209e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A346</b> - BCS2882 (9H-TEQ) over W Europe. Seen 75x in 353,988 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TAY3PO",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>TAY3PO</b> CDG-OPO (B738)\n    foreign-to-foreign: CDG (FR) \u2192 OPO (PT)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX1921",
-   "hex": "aa01e7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A30B</b> - FDX1921 (N744FD) over US Northeast. Seen 27x in 354,193 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL1269": null,
   "AAL148": null,
@@ -76844,7 +76771,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 5737,
+ "run": 5738,
  "seen": {
   "div:AAL514": 1793071150.87529,
   "div:IGO1440": 1793073458.841035,
@@ -76922,7 +76849,7 @@
  "stats": {
   "diversions": 4,
   "emergencies": 0,
-  "finds": 19
+  "finds": 28
  },
  "type_counts": {
   "A109": 369,
