@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1793138024.380499,
  "last_green": 1793070516.175236,
- "last_run": "2026-10-27T21:32:20.501780+00:00",
- "last_scan": 1793136740.50178,
- "last_yellow": 1793133833.761415,
+ "last_run": "2026-10-27T22:13:24.921340+00:00",
+ "last_scan": 1793139204.92134,
+ "last_yellow": 1793139204.92134,
  "prev": {
   "008ba5": [
    38.946213,
@@ -35786,80 +35786,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/FDX5179",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5179</b> CAN-ICN-KIX (B77L)\n    foreign-to-foreign: CAN (CN) \u2192 ICN (KR); ICN (KR) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SND4",
-   "hex": "7c6b4d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C212</b> - SND4 (VH-VHB) over Australia. Seen 34x in 363,532 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VOZ629",
-   "hex": "7c6ae9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C441</b> - VOZ629 (VH-VEJ) over Australia. Seen 47x in 363,539 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ZVM",
-   "hex": "7c8190",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P750</b> - ZVM (VH-ZVM) over Australia. Seen 25x in 363,551 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SKP11",
-   "hex": "7c6276",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8B</b> - SKP11 (VH-TQG) over Australia. Seen 62x in 363,593 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRYDR61",
-   "hex": "a7ee03",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>UH1</b> - GRYDR61 (N61SP) over US Northeast. Seen 41x in 364,232 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/1777Z",
-   "hex": "a13693",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MM16</b> - 1777Z (N1777Z) over US West. Seen 15x in 364,588 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/161053",
-   "hex": "ae60f2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T34T</b> - 161053 (161053) over US West. Seen 7x in 364,803 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CO57",
-   "hex": "e49925",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TUCA</b> - CO57 (FAB1383) over Brazil. Seen 40x in 365,288 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL73": null,
   "AAR601": null,
@@ -82003,7 +81930,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 5900,
+ "run": 5901,
  "seen": {
   "div:DAL1554": 1793134882.113149,
   "div:DAL661": 1793130373.500494,
@@ -82087,7 +82014,7 @@
  "stats": {
   "diversions": 10,
   "emergencies": 1,
-  "finds": 146
+  "finds": 155
  },
  "type_counts": {
   "A109": 379,
