@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1793102748.500712,
  "last_green": 1793070516.175236,
- "last_run": "2026-10-27T11:56:36.985333+00:00",
- "last_scan": 1793102196.985333,
- "last_yellow": 1793099019.477373,
+ "last_run": "2026-10-27T12:31:09.108605+00:00",
+ "last_scan": 1793104269.108605,
+ "last_yellow": 1793104269.108605,
  "prev": {
   "0d113b": [
    43.49762,
@@ -26031,64 +26031,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/ZSOFD",
-   "hex": "008239",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>J3</b> - ZSOFD (ZS-AVG) over S Africa. Seen 19x in 358,301 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRYDR24",
-   "hex": "a1f17b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>UH1</b> - GRYDR24 (N224SP) over US Northeast. Seen 35x in 358,584 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ADB7110",
-   "hex": "508015",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A124</b> - ADB7110 (UR-82027) over US Northeast. Seen 21x in 358,724 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AJI041",
-   "hex": "a1a29d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA20</b> - AJI041 (N204TW) over US West. Seen 50x in 358,810 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA7226",
-   "hex": "7c5d71",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B463</b> - QFA7226 (VH-SQR) over Australia. Seen 15x in 359,033 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA334",
-   "hex": "151d58",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA334 (RA-73048) over Russia. Seen 76x in 359,037 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RSD804",
-   "hex": "157717",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>IL96</b> - RSD804 (RA-96023) over India. Seen 4x in 359,049 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AFL277": {
    "airline": "AFL",
@@ -72356,7 +72299,7 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 5819,
+ "run": 5820,
  "seen": {
   "div:AAL1593": 1793096984.657021,
   "ff:KLM751": 1793098653.626165,
@@ -72418,7 +72361,7 @@
  "stats": {
   "diversions": 5,
   "emergencies": 0,
-  "finds": 76
+  "finds": 83
  },
  "type_counts": {
   "A109": 375,
