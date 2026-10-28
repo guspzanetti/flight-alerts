@@ -1,14 +1,19 @@
 {
  "last_feed_warn": 1793150369.134393,
  "last_green": 1793070516.175236,
- "last_run": "2026-10-28T01:18:26.959131+00:00",
- "last_scan": 1793150306.959131,
- "last_yellow": 1793147097.80336,
+ "last_run": "2026-10-28T02:09:55.694838+00:00",
+ "last_scan": 1793153395.694838,
+ "last_yellow": 1793153395.694838,
  "prev": {
   "009ee9": [
    -28.843441,
    24.880156,
    1793146418.491574
+  ],
+  "00b1f2": [
+   -27.08372,
+   29.795186,
+   1793153395.694838
   ],
   "01013d": [
    23.968956,
@@ -33856,112 +33861,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/JL2323",
-   "hex": "8405aa",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT46</b> - JL2323 (JA01JC) over Japan. Seen 28x in 370,138 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VILLN23",
-   "hex": "a70115",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F5</b> - VILLN23 (N550TA) over US West. Seen 38x in 370,296 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CHH7925",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>CHH7925</b> PEK-TIJ-MEX (B789)\n    foreign-to-foreign: TIJ (MX) \u2192 MEX (MX)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/WLFPPK01",
-   "hex": "ae4b4c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H53</b> - WLFPPK01 (161991) over US West. Seen 15x in 370,642 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE5CL",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE5CL</b> CHC-SYD-DXB (A388)\n    foreign-to-foreign: CHC (NZ) \u2192 SYD (AU)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FRF131",
-   "hex": "471a7f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT72</b> - FRF131 (HA-KAX) over W Europe. Seen 66x in 371,097 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/00000000",
-   "hex": "846c67",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC55</b> - 00000000 (JA155H) over Japan. Seen 54x in 371,696 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/34.27,136.06/11",
-   "hex": "87c846",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P1</b> - 5523 (5523) over Japan. Seen 42x in 371,697 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FENIX02",
-   "hex": "87cc38",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>KC2</b> - FENIX02 (88-1207) over Japan. Seen 48x in 371,774 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/000001",
-   "hex": "87c823",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P1</b> - 000001 (5508) over Japan. Seen 43x in 371,827 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/WGTL10",
-   "hex": "7cf8f5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E737</b> - WGTL10 (A30-006) over Australia. Seen 12x in 371,869 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MRNR01",
-   "hex": "7cf9d3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P8</b> - MRNR01 (A47-009) over Australia. Seen 32x in 371,875 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS167",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS167</b> SZX-SIN-HKG (B763)\n    foreign-to-foreign: SZX (CN) \u2192 SIN (SG); SIN (SG) \u2192 HKG (HK)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AIC35J": null,
   "ETD128": null,
@@ -79907,12 +79807,10 @@
   "WJA9": null,
   "YAK52": null
  },
- "run": 6008,
+ "run": 6009,
  "seen": {
   "div:DAL1554": 1793134882.113149,
-  "div:DAL661": 1793130373.500494,
   "div:UAL1219": 1793132143.207881,
-  "div:UAL1540": 1793130373.500494,
   "div:UAL1574": 1793149030.646815,
   "div:UAL1962": 1793149030.646815,
   "div:UAL2642": 1793146773.094494,
@@ -79920,52 +79818,32 @@
   "div:UAL648": 1793133833.761415,
   "ff:BOX389": 1793146773.094494,
   "ff:BOX621": 1793132849.232226,
-  "ff:CAL5878": 1793131425.369822,
   "ff:CHH7925": 1793148385.854057,
   "ff:FDX5179": 1793134179.157458,
   "ff:QTR840": 1793146092.779244,
   "ff:QTR970": 1793144479.018727,
   "ff:SIA11": 1793133833.761415,
-  "ff:SIA7402": 1793131425.369822,
   "ff:TAY1BS": 1793140644.365868,
   "ff:TAY2DI": 1793140644.365868,
   "ff:TAY6IX": 1793140644.365868,
   "ff:UAE256": 1793132143.207881,
   "ff:UAE34E": 1793145141.082569,
   "ff:UAE5CL": 1793148385.854057,
-  "ff:UAL152": 1793130373.500494,
   "ff:UPS167": 1793149992.181104,
-  "ff:UPS207": 1793131056.299884,
-  "ff:UPS237": 1793131056.299884,
   "ff:UPS249": 1793140644.365868,
-  "rare:06809b": 1793131056.299884,
   "rare:0d0234": 1793146773.094494,
-  "rare:0d0bd7": 1793130373.500494,
-  "rare:0d8469": 1793130734.173644,
   "rare:152c29": 1793144157.351635,
   "rare:3950cc": 1793132849.232226,
   "rare:3950ce": 1793132849.232226,
-  "rare:403bab": 1793131056.299884,
-  "rare:4078d7": 1793131056.299884,
   "rare:407d81": 1793132849.232226,
   "rare:407e66": 1793132849.232226,
   "rare:40831d": 1793132849.232226,
-  "rare:408320": 1793131056.299884,
-  "rare:43c60c": 1793131056.299884,
-  "rare:43c6da": 1793131056.299884,
-  "rare:43c706": 1793131056.299884,
-  "rare:43c740": 1793131056.299884,
   "rare:43c75b": 1793132849.232226,
-  "rare:43c7a2": 1793131056.299884,
-  "rare:43c7a3": 1793131056.299884,
-  "rare:43c7ab": 1793131056.299884,
   "rare:43c948": 1793140644.365868,
   "rare:43c94a": 1793132849.232226,
-  "rare:43c95c": 1793131056.299884,
   "rare:43c95d": 1793140644.365868,
   "rare:471a7f": 1793149030.646815,
   "rare:480808": 1793132849.232226,
-  "rare:48104f": 1793131056.299884,
   "rare:4b008f": 1793132849.232226,
   "rare:4d209e": 1793140644.365868,
   "rare:7000a1": 1793146092.779244,
@@ -79989,7 +79867,6 @@
   "rare:87c846": 1793149353.486566,
   "rare:87cc38": 1793149353.486566,
   "rare:87cc3b": 1793145456.825161,
-  "rare:89913f": 1793131425.369822,
   "rare:a086b5": 1793133833.761415,
   "rare:a1281d": 1793143497.384672,
   "rare:a13693": 1793134882.113149,
@@ -80011,8 +79888,6 @@
   "rare:a89989": 1793146773.094494,
   "rare:a8e60e": 1793145141.082569,
   "rare:a95ca7": 1793133833.761415,
-  "rare:a96fb1": 1793130373.500494,
-  "rare:a98ac7": 1793130373.500494,
   "rare:a9b3f9": 1793143497.384672,
   "rare:a9d6b1": 1793143497.384672,
   "rare:aa3c0b": 1793146773.094494,
@@ -80026,7 +79901,6 @@
   "rare:ae0572": 1793133833.761415,
   "rare:ae1396": 1793133833.761415,
   "rare:ae1e6e": 1793133833.761415,
-  "rare:ae2125": 1793130373.500494,
   "rare:ae2238": 1793143497.384672,
   "rare:ae26bc": 1793133833.761415,
   "rare:ae4b4c": 1793148385.854057,
@@ -80034,21 +79908,15 @@
   "rare:ae5e4e": 1793132143.207881,
   "rare:ae60f2": 1793134882.113149,
   "rare:ae61c4": 1793146773.094494,
-  "rare:ae61d3": 1793130373.500494,
-  "rare:ae61d4": 1793130373.500494,
   "rare:ae61de": 1793146773.094494,
-  "rare:ae6b99": 1793130373.500494,
-  "rare:ae6ba7": 1793130373.500494,
   "rare:ae7449": 1793133833.761415,
   "rare:c023e4": 1793146773.094494,
   "rare:c03ab6": 1793143497.384672,
-  "rare:c08179": 1793130373.500494,
   "rare:e49925": 1793135202.187453,
   "rare:e49c11": 1793132514.698237,
   "sqk7700:a867bf": 1793149426.119521,
   "sqk7700:ae51f2": 1793131920.713768,
   "sqk7700:e47f07": 1793143960.542037,
-  "uav:a98ac7": 1793130373.500494,
   "uav:abc123": 1793146773.094494,
   "uav:ae5c73": 1793143497.384672,
   "uav:b6d49d": 1793143497.384672
@@ -80056,7 +79924,7 @@
  "stats": {
   "diversions": 14,
   "emergencies": 3,
-  "finds": 201
+  "finds": 214
  },
  "type_counts": {
   "A109": 380,
@@ -80084,7 +79952,7 @@
   "A339": 1633,
   "A33P": 5,
   "A342": 7,
-  "A343": 188,
+  "A343": 189,
   "A345": 3,
   "A346": 78,
   "A359": 5861,
@@ -80161,7 +80029,7 @@
   "B703": 12,
   "B712": 314,
   "B722": 14,
-  "B733": 328,
+  "B733": 329,
   "B734": 276,
   "B735": 76,
   "B736": 136,
