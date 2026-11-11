@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1794407784.218002,
  "last_green": 1794331441.602466,
- "last_run": "2026-11-11T14:51:54.027329+00:00",
- "last_scan": 1794408714.027329,
- "last_yellow": 1794406450.020583,
+ "last_run": "2026-11-11T15:10:05.997034+00:00",
+ "last_scan": 1794409805.997034,
+ "last_yellow": 1794409805.997034,
  "prev": {
   "0001c2": [
    -23.769608,
@@ -7315,6 +7315,11 @@
    4.23226,
    1794405149.04802
   ],
+  "76cdb1": [
+   -33.622971,
+   150.151324,
+   1794409805.997034
+  ],
   "76cdb5": [
    -26.260803,
    28.659599,
@@ -7555,6 +7560,11 @@
    150.980455,
    1794402155.457548
   ],
+  "7c66e4": [
+   -29.767782,
+   151.440663,
+   1794409805.997034
+  ],
   "7c6b09": [
    -31.434492,
    149.921906,
@@ -7596,14 +7606,19 @@
    1794402155.457548
   ],
   "7c7543": [
-   -32.550018,
-   150.795044,
-   1794402155.457548
+   -30.037033,
+   152.228394,
+   1794409805.997034
   ],
   "7c7544": [
    -35.348511,
    149.090959,
    1794407090.35951
+  ],
+  "7c7545": [
+   -33.871455,
+   150.737915,
+   1794409805.997034
   ],
   "7c7801": [
    -30.369563,
@@ -31811,9 +31826,9 @@
    1794300142.201193
   ],
   "c842c7": [
-   -30.646225,
-   152.543658,
-   1794399880.149765
+   -31.072769,
+   150.322158,
+   1794409805.997034
   ],
   "c87f3e": [
    -34.015961,
@@ -38341,166 +38356,8 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/BGA314H",
-   "hex": "395d67",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA314H (F-GXLH) over W Europe. Seen 141x in 1,095,870 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MARINE11",
-   "hex": "43c765",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LYNX</b> - MARINE11 (ZZ524) over W Europe. Seen 168x in 1,095,928 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CSAIR23",
-   "hex": "43c757",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LYNX</b> - CSAIR23 (ZZ510) over W Europe. Seen 169x in 1,095,942 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETP88",
-   "hex": "4005a9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RJ70</b> - ETP88 (G-ETPK) over W Europe. Seen 19x in 1,095,976 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JUP112",
-   "hex": "4b008f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT72</b> - JUP112 (HB-AFN) over W Europe. Seen 175x in 1,096,133 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VANDAL23",
-   "hex": "43c7a7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EUFI</b> - VANDAL23 (ZK430) over W Europe. Seen 152x in 1,096,138 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HAVOC042",
-   "hex": "43c6db",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EUFI</b> - HAVOC042 (ZK328) over W Europe. Seen 154x in 1,096,171 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HKS77",
-   "hex": "4071d0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC75</b> - HKS77 (G-MCSE) over W Europe. Seen 182x in 1,096,183 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JEI131",
-   "hex": "3cd003",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LJ55</b> - JEI131 (D-CGBR) over W Europe. Seen 28x in 1,096,286 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BGA151N",
-   "hex": "395d6d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA151N (F-GXLN) over W Europe. Seen 143x in 1,096,388 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/OYO5",
-   "hex": "39d1aa",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - OYO5 (F-HUNK) over W Europe. Seen 234x in 1,096,408 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS207",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS207</b> SDF-STN-CGN (B763)\n    foreign-to-foreign: STN (GB) \u2192 CGN (DE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRYDR12",
-   "hex": "a052f7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B430</b> - GRYDR12 (N12SP) over US Northeast. Seen 46x in 1,096,740 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRYDR95",
-   "hex": "ad57b4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>K100</b> - GRYDR95 (N959SP) over US Northeast. Seen 201x in 1,097,105 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX60",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX60</b> NRT-KIX (B77L)\n    foreign-to-foreign: NRT (JP) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA595",
-   "hex": "151d66",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA595 (RA-73062) over Russia. Seen 223x in 1,097,413 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS15D",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS15D</b> BOM-CGN (B748)\n    foreign-to-foreign: BOM (IN) \u2192 CGN (DE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRM093",
-   "hex": "7335b2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A346</b> - IRM093 (EP-MMR) over India. Seen 126x in 1,097,428 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IVC7611",
-   "hex": "06cf04",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>IL76</b> - IVC7611 (TL-ATD) over Gulf. Seen 52x in 1,097,494 observations"
-  }
- ],
+ "queue": [],
  "routes": {
-  "AFL521": null,
-  "ETD11K": null,
-  "ETD134": null,
-  "ETD1QN": null,
-  "ETD36V": null,
   "ETD3XA": null,
   "ETD4EA": null,
   "ETD4SR": null,
@@ -38516,11 +38373,16 @@
   "IGO1315": null,
   "IGO1430": null,
   "KAC283": null,
+  "QFA650": null,
+  "QFA7303": null,
+  "QFA7334": null,
+  "QFA7335": null,
   "QTR1111": null,
   "QTR21Y": null,
   "QTR330": null,
   "QTR56L": null,
   "QTR73V": null,
+  "SIA296": null,
   "TAM3519": null,
   "TAM3521": {
    "airline": "TAM",
@@ -76319,7 +76181,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 18400,
+ "run": 18401,
  "seen": {
   "div:UAL2330": 1794406770.502053,
   "div:UAL486": 1794406770.502053,
@@ -76408,7 +76270,7 @@
  "stats": {
   "diversions": 23,
   "emergencies": 6,
-  "finds": 245
+  "finds": 264
  },
  "type_counts": {
   "A109": 1025,
@@ -76421,14 +76283,14 @@
   "A19N": 16,
   "A20N": 48427,
   "A210": 406,
-  "A21N": 59597,
+  "A21N": 59598,
   "A306": 1323,
   "A30B": 93,
   "A310": 84,
   "A318": 181,
   "A319": 23097,
   "A320": 68372,
-  "A321": 36610,
+  "A321": 36612,
   "A332": 5326,
   "A333": 11338,
   "A337": 143,
@@ -76438,7 +76300,7 @@
   "A343": 463,
   "A345": 18,
   "A346": 126,
-  "A359": 17906,
+  "A359": 17907,
   "A35K": 4609,
   "A388": 7347,
   "A400": 377,
@@ -76510,7 +76372,7 @@
   "B735": 224,
   "B736": 388,
   "B737": 21480,
-  "B738": 103397,
+  "B738": 103398,
   "B739": 12847,
   "B742": 89,
   "B743": 14,
@@ -77026,7 +76888,7 @@
   "SC7": 147,
   "SD4": 50,
   "SEAW": 1,
-  "SERV": 1205,
+  "SERV": 1206,
   "SF25": 143,
   "SF34": 1895,
   "SF50": 1167,
@@ -77083,7 +76945,7 @@
   "TRF1": 5,
   "TUCA": 161,
   "TWEN": 353,
-  "TWR": 13967,
+  "TWR": 13968,
   "U16": 1,
   "U21": 15,
   "UF13": 8,
