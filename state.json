@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1794908165.679814,
  "last_green": 1794872175.241907,
- "last_run": "2026-11-17T09:34:56.414053+00:00",
- "last_scan": 1794908096.414053,
- "last_yellow": 1794905888.736527,
+ "last_run": "2026-11-17T10:18:40.766112+00:00",
+ "last_scan": 1794910720.766112,
+ "last_yellow": 1794910720.766112,
  "prev": {
   "008081": [
    -23.045453,
@@ -28946,96 +28946,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/UPS67",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS67</b> SGN-HKG-ICN-ANC-SDF (B748)\n    foreign-to-foreign: SGN (VN) \u2192 HKG (HK); HKG (HK) \u2192 ICN (KR)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JAL2825",
-   "hex": "846a16",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT46</b> - JAL2825 (JA14HC) over Japan. Seen 164x in 1,321,230 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GBB102K",
-   "hex": "008fef",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DC93</b> - GBB102K (ZS-GAG) over S Africa. Seen 40x in 1,321,530 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE68K",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE68K</b> BQN-AMS-DWC (B77L)\n    foreign-to-foreign: BQN (PR) \u2192 AMS (NL)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ACA879",
-   "hex": "c08189",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BK17</b> - ACA879 (C-GXBK) over W Europe. Seen 92x in 1,321,896 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MERLN14",
-   "hex": "45f438",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EH10</b> - MERLN14 (M-514) over W Europe. Seen 44x in 1,321,911 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/2SALE",
-   "hex": "440376",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>WT9</b> - 2SALE (OE-7137) over W Europe. Seen 273x in 1,321,920 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AFR75QU",
-   "hex": "3950ce",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - AFR75QU (F-GUGO) over W Europe. Seen 229x in 1,322,138 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NCG01",
-   "hex": "c005e9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8A</b> - NCG01 (C-FCGE) over W Europe. Seen 178x in 1,322,234 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NATO10",
-   "hex": "4d03c3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>E3TF</b> - NATO10 (LX-N90445) over W Europe. Seen 44x in 1,322,312 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ANE1319",
-   "hex": "34530e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJX</b> - ANE1319 (EC-MNR) over W Europe. Seen 234x in 1,322,318 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL51": null,
   "AFL285": {
@@ -66045,7 +65956,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 22355,
+ "run": 22356,
  "seen": {
   "div:UAL1389": 1794905245.6373,
   "ff:QTR8142": 1794905564.207199,
@@ -66110,7 +66021,7 @@
  "stats": {
   "diversions": 13,
   "emergencies": 3,
-  "finds": 90
+  "finds": 101
  },
  "type_counts": {
   "A109": 1223,
