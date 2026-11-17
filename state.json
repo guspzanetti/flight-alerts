@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1794885506.246108,
  "last_green": 1794872175.241907,
- "last_run": "2026-11-17T03:12:37.505506+00:00",
- "last_scan": 1794885157.505506,
- "last_yellow": 1794882975.49034,
+ "last_run": "2026-11-17T03:34:07.232625+00:00",
+ "last_scan": 1794886447.232625,
+ "last_yellow": 1794886447.232625,
  "prev": {
   "00af5a": [
    -26.253647,
@@ -29781,40 +29781,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/UNIDENT",
-   "hex": "a98ac7",
-   "icon": "\ud83c\udf00",
-   "kind": "SHAPE",
-   "photo": true,
-   "text": "<b>UNIDENT</b> (PAY3, N7139B) - holding / circling\n    4.1 nm of an expected 13 (31%) at 14,000 ft over Gulf"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AHX801",
-   "hex": "8404f3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT46</b> - AHX801 (JA01AM) over Japan. Seen 162x in 1,316,723 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PE824",
-   "hex": "7c005d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>JS32</b> - PE824 (VH-ACV) over Australia. Seen 277x in 1,316,889 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SKP15",
-   "hex": "7c6276",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8B</b> - SKP15 (VH-TQG) over Australia. Seen 243x in 1,316,957 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "BAW242": null,
   "DAL589": null,
@@ -66807,7 +66774,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 22232,
+ "run": 22233,
  "seen": {
   "div:UAL1004": 1794881919.555798,
   "div:UAL1017": 1794881919.555798,
@@ -66872,7 +66839,7 @@
  "stats": {
   "diversions": 12,
   "emergencies": 0,
-  "finds": 42
+  "finds": 46
  },
  "type_counts": {
   "A109": 1214,
