@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1794976769.808017,
  "last_green": 1794959272.034419,
- "last_run": "2026-11-18T03:44:43.177741+00:00",
- "last_scan": 1794973483.177741,
- "last_yellow": 1794970689.053787,
+ "last_run": "2026-11-18T05:30:05.872297+00:00",
+ "last_scan": 1794979805.872297,
+ "last_yellow": 1794979805.872297,
  "prev": {
   "00b22b": [
    -24.488708,
@@ -27691,112 +27691,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/SKP15",
-   "hex": "7c6276",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8B</b> - SKP15 (VH-TQG) over Australia. Seen 246x in 1,335,666 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA2",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QFA2</b> LHR-SIN-SYD (A388)\n    foreign-to-foreign: LHR (GB) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS256",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS256</b> CGN-MAD (B763)\n    foreign-to-foreign: CGN (DE) \u2192 MAD (ES)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TOK406",
-   "hex": "840d6e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT46</b> - TOK406 (JA03QQ) over Japan. Seen 165x in 1,335,946 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GTI4316",
-   "hex": "aa0ca7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BLCF</b> - GTI4316 (N747BC) over Japan. Seen 36x in 1,335,949 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JFS51",
-   "hex": "87cde4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>KC2</b> - JFS51 (58-1218) over Japan. Seen 196x in 1,335,959 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE797",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE797</b> DXB-CKY-DSS-DXB (B77W)\n    foreign-to-foreign: CKY (GN) \u2192 DSS (SN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5202",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5202</b> CDG-STN-DUB (B763)\n    foreign-to-foreign: CDG (FR) \u2192 STN (GB); STN (GB) \u2192 DUB (IE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TAY1DI",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>TAY1DI</b> CDG-MME-EDI (B738)\n    foreign-to-foreign: CDG (FR) \u2192 MME (GB); MME (GB) \u2192 EDI (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS248",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS248</b> CGN-DUB-SNN (B763)\n    foreign-to-foreign: CGN (DE) \u2192 DUB (IE); DUB (IE) \u2192 SNN (IE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MPH9412",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>MPH9412</b> HKG-DWC-AMS (B744)\n    foreign-to-foreign: HKG (HK) \u2192 DWC (AE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX2679",
-   "hex": "a9ab7b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A30B</b> - FDX2679 (N722FD) over US Northeast. Seen 99x in 1,336,686 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RCH2044",
-   "hex": "ae055d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C5M</b> - RCH2044 (84-0062) over US Northeast. Seen 173x in 1,336,821 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL1333": null,
   "AAL1422": null,
@@ -64807,7 +64702,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 22574,
+ "run": 22575,
  "seen": {
   "div:IGO5067": 1794969713.214988,
   "div:QTR69G": 1794969713.214988,
@@ -64879,7 +64774,7 @@
  "stats": {
   "diversions": 10,
   "emergencies": 0,
-  "finds": 43
+  "finds": 56
  },
  "type_counts": {
   "A109": 1223,
