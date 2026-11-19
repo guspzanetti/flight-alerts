@@ -1,9 +1,9 @@
 {
- "last_feed_warn": 1795117007.899812,
+ "last_feed_warn": 1795120641.642324,
  "last_green": 1795045916.890665,
- "last_run": "2026-11-19T20:25:00.242943+00:00",
- "last_scan": 1795119900.242943,
- "last_yellow": 1795117237.081388,
+ "last_run": "2026-11-19T20:36:11.460902+00:00",
+ "last_scan": 1795120571.460902,
+ "last_yellow": 1795120571.460902,
  "prev": {
   "009a53": [
    -27.205081,
@@ -29206,128 +29206,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/LCW",
-   "hex": "7c380e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>COL4</b> - LCW (VH-LCW) over Australia. Seen 265x in 1,363,966 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IBJ",
-   "hex": "7c28ad",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>HUSK</b> - IBJ (VH-IBJ) over Australia. Seen 210x in 1,363,999 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL152",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL152</b> LAX-HKG-SGN (B789)\n    foreign-to-foreign: HKG (HK) \u2192 SGN (VN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HLF9836",
-   "hex": "781b2b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AURA</b> - HLF9836 (B-125X) over US West. Seen 36x in 1,364,293 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE110",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE110</b> MLA-LCA-DXB (B77W)\n    foreign-to-foreign: MLA (MT) \u2192 LCA (CY)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SVW97YX",
-   "hex": "4d0230",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A19N</b> - SVW97YX (LX-NYX) over Gulf. Seen 28x in 1,364,643 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NOU",
-   "hex": "7c43dc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C501</b> - NOU (VH-NOU) over Australia. Seen 110x in 1,364,761 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA375",
-   "hex": "151d4b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA375 (RA-73035) over Russia. Seen 293x in 1,364,905 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KAC205",
-   "hex": "70606d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A338</b> - KAC205 (9K-API) over Gulf. Seen 133x in 1,364,953 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BSC4031",
-   "hex": "601103",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B742</b> - BSC4031 (EX-47004) over Gulf. Seen 111x in 1,365,015 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRNHZ11",
-   "hex": "af83eb",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H53S</b> - IRNHZ11 (170346) over US Northeast. Seen 177x in 1,365,465 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SCORE90",
-   "hex": "ae5c73",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>Q4</b> - SCORE90 (168459) over US Northeast. Seen 49x in 1,365,555 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FRG391",
-   "hex": "a650c7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SB20</b> - FRG391 (N506FR) over US Northeast. Seen 116x in 1,365,591 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/XEN48",
-   "hex": "a569d7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA6X</b> - XEN48 (N448RL) over US Northeast. Seen 136x in 1,365,860 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/EJM616",
-   "hex": "a805f0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GA8C</b> - EJM616 (N616KG) over US Northeast. Seen 117x in 1,366,227 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL1165": null,
   "AAL1877": null,
@@ -66219,7 +66098,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 23028,
+ "run": 23029,
  "seen": {
   "div:IGO37F": 1795115529.830118,
   "div:UAL2211": 1795114567.89501,
@@ -66301,7 +66180,7 @@
  "stats": {
   "diversions": 16,
   "emergencies": 4,
-  "finds": 158
+  "finds": 173
  },
  "type_counts": {
   "A109": 1276,
