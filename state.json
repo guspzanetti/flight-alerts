@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795154004.776607,
  "last_green": 1795132544.088758,
- "last_run": "2026-11-20T04:28:32.691866+00:00",
- "last_scan": 1795148912.691866,
- "last_yellow": 1795146022.264019,
+ "last_run": "2026-11-20T06:08:37.098867+00:00",
+ "last_scan": 1795154917.098867,
+ "last_yellow": 1795154917.098867,
  "prev": {
   "01015c": [
    28.44919,
@@ -28771,32 +28771,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/UAE797",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE797</b> DXB-CKY-DSS-DXB (B77W)\n    foreign-to-foreign: CKY (GN) \u2192 DSS (SN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE6M",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE6M</b> DXB-ACC-ABJ (B77W)\n    foreign-to-foreign: ACC (GH) \u2192 ABJ (CI)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VTM342",
-   "hex": "0d0842",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MD82</b> - VTM342 (XA-UTX) over Mexico. Seen 5x in 1,372,158 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AIC13V": {
    "airline": "AIC",
@@ -65909,7 +65884,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 23146,
+ "run": 23147,
  "seen": {
   "div:UAL1109": 1795145346.04527,
   "div:UAL1298": 1795141407.549603,
@@ -65918,12 +65893,10 @@
   "div:UAL2761": 1795141407.549603,
   "div:UAL512": 1795141407.549603,
   "ff:FDX5084": 1795145346.04527,
-  "ff:FDX5810": 1795133214.214136,
   "ff:FDX6019": 1795133554.678194,
   "ff:GTI515": 1795145681.164371,
   "ff:GTI824": 1795144705.896383,
   "ff:LAN763": 1795143423.023929,
-  "ff:SAS973": 1795133214.214136,
   "ff:SIA7444": 1795144060.125826,
   "ff:TAY8AN": 1795145346.04527,
   "ff:THY168": 1795144060.125826,
@@ -65951,18 +65924,8 @@
   "rare:7c2af1": 1795134595.993642,
   "rare:7c2b83": 1795143423.023929,
   "rare:7c4511": 1795143423.023929,
-  "rare:7c4990": 1795132855.710255,
   "rare:7c499c": 1795145681.164371,
-  "rare:7c4cba": 1795132855.710255,
   "rare:7c4d61": 1795145681.164371,
-  "rare:7c4f0f": 1795132855.710255,
-  "rare:7c6276": 1795132855.710255,
-  "rare:7c6691": 1795132855.710255,
-  "rare:7c6ae9": 1795132855.710255,
-  "rare:7c81f0": 1795132855.710255,
-  "rare:7cc5ff": 1795132855.710255,
-  "rare:7cf8f4": 1795132855.710255,
-  "rare:7cf994": 1795132855.710255,
   "rare:8405aa": 1795144060.125826,
   "rare:84060f": 1795145681.164371,
   "rare:840d6e": 1795141735.124303,
@@ -65989,7 +65952,7 @@
  "stats": {
   "diversions": 6,
   "emergencies": 0,
-  "finds": 65
+  "finds": 68
  },
  "type_counts": {
   "A109": 1277,
