@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795188748.757041,
  "last_green": 1795132544.088758,
- "last_run": "2026-11-20T15:31:07.326383+00:00",
- "last_scan": 1795188587.015171,
- "last_yellow": 1795185891.019511,
+ "last_run": "2026-11-20T15:56:40.301432+00:00",
+ "last_scan": 1795190200.301432,
+ "last_yellow": 1795190200.301432,
  "prev": {
   "008187": [
    -29.533859,
@@ -30706,208 +30706,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/ADB5607",
-   "hex": "508015",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A124</b> - ADB5607 (UR-82027) over W Europe. Seen 90x in 1,376,841 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BGA243H",
-   "hex": "395d67",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA243H (F-GXLH) over W Europe. Seen 180x in 1,376,852 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GCKFD",
-   "hex": "405cb9",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>XAIR</b> - GCKFD (G-CFKD) over W Europe. Seen 3x in 1,376,920 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LJC3",
-   "hex": "4069b3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C55B</b> - LJC3 (G-IPLY) over W Europe. Seen 93x in 1,376,994 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FRA59",
-   "hex": "407e67",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>L159</b> - FRA59 (G-DKNF) over W Europe. Seen 39x in 1,377,084 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BHL202A",
-   "hex": "408280",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A189</b> - BHL202A (G-OENE) over W Europe. Seen 290x in 1,377,193 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LHC22",
-   "hex": "4011cd",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AS55</b> - LHC22 (G-UKTV) over W Europe. Seen 324x in 1,377,230 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JUP112",
-   "hex": "4b008b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT72</b> - JUP112 (HB-AFJ) over W Europe. Seen 197x in 1,377,271 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ANE1300",
-   "hex": "343650",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJX</b> - ANE1300 (EC-LJT) over W Europe. Seen 246x in 1,377,367 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX14",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX14</b> TPE-KIX (B77L)\n    foreign-to-foreign: TPE (TW) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UPS105",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS105</b> PVG-KIX-ANC-SDF (B763)\n    foreign-to-foreign: PVG (CN) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA596",
-   "hex": "151d66",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA596 (RA-73062) over Russia. Seen 294x in 1,377,633 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SDM6519",
-   "hex": "155c0f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6519 (RA-89103) over Russia. Seen 215x in 1,377,634 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CFS8693",
-   "hex": "aa3c0b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C408</b> - CFS8693 (N759FX) over US West. Seen 48x in 1,377,757 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NASA520",
-   "hex": "a68a1b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>GLF2</b> - NASA520 (N520NA) over US West. Seen 38x in 1,377,767 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF1902",
-   "hex": "ab3ba4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF1902 (N8227P) over US West. Seen 264x in 1,377,794 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF1936",
-   "hex": "a520a2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF1936 (N4299A) over US West. Seen 265x in 1,377,807 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AMF2118",
-   "hex": "a6881a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BE99</b> - AMF2118 (N52RP) over US West. Seen 266x in 1,377,982 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAFE03",
-   "hex": "e49d96",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MC01</b> - SAFE03 (PS-SFH) over Brazil. Seen 200x in 1,378,098 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ABLE2E",
-   "hex": "407d1c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PIVE</b> - ABLE2E (G-OFWD) over W Europe. Seen 17x in 1,378,416 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/OYO3",
-   "hex": "39c913",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - OYO3 (F-HSIT) over W Europe. Seen 281x in 1,378,584 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SNOWM54",
-   "hex": "480c23",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>PC7</b> - SNOWM54 (L-03) over W Europe. Seen 133x in 1,378,791 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NCG06",
-   "hex": "486449",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A189</b> - NCG06 (PH-SAR) over W Europe. Seen 292x in 1,378,808 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HRCN25",
-   "hex": "ae5d2c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>H53S</b> - HRCN25 (164861) over US Northeast. Seen 178x in 1,379,217 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL848",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL848</b> HND-GUM (B38M)\n    foreign-to-foreign: HND (JP) \u2192 GUM (GU)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAR117": null,
   "AFR257": null,
@@ -67969,7 +67768,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 23237,
+ "run": 23238,
  "seen": {
   "div:AZU2895": 1795186245.187136,
   "div:UAL2035": 1795185891.019511,
@@ -68049,7 +67848,7 @@
  "stats": {
   "diversions": 9,
   "emergencies": 2,
-  "finds": 112
+  "finds": 137
  },
  "type_counts": {
   "A109": 1289,
