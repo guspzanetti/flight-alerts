@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795243079.295955,
  "last_green": 1795219242.631349,
- "last_run": "2026-11-21T06:36:51.166037+00:00",
- "last_scan": 1795243011.166037,
- "last_yellow": 1795240761.503007,
+ "last_run": "2026-11-21T07:08:30.044767+00:00",
+ "last_scan": 1795244910.044767,
+ "last_yellow": 1795244910.044767,
  "prev": {
   "00802a": [
    -26.16188,
@@ -32991,128 +32991,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/QTR8160",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR8160</b> BOG-MIA-AMS-DOH (B77L)\n    foreign-to-foreign: BOG (CO) \u2192 MIA (US); MIA (US) \u2192 AMS (NL)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH552",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH552</b> FCO-YYZ (B789)\n    foreign-to-foreign: FCO (IT) \u2192 YYZ (CA)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ANE1326",
-   "hex": "345250",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJX</b> - ANE1326 (EC-MLC) over W Europe. Seen 248x in 1,393,027 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL153",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL153</b> SGN-HKG-LAX (B789)\n    foreign-to-foreign: SGN (VN) \u2192 HKG (HK)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MH691",
-   "hex": "863b10",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC25</b> - MH691 (JA691A) over Japan. Seen 67x in 1,393,314 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/30533",
-   "hex": "14f127",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A148</b> - 30533 (RA-61735) over Russia. Seen 100x in 1,393,417 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VDA8268",
-   "hex": "15409a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A124</b> - VDA8268 (RA-82074) over Gulf. Seen 94x in 1,393,493 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VTM462",
-   "hex": "0d0645",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DC93</b> - VTM462 (XA-UPS) over Mexico. Seen 43x in 1,393,622 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ZUKAD",
-   "hex": "00bc3b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>NAVI</b> - ZUKAD (ZS-WUK) over S Africa. Seen 225x in 1,393,646 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JUS634",
-   "hex": "ab6cc0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MD88</b> - JUS634 (N835US) over US Northeast. Seen 31x in 1,393,667 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH3501",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH3501</b> IAH-LGG (B77L)\n    foreign-to-foreign: IAH (US) \u2192 LGG (BE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRO",
-   "hex": "7c2af2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RV14</b> - IRO (VH-IRO) over Australia. Seen 208x in 1,394,071 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/R8563",
-   "hex": "7cc3b7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EVSS</b> - R8563 (24-8563) over Australia. Seen 209x in 1,394,078 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SKP16",
-   "hex": "7c6287",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8B</b> - SKP16 (VH-TQX) over Australia. Seen 260x in 1,394,109 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY215",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY215</b> IST-GRU-SCL (A359)\n    foreign-to-foreign: GRU (BR) \u2192 SCL (CL)"
-  }
- ],
+ "queue": [],
  "routes": {
   "ARG1141": null,
   "CHH775": null,
@@ -70237,7 +70116,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 23490,
+ "run": 23491,
  "seen": {
   "div:UAL1298": 1795227194.693517,
   "div:UAL1904": 1795227940.929826,
@@ -70245,7 +70124,6 @@
   "ff:ETH3501": 1795242690.095892,
   "ff:ETH552": 1795241086.387348,
   "ff:FDX8": 1795225237.862683,
-  "ff:GTI8694": 1795222877.367207,
   "ff:QFA1": 1795239160.313405,
   "ff:QFA4": 1795228578.508213,
   "ff:QTR8160": 1795241086.387348,
@@ -70274,15 +70152,12 @@
   "rare:733071": 1795240439.751871,
   "rare:7c0367": 1795239160.313405,
   "rare:7c2af2": 1795243011.166037,
-  "rare:7c2bd5": 1795221880.680302,
   "rare:7c4cba": 1795238177.259519,
   "rare:7c5c21": 1795224170.124615,
   "rare:7c6287": 1795243011.166037,
   "rare:7cc3b7": 1795243011.166037,
-  "rare:7cc5b1": 1795221880.680302,
   "rare:8002b1": 1795225237.862683,
   "rare:8017ad": 1795239480.122869,
-  "rare:840d6e": 1795221880.680302,
   "rare:8527e8": 1795237525.122741,
   "rare:863b10": 1795241405.745247,
   "rare:87c854": 1795239805.002838,
@@ -70290,18 +70165,14 @@
   "rare:a12403": 1795238838.064578,
   "rare:a16dd7": 1795223851.453761,
   "rare:a1e676": 1795237203.454956,
-  "rare:a23c70": 1795222877.367207,
   "rare:a520a2": 1795227940.929826,
   "rare:a65835": 1795227194.693517,
   "rare:a74290": 1795227940.929826,
-  "rare:a8e60e": 1795222877.367207,
   "rare:a9cf43": 1795223851.453761,
   "rare:a9f6c2": 1795227194.693517,
   "rare:ab3ba4": 1795227940.929826,
   "rare:ab6cc0": 1795242690.095892,
   "rare:ae0568": 1795237203.454956,
-  "rare:ae0571": 1795222877.367207,
-  "rare:c04937": 1795222877.367207,
   "shape:a98abc:997349": 1795228258.872426,
   "uav:a98ac0": 1795240439.751871,
   "uav:abc123": 1795238838.064578
@@ -70309,7 +70180,7 @@
  "stats": {
   "diversions": 3,
   "emergencies": 0,
-  "finds": 55
+  "finds": 70
  },
  "type_counts": {
   "A109": 1306,
