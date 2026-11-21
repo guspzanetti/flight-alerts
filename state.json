@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795300115.279104,
  "last_green": 1795219242.631349,
- "last_run": "2026-11-21T22:27:32.655961+00:00",
- "last_scan": 1795300052.655961,
- "last_yellow": 1795297112.258955,
+ "last_run": "2026-11-21T23:03:00.289001+00:00",
+ "last_scan": 1795302180.289001,
+ "last_yellow": 1795302180.289001,
  "prev": {
   "00000a": [
    -26.056125,
@@ -29716,88 +29716,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/QTR31T",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QTR31T</b> MXP-ORD (B77L)\n    foreign-to-foreign: MXP (IT) \u2192 ORD (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/F35LTNG",
-   "hex": "af351f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>F35</b> - F35LTNG (DEFAULT) over Gulf. Seen 1x in 1,407,278 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/XE1183",
-   "hex": "a4c0d8",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AT45</b> - XE1183 (N405SV) over US West. Seen 188x in 1,408,270 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FRG9516",
-   "hex": "a67846",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SB20</b> - FRG9516 (N516FR) over US West. Seen 131x in 1,408,440 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/VFR",
-   "hex": "a05070",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ST75</b> - VFR (N1193N) over US West. Seen 99x in 1,408,565 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IVP",
-   "hex": "7c2b83",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LNC4</b> - IVP (VH-IVP) over Australia. Seen 24x in 1,408,755 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/MJE",
-   "hex": "7c3e08",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EXNG</b> - MJE (VH-MJE) over Australia. Seen 21x in 1,408,770 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRN",
-   "hex": "7c2af1",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>R200</b> - IRN (VH-IRN) over Australia. Seen 79x in 1,408,771 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRO",
-   "hex": "7c2af2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>RV14</b> - IRO (VH-IRO) over Australia. Seen 218x in 1,408,774 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SAI",
-   "hex": "7c5b28",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AP32</b> - SAI (VH-SAI) over Australia. Seen 151x in 1,408,831 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AFL1382": {
    "airline": "AFL",
@@ -66956,7 +66875,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 23690,
+ "run": 23691,
  "seen": {
   "div:QTR5U": 1795295102.210001,
   "div:UAL1822": 1795298426.169592,
@@ -67013,7 +66932,7 @@
  "stats": {
   "diversions": 11,
   "emergencies": 2,
-  "finds": 163
+  "finds": 173
  },
  "type_counts": {
   "A109": 1317,
