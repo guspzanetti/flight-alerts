@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795358506.730102,
  "last_green": 1795305651.039422,
- "last_run": "2026-11-22T14:40:44.793459+00:00",
- "last_scan": 1795358361.991477,
- "last_yellow": 1795355950.22215,
+ "last_run": "2026-11-22T14:57:06.197200+00:00",
+ "last_scan": 1795359426.1972,
+ "last_yellow": 1795359426.1972,
  "prev": {
   "00808c": [
    -24.314117,
@@ -33866,120 +33866,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/SAFE03",
-   "hex": "e49d96",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MC01</b> - SAFE03 (PS-SFH) over Brazil. Seen 201x in 1,421,727 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA7979",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA7979</b> DFW-BRU-SHJ-SIN (B744)\n    foreign-to-foreign: DFW (US) \u2192 BRU (BE); BRU (BE) \u2192 SHJ (AE)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GBDGM",
-   "hex": "402010",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TOBA</b> - GBDGM (G-BKBV) over W Europe. Seen 243x in 1,422,116 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NCG01",
-   "hex": "c04a7d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8A</b> - NCG01 (C-GCFK) over W Europe. Seen 187x in 1,422,295 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/OOH59",
-   "hex": "44a3f7",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>MCR1</b> - OOH59 (OO-H59) over W Europe. Seen 43x in 1,422,302 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AFR91ND",
-   "hex": "3950cc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - AFR91ND (F-GUGM) over W Europe. Seen 240x in 1,422,323 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JSD141",
-   "hex": "472fd0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C650</b> - JSD141 (HA-SCU) over W Europe. Seen 277x in 1,422,337 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/PHX58",
-   "hex": "c00804",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>ASTR</b> - PHX58 (C-FDAX) over US Northeast. Seen 145x in 1,422,670 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX6073",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX6073</b> KIX-CAN (B763)\n    foreign-to-foreign: KIX (JP) \u2192 CAN (CN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UTA596",
-   "hex": "151d66",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B735</b> - UTA596 (RA-73062) over Russia. Seen 304x in 1,423,087 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/IRM093",
-   "hex": "7335b5",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A346</b> - IRM093 (EP-MMU) over India. Seen 154x in 1,423,103 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KEM255",
-   "hex": "00869b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJ1</b> - KEM255 (ZS-CMK) over S Africa. Seen 92x in 1,423,277 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY92W",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY92W</b> DUR-JNB-IST (A359)\n    foreign-to-foreign: DUR (ZA) \u2192 JNB (ZA)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UKL5051",
-   "hex": "50815d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AN12</b> - UKL5051 (UR-CAJ) over US Northeast. Seen 1x in 1,423,524 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL1224": null,
   "AAL1262": null,
@@ -71161,7 +71048,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 23942,
+ "run": 23945,
  "seen": {
   "div:AAL586": 1795354259.735038,
   "div:IGO5156": 1795354958.935986,
@@ -71216,7 +71103,7 @@
  "stats": {
   "diversions": 17,
   "emergencies": 0,
-  "finds": 95
+  "finds": 109
  },
  "type_counts": {
   "A109": 1323,
