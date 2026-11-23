@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795416394.623291,
  "last_green": 1795392323.228295,
- "last_run": "2026-11-23T06:45:31.809678+00:00",
- "last_scan": 1795416079.519951,
- "last_yellow": 1795413528.729673,
+ "last_run": "2026-11-23T07:41:02.461892+00:00",
+ "last_scan": 1795419662.461892,
+ "last_yellow": 1795419662.461892,
  "prev": {
   "006041": [
    -25.524126,
@@ -37051,128 +37051,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/RCH5049",
-   "hex": "ae0584",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C5M</b> - RCH5049 (87-0039) over US Northeast. Seen 186x in 1,436,811 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BAW16",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>BAW16</b> SYD-SIN-LHR (B77W)\n    foreign-to-foreign: SYD (AU) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA1",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QFA1</b> SYD-SIN-LHR (A388)\n    foreign-to-foreign: SIN (SG) \u2192 LHR (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/P2TOM",
-   "hex": "c81e04",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BK17</b> - P2TOM (ZK-IPT) over Australia. Seen 111x in 1,437,204 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FIN145",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FIN145</b> HEL-BKK-MEL (A359)\n    foreign-to-foreign: BKK (TH) \u2192 MEL (AU)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AZS1724",
-   "hex": "152c2a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>IL76</b> - AZS1724 (RA-76842) over India. Seen 73x in 1,437,246 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/RRR7223",
-   "hex": "43c38c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>R135</b> - RRR7223 (ZZ664) over W Europe. Seen 56x in 1,437,353 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AFR65YG",
-   "hex": "3950cd",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - AFR65YG (F-GUGN) over W Europe. Seen 242x in 1,437,464 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/OYO3",
-   "hex": "39c913",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - OYO3 (F-HSIT) over W Europe. Seen 287x in 1,437,465 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5148",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5148</b> BKK-SIN (B763)\n    foreign-to-foreign: BKK (TH) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CJT1808",
-   "hex": "c023e4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CH7A</b> - CJT1808 (C-FNPJ) over Japan. Seen 180x in 1,437,696 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/KEM205",
-   "hex": "00869b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJ1</b> - KEM205 (ZS-CMK) over S Africa. Seen 93x in 1,437,871 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UNIDENT",
-   "hex": "a98ace",
-   "icon": "\ud83d\udef8",
-   "kind": "UAV",
-   "photo": true,
-   "text": "<b>UNIDENT</b> - unmanned aircraft at 13,975 ft over Gulf"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/YASAT11",
-   "hex": "89602a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - YASAT11 (1207) over Gulf. Seen 288x in 1,438,178 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY215",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY215</b> IST-GRU-SCL (A359)\n    foreign-to-foreign: GRU (BR) \u2192 SCL (CL)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL878": null,
   "AZU8756": {
@@ -74388,7 +74267,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 24215,
+ "run": 24216,
  "seen": {
   "div:IGO7671": 1795410977.342419,
   "div:UAL2077": 1795410328.851847,
@@ -74425,7 +74304,6 @@
   "rare:7cf8f5": 1795412899.674083,
   "rare:7cf98d": 1795410658.956662,
   "rare:7cfa97": 1795412899.674083,
-  "rare:840d6e": 1795394898.87544,
   "rare:8527e8": 1795399726.774912,
   "rare:89602a": 1795415761.570279,
   "rare:8a0a84": 1795413528.729673,
@@ -74442,7 +74320,7 @@
  "stats": {
   "diversions": 4,
   "emergencies": 0,
-  "finds": 45
+  "finds": 60
  },
  "type_counts": {
   "A109": 1326,
