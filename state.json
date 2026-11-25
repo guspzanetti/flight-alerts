@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795624677.96429,
  "last_green": 1795581414.269292,
- "last_run": "2026-11-25T17:02:59.757068+00:00",
- "last_scan": 1795625993.006159,
- "last_yellow": 1795622922.841187,
+ "last_run": "2026-11-25T17:21:39.360097+00:00",
+ "last_scan": 1795627299.360097,
+ "last_yellow": 1795627299.360097,
  "prev": {
   "006041": [
    -25.796722,
@@ -32471,200 +32471,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/CFS8693",
-   "hex": "aa3c0b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>C408</b> - CFS8693 (N759FX) over US West. Seen 51x in 1,468,730 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/00000000",
-   "hex": "0d0665",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CVLT</b> - 00000000 (XA-UPL) over US West. Seen 3x in 1,468,938 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/WARBEVR5",
-   "hex": "a00a60",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SC7</b> - WARBEVR5 (N101WA) over US West. Seen 186x in 1,469,011 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/WARBEVR4",
-   "hex": "a4a920",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SC7</b> - WARBEVR4 (N4NE) over US West. Seen 187x in 1,469,024 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/YASAT10",
-   "hex": "89602a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - YASAT10 (1207) over Gulf. Seen 299x in 1,469,256 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ESPADAS1",
-   "hex": "e49923",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>TUCA</b> - ESPADAS1 (FAB1446) over Brazil. Seen 206x in 1,469,315 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/JEI131",
-   "hex": "3cd003",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>LJ55</b> - JEI131 (D-CGBR) over W Europe. Seen 36x in 1,469,669 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NTF792K",
-   "hex": "49d54a",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>M600</b> - NTF792K (OK-KOO) over W Europe. Seen 129x in 1,469,800 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/QFA1",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>QFA1</b> SYD-SIN-LHR (A388)\n    foreign-to-foreign: SIN (SG) \u2192 LHR (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SDM6827",
-   "hex": "155c0f",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6827 (RA-89103) over Russia. Seen 220x in 1,469,898 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SDM6225",
-   "hex": "155bbe",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6225 (RA-89022) over Russia. Seen 221x in 1,469,901 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/GRYDR43",
-   "hex": "a524bc",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B430</b> - GRYDR43 (N430SP) over US Northeast. Seen 61x in 1,470,560 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/0509TEST",
-   "hex": "ad6f69",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DH8B</b> - 0509TEST (N965HA) over US West. Seen 269x in 1,470,909 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ACA774",
-   "hex": "c08189",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>BK17</b> - ACA774 (C-GXBK) over US West. Seen 123x in 1,470,996 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/DESRT159",
-   "hex": "a1d8e4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>M20T</b> - DESRT159 (N218TA) over US West. Seen 89x in 1,471,363 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ULC6X",
-   "hex": "4d2018",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>FA6X</b> - ULC6X (9H-DINA) over W Europe. Seen 142x in 1,471,644 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/CHAOS044",
-   "hex": "43c7b0",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EUFI</b> - CHAOS044 (ZK439) over W Europe. Seen 211x in 1,471,753 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/HKS78",
-   "hex": "40773e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EC75</b> - HKS78 (G-EMED) over W Europe. Seen 212x in 1,471,758 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/NIGHTM51",
-   "hex": "43c70b",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>EUFI</b> - NIGHTM51 (ZK349) over W Europe. Seen 212x in 1,471,763 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ANE1343",
-   "hex": "345687",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>CRJX</b> - ANE1343 (EC-MTZ) over W Europe. Seen 263x in 1,471,769 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/AFR54XM",
-   "hex": "3950ce",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A318</b> - AFR54XM (F-GUGO) over W Europe. Seen 251x in 1,471,794 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/TRITN04",
-   "hex": "44f6a3",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>NH90</b> - TRITN04 (RN-04) over W Europe. Seen 60x in 1,471,814 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BGA231Y",
-   "hex": "395d68",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>A337</b> - BGA231Y (F-GXLI) over W Europe. Seen 191x in 1,471,886 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE9393",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE9393</b> DWC-LGG-ORD (B77L)\n    foreign-to-foreign: LGG (BE) \u2192 ORD (US)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAR177": null,
   "ANA877": null,
@@ -69608,7 +69415,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 24785,
+ "run": 24786,
  "seen": {
   "div:UAL1190": 1795624951.12464,
   "div:UAL1357": 1795624951.12464,
@@ -69689,7 +69496,7 @@
  "stats": {
   "diversions": 8,
   "emergencies": 4,
-  "finds": 86
+  "finds": 110
  },
  "type_counts": {
   "A109": 1357,
