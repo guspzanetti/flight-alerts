@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795774561.706321,
  "last_green": 1795759401.484763,
- "last_run": "2026-11-27T08:36:24.742819+00:00",
- "last_scan": 1795768584.742819,
- "last_yellow": 1795766902.975956,
+ "last_run": "2026-11-27T10:47:00.483774+00:00",
+ "last_scan": 1795776420.483774,
+ "last_yellow": 1795776420.483774,
  "prev": {
   "00000a": [
    -26.055986,
@@ -38601,24 +38601,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/SDM6059",
-   "hex": "155c2d",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SU95</b> - SDM6059 (RA-89133) over Russia. Seen 224x in 1,492,420 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/82478",
-   "hex": "154c31",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>T154</b> - 82478 (RA-85041) over Russia. Seen 28x in 1,492,429 observations"
-  }
- ],
+ "queue": [],
  "routes": {
   "AFL1150": {
    "airline": "AFL",
@@ -75494,7 +75477,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 25235,
+ "run": 25236,
  "seen": {
   "ff:BOX734": 1795763634.403288,
   "ff:CHH7925": 1795762327.759854,
@@ -75565,7 +75548,7 @@
  "stats": {
   "diversions": 0,
   "emergencies": 0,
-  "finds": 63
+  "finds": 65
  },
  "type_counts": {
   "A109": 1389,
