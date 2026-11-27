@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795749077.538195,
  "last_green": 1795668801.381802,
- "last_run": "2026-11-27T02:09:29.864894+00:00",
- "last_scan": 1795745369.864894,
- "last_yellow": 1795743115.72631,
+ "last_run": "2026-11-27T03:49:46.229109+00:00",
+ "last_scan": 1795751386.229109,
+ "last_yellow": 1795751386.229109,
  "prev": {
   "00000a": [
    -26.055986,
@@ -25171,104 +25171,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/UPS232",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UPS232</b> CGN-EMA-PHL (B763)\n    foreign-to-foreign: CGN (DE) \u2192 EMA (GB)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/SIA7951",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>SIA7951</b> DFW-BRU-BOM-SIN (B744)\n    foreign-to-foreign: DFW (US) \u2192 BRU (BE); BRU (BE) \u2192 BOM (IN)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/WJA2951",
-   "hex": "c07b8c",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B37M</b> - WJA2951 (C-GUUL) over US Northeast. Seen 78x in 1,486,993 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE34E",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE34E</b> DXB-ATH-EWR (B77W)\n    foreign-to-foreign: ATH (GR) \u2192 EWR (US)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX6074",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX6074</b> CAN-KIX (B763)\n    foreign-to-foreign: CAN (CN) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL150",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL150</b> KIX-GUM (B38M)\n    foreign-to-foreign: KIX (JP) \u2192 GUM (GU)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FDX5178",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>FDX5178</b> PVG-KIX-ANC-MEM (B77L)\n    foreign-to-foreign: PVG (CN) \u2192 KIX (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BFLO47",
-   "hex": "7cf9d4",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P8</b> - BFLO47 (A47-010) over Australia. Seen 166x in 1,487,215 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/LCW",
-   "hex": "7c380e",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>COL4</b> - LCW (VH-LCW) over Australia. Seen 295x in 1,487,244 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UJN",
-   "hex": "7c6691",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>AC50</b> - UJN (VH-UJN) over Australia. Seen 45x in 1,487,253 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/BSC4014",
-   "hex": "601103",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>B742</b> - BSC4014 (EX-47004) over Gulf. Seen 125x in 1,487,398 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAE256",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAE256</b> MEX-BCN-DXB (B77L)\n    foreign-to-foreign: MEX (MX) \u2192 BCN (ES)"
-  }
- ],
+ "queue": [],
  "routes": {
   "DAL585": null,
   "ETD124": null,
@@ -62195,7 +62098,7 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 25112,
+ "run": 25113,
  "seen": {
   "div:GLO2070": 1795743758.198335,
   "div:UAL1805": 1795737143.230632,
@@ -62258,7 +62161,7 @@
  "stats": {
   "diversions": 7,
   "emergencies": 1,
-  "finds": 95
+  "finds": 107
  },
  "type_counts": {
   "A109": 1385,
