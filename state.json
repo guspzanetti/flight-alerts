@@ -1,9 +1,9 @@
 {
  "last_feed_warn": 1795845821.272169,
- "last_green": 1795759401.484763,
- "last_run": "2026-11-28T05:24:57.397904+00:00",
- "last_scan": 1795843497.397904,
- "last_yellow": 1795840352.971554,
+ "last_green": 1795847404.922989,
+ "last_run": "2026-11-28T06:30:04.922989+00:00",
+ "last_scan": 1795847404.922989,
+ "last_yellow": 1795847404.922989,
  "prev": {
   "004006": [
    -26.064377,
@@ -37011,72 +37011,7 @@
    1792833556.333722
   ]
  },
- "queue": [
-  {
-   "fr24": "https://www.flightradar24.com/BAW15",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>BAW15</b> LHR-SIN-SYD (B77W)\n    foreign-to-foreign: SIN (SG) \u2192 SYD (AU)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/9MVEV",
-   "hex": "750437",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>P180</b> - 9MVEV (9M-VEV) over SE Asia. Seen 306x in 1,504,924 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/UAL33",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>UAL33</b> CEB-NRT-LAX (B38M)\n    foreign-to-foreign: CEB (PH) \u2192 NRT (JP)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/FRG9508",
-   "hex": "a65835",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>SB20</b> - FRG9508 (N508FR) over US West. Seen 142x in 1,505,179 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/@@@@@@@@",
-   "hex": "ab72b2",
-   "icon": "\u2728",
-   "kind": "RARE",
-   "photo": true,
-   "text": "<b>DRON</b> - @@@@@@@@ (N837DM) over Gulf. Seen 2x in 1,505,493 observations"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY169",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY169</b> MEL-SIN-IST (A359)\n    foreign-to-foreign: MEL (AU) \u2192 SIN (SG)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/THY16",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>THY16</b> EZE-GRU-IST (A359)\n    foreign-to-foreign: EZE (AR) \u2192 GRU (BR)"
-  },
-  {
-   "fr24": "https://www.flightradar24.com/ETH507",
-   "hex": null,
-   "icon": "\ud83c\udf0d",
-   "kind": "ROUTE",
-   "photo": false,
-   "text": "<b>ETH507</b> EZE-GRU (B77L)\n    foreign-to-foreign: EZE (AR) \u2192 GRU (BR)"
-  }
- ],
+ "queue": [],
  "routes": {
   "AAL2656": null,
   "AAL302": null,
@@ -73913,15 +73848,13 @@
   "YANKE41": null,
   "YUBTC": null
  },
- "run": 25475,
+ "run": 25476,
  "seen": {
   "div:UAL1109": 1795836754.519108,
   "div:UAL1133": 1795826248.831368,
   "div:UAL2247": 1795841962.343647,
-  "div:UAL592": 1795824630.431172,
   "ff:ACA90": 1795840013.669525,
   "ff:BAW15": 1795840675.150556,
-  "ff:BAW249": 1795824630.431172,
   "ff:CSN435": 1795838744.113258,
   "ff:ETH507": 1795841962.343647,
   "ff:QFA7583": 1795840352.971554,
@@ -73930,9 +73863,7 @@
   "ff:TAY4PO": 1795826904.899983,
   "ff:THY16": 1795841962.343647,
   "ff:THY169": 1795841642.228374,
-  "ff:THY52": 1795825287.315882,
   "ff:UAE248": 1795838102.573163,
-  "ff:UAE5CL": 1795825606.042181,
   "ff:UAE6M": 1795837784.298839,
   "ff:UAL150": 1795837131.98963,
   "ff:UAL33": 1795841004.770716,
@@ -73942,42 +73873,33 @@
   "ff:UPS64": 1795837131.98963,
   "rare:008e65": 1795837463.436016,
   "rare:0d05d8": 1795825930.914003,
-  "rare:0d0645": 1795824283.736485,
   "rare:0d067e": 1795838102.573163,
   "rare:14f126": 1795839062.705575,
-  "rare:14fa33": 1795825287.315882,
   "rare:14fc09": 1795839062.705575,
-  "rare:15409f": 1795823962.503485,
   "rare:3c1bad": 1795836754.519108,
   "rare:508015": 1795827223.108454,
-  "rare:706067": 1795823962.503485,
   "rare:750437": 1795841004.770716,
   "rare:7c28e1": 1795837131.98963,
   "rare:7c4511": 1795826576.275496,
-  "rare:7c498f": 1795824957.88218,
   "rare:7c5d89": 1795838744.113258,
-  "rare:7cc45c": 1795824957.88218,
   "rare:8404f3": 1795838744.113258,
   "rare:84060f": 1795838744.113258,
   "rare:840d6e": 1795827223.108454,
-  "rare:8413fa": 1795824957.88218,
   "rare:a19991": 1795826248.831368,
   "rare:a57298": 1795826248.831368,
   "rare:a65835": 1795841642.228374,
   "rare:a67846": 1795836754.519108,
   "rare:a6dfe7": 1795826248.831368,
   "rare:ab72b2": 1795841642.228374,
-  "rare:add660": 1795824630.431172,
   "rare:ae0559": 1795836754.519108,
-  "rare:ae057c": 1795824630.431172,
   "rare:c08179": 1795840013.669525,
   "uav:a98ac9": 1795837784.298839,
   "uav:abc123": 1795837784.298839
  },
  "stats": {
-  "diversions": 12,
+  "diversions": 0,
   "emergencies": 0,
-  "finds": 152
+  "finds": 0
  },
  "type_counts": {
   "A109": 1398,
